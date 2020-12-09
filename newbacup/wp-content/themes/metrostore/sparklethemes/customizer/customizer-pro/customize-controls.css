@@ -1,0 +1,25 @@
+#customize-controls .control-section-metrostore .accordion-section-title:hover,
+#customize-controls .control-section-metrostore .accordion-section-title:focus {
+	background-color: #fff;
+}
+
+.rtl .control-section-metrostore .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+
+.control-section-metrostore .accordion-section-title .button {
+  font-weight: 700;
+  margin-left: 8px;
+  border-color: #ff0202;
+  background-color: #ff0202;
+  color: #fff;
+}
+
+.control-section-metrostore .accordion-section-title .button:hover {
+  background-color: #ff0202;
+  border-color: #ff0202;
+}
+#accordion-section-metrostore .accordion-section-title:before{
+    content: '';
+}

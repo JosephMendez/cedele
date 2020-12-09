@@ -1,0 +1,27 @@
+.jconfirm.jconfirm-light {
+  .jconfirm-box{
+    text-align: center;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    div.jconfirm-title-c{
+      display: inline-block;
+      vertical-align: middle;
+    }
+    div.jconfirm-content-pane{
+      width: auto;
+      vertical-align: middle;
+      font-family: $subFont;
+    }
+    .jconfirm-buttons{
+      display: none;
+    }
+  }
+}
+
+.jconfirm .jconfirm-cell{
+  display: block;
+}
+
+.jconfirm .jconfirm-holder{
+  padding-top: 120px!important;
+}

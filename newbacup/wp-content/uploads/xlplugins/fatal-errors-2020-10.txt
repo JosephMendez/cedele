@@ -1,0 +1,309 @@
+
+Oct 05, 2020 02.56.29: Uncaught Error: Call to a member function get_payment_method() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/checkout/thankyou.php:19
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(257): wc_get_template('checkout/thanky...', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(2125)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_shortcode_tag(Array)
+#7 /var/www/html/wp-includes/shortcodes.php(218): preg_repla
+
+Oct 06, 2020 04.24.23: Uncaught Error: Call to a member function get_id() on bool in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:1017
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): {closure}(false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters(false, Array)
+#2 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-order-product-fields.php(318): apply_filters('woe_get_order_p...', false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1605): WC_Order_Export_Order_Product_Fields->get('department')
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1680): WC_Order_Export_Data_Extractor::fetch_order_products(Object(WC_Order), Object(WC_Order_Export_Labels), Array, Array, Object(WC_Order_Export_O
+
+Oct 06, 2020 04.24.53: Uncaught Error: Call to a member function get_id() on bool in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:1017
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): {closure}(false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters(false, Array)
+#2 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-order-product-fields.php(318): apply_filters('woe_get_order_p...', false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1605): WC_Order_Export_Order_Product_Fields->get('department')
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1680): WC_Order_Export_Data_Extractor::fetch_order_products(Object(WC_Order), Object(WC_Order_Export_Labels), Array, Array, Object(WC_Order_Export_O
+
+Oct 07, 2020 10.40.55: Uncaught Error: Call to a member function get_payment_method() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/checkout/thankyou.php:19
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(257): wc_get_template('checkout/thanky...', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(2154)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_shortcode_tag(Array)
+#7 /var/www/html/wp-includes/shortcodes.php(218): preg_repla
+
+Oct 08, 2020 09.17.18: Uncaught Error: Call to a member function get_id() on bool in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:1031
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): {closure}(false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters(false, Array)
+#2 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-order-product-fields.php(318): apply_filters('woe_get_order_p...', false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1605): WC_Order_Export_Order_Product_Fields->get('department')
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1680): WC_Order_Export_Data_Extractor::fetch_order_products(Object(WC_Order), Object(WC_Order_Export_Labels), Array, Array, Object(WC_Order_Export_O
+
+Oct 13, 2020 02.03.03: Uncaught Error: Call to a member function get() on null in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php:591
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(270): wc_get_template('emails/admin-ne...', Array, '', '')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(118): wc_get_template_html('emails/admin-ne...', Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email.php(541): WC_Email_New_Order->get_content_html()
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(98): WC_Email->get_content()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_Email_New_Order->trigger(2797, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /va
+
+Oct 14, 2020 09.05.07: Uncaught Error: Call to a member function get_id() on bool in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:1083
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): {closure}(false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters(false, Array)
+#2 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-order-product-fields.php(318): apply_filters('woe_get_order_p...', false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1605): WC_Order_Export_Order_Product_Fields->get('department')
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1680): WC_Order_Export_Data_Extractor::fetch_order_products(Object(WC_Order), Object(WC_Order_Export_Labels), Array, Array, Object(WC_Order_Export_O
+
+Oct 15, 2020 02.11.27: Uncaught RuntimeException: Failed to fetch media due to an error from Instagram's API: The Instagram API responded with an error: Error #2 [OAuthException]: An unexpected error has occurred. Please retry your request later. in /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/MediaStore/MediaStore.php:145
+Stack trace:
+#0 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Actions/ImportMediaAction.php(54): RebelCode\Spotlight\Instagram\MediaStore\MediaStore->getFeedMedia(Object(RebelCode\Spotlight\Instagram\Feeds\Feed))
+#1 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Utils/Arrays.php(100): RebelCode\Spotlight\Instagram\Actions\ImportMediaAction->RebelCode\Spotlight\Instagram\Actions\{closure}(Object(WP_Post), 0)
+#2 [internal function]: RebelCode\Spotlight\Instagram\Utils\Arrays::RebelCode\Spotlight\Instagram\Utils\{closure}(Object(WP_Post), 0)
+#3 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Utils/Arrays
+
+Oct 15, 2020 16.28.24: Uncaught PHPExcel_Exception: Start row (32) is beyond highest row (26) in /var/www/html/wp-content/themes/understrap/inc/PHPExcel/Worksheet/RowIterator.php:93
+Stack trace:
+#0 /var/www/html/wp-content/themes/understrap/inc/PHPExcel/Worksheet/RowIterator.php(72): PHPExcel_Worksheet_RowIterator->resetStart('32')
+#1 /var/www/html/wp-content/themes/understrap/inc/PHPExcel/Worksheet.php(2579): PHPExcel_Worksheet_RowIterator->__construct(Object(PHPExcel_Worksheet), '32', '10')
+#2 /var/www/html/wp-content/plugins/cedele-setting/includes/form-migrate-data.php(65): PHPExcel_Worksheet->getRowIterator('32', '10')
+#3 /var/www/html/wp-content/plugins/cedele-setting/ajax/ajax.php(180): read_and_create_excel_file('/var/www/html/w...', '32', '10')
+#4 /var/www/html/wp-includes/class-wp-hook.php(287): ajax_cdls_migrate_data_func('')
+#5 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#6 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#7 /var/www/html/wp-admin/admin-ajax.ph
+
+Oct 15, 2020 16.28.24: Uncaught PHPExcel_Exception: Start row (42) is beyond highest row (26) in /var/www/html/wp-content/themes/understrap/inc/PHPExcel/Worksheet/RowIterator.php:93
+Stack trace:
+#0 /var/www/html/wp-content/themes/understrap/inc/PHPExcel/Worksheet/RowIterator.php(72): PHPExcel_Worksheet_RowIterator->resetStart('42')
+#1 /var/www/html/wp-content/themes/understrap/inc/PHPExcel/Worksheet.php(2579): PHPExcel_Worksheet_RowIterator->__construct(Object(PHPExcel_Worksheet), '42', '10')
+#2 /var/www/html/wp-content/plugins/cedele-setting/includes/form-migrate-data.php(65): PHPExcel_Worksheet->getRowIterator('42', '10')
+#3 /var/www/html/wp-content/plugins/cedele-setting/ajax/ajax.php(180): read_and_create_excel_file('/var/www/html/w...', '42', '10')
+#4 /var/www/html/wp-includes/class-wp-hook.php(287): ajax_cdls_migrate_data_func('')
+#5 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#6 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#7 /var/www/html/wp-admin/admin-ajax.ph
+
+Oct 15, 2020 16.28.24: Uncaught PHPExcel_Exception: Start row (52) is beyond highest row (26) in /var/www/html/wp-content/themes/understrap/inc/PHPExcel/Worksheet/RowIterator.php:93
+Stack trace:
+#0 /var/www/html/wp-content/themes/understrap/inc/PHPExcel/Worksheet/RowIterator.php(72): PHPExcel_Worksheet_RowIterator->resetStart('52')
+#1 /var/www/html/wp-content/themes/understrap/inc/PHPExcel/Worksheet.php(2579): PHPExcel_Worksheet_RowIterator->__construct(Object(PHPExcel_Worksheet), '52', '10')
+#2 /var/www/html/wp-content/plugins/cedele-setting/includes/form-migrate-data.php(65): PHPExcel_Worksheet->getRowIterator('52', '10')
+#3 /var/www/html/wp-content/plugins/cedele-setting/ajax/ajax.php(180): read_and_create_excel_file('/var/www/html/w...', '52', '10')
+#4 /var/www/html/wp-includes/class-wp-hook.php(287): ajax_cdls_migrate_data_func('')
+#5 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#6 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#7 /var/www/html/wp-admin/admin-ajax.ph
+
+Oct 16, 2020 09.55.05: Uncaught RuntimeException: Failed to fetch media due to an error from Instagram's API: The Instagram API responded with an error: Error #2 [OAuthException]: An unexpected error has occurred. Please retry your request later. in /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/MediaStore/MediaStore.php:145
+Stack trace:
+#0 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Actions/ImportMediaAction.php(54): RebelCode\Spotlight\Instagram\MediaStore\MediaStore->getFeedMedia(Object(RebelCode\Spotlight\Instagram\Feeds\Feed))
+#1 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Utils/Arrays.php(100): RebelCode\Spotlight\Instagram\Actions\ImportMediaAction->RebelCode\Spotlight\Instagram\Actions\{closure}(Object(WP_Post), 0)
+#2 [internal function]: RebelCode\Spotlight\Instagram\Utils\Arrays::RebelCode\Spotlight\Instagram\Utils\{closure}(Object(WP_Post), 0)
+#3 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Utils/Arrays
+
+Oct 21, 2020 12.55.28: Uncaught Error: Call to a member function get_id() on bool in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:1083
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): {closure}(false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters(false, Array)
+#2 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-order-product-fields.php(318): apply_filters('woe_get_order_p...', false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1605): WC_Order_Export_Order_Product_Fields->get('department')
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1680): WC_Order_Export_Data_Extractor::fetch_order_products(Object(WC_Order), Object(WC_Order_Export_Labels), Array, Array, Object(WC_Order_Export_O
+
+Oct 21, 2020 12.57.43: Uncaught Error: Call to a member function get_id() on bool in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:1083
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): {closure}(false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters(false, Array)
+#2 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-order-product-fields.php(318): apply_filters('woe_get_order_p...', false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1605): WC_Order_Export_Order_Product_Fields->get('department')
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1680): WC_Order_Export_Data_Extractor::fetch_order_products(Object(WC_Order), Object(WC_Order_Export_Labels), Array, Array, Object(WC_Order_Export_O
+
+Oct 24, 2020 10.43.45: Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:317
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): out_of_stock_read_more_url('Add to cart', Object(WC_Product_Simple))
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Add to cart', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Add to cart', Object(WC_Product_Simple))
+#3 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/RestApi/Controllers/Products.php(223): WC_Product_Simple->add_to_cart_text()
+#4 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-products-v2-controller.php(162): Automattic\WooCommerce\Blocks\RestApi\Controllers\Products->get_product_data(Object(WC_Product_Simple), 'view')
+#5 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/
+
+Oct 24, 2020 10.43.56: Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:317
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): out_of_stock_read_more_url('Add to cart', Object(WC_Product_Simple))
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Add to cart', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Add to cart', Object(WC_Product_Simple))
+#3 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(473): WC_Product_Simple->add_to_cart_text()
+#4 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(446): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->get_add_to_cart(Object(WC_Product_Simple))
+#5 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(3
+
+Oct 24, 2020 10.44.56: Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:317
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): out_of_stock_read_more_url('Add to cart', Object(WC_Product_Simple))
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Add to cart', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Add to cart', Object(WC_Product_Simple))
+#3 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(473): WC_Product_Simple->add_to_cart_text()
+#4 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(446): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->get_add_to_cart(Object(WC_Product_Simple))
+#5 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(3
+
+Oct 24, 2020 10.47.33: Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:317
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): out_of_stock_read_more_url('Add to cart', Object(WC_Product_Simple))
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Add to cart', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Add to cart', Object(WC_Product_Simple))
+#3 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/RestApi/Controllers/Products.php(223): WC_Product_Simple->add_to_cart_text()
+#4 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-products-v2-controller.php(162): Automattic\WooCommerce\Blocks\RestApi\Controllers\Products->get_product_data(Object(WC_Product_Simple), 'view')
+#5 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/
+
+Oct 24, 2020 10.47.40: Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:317
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): out_of_stock_read_more_url('Add to cart', Object(WC_Product_Simple))
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Add to cart', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Add to cart', Object(WC_Product_Simple))
+#3 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(473): WC_Product_Simple->add_to_cart_text()
+#4 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(446): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->get_add_to_cart(Object(WC_Product_Simple))
+#5 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(3
+
+Oct 24, 2020 10.47.47: Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:317
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): out_of_stock_read_more_url('Add to cart', Object(WC_Product_Simple))
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Add to cart', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Add to cart', Object(WC_Product_Simple))
+#3 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(473): WC_Product_Simple->add_to_cart_text()
+#4 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(446): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->get_add_to_cart(Object(WC_Product_Simple))
+#5 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(3
+
+Oct 24, 2020 10.48.01: Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:317
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): out_of_stock_read_more_url('Add to cart', Object(WC_Product_Simple))
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Add to cart', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Add to cart', Object(WC_Product_Simple))
+#3 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/RestApi/Controllers/Products.php(223): WC_Product_Simple->add_to_cart_text()
+#4 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-products-v2-controller.php(162): Automattic\WooCommerce\Blocks\RestApi\Controllers\Products->get_product_data(Object(WC_Product_Simple), 'view')
+#5 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/
+
+Oct 24, 2020 10.51.31: Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:317
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): out_of_stock_read_more_url('Add to cart', Object(WC_Product_Simple))
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Add to cart', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Add to cart', Object(WC_Product_Simple))
+#3 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/RestApi/Controllers/Products.php(223): WC_Product_Simple->add_to_cart_text()
+#4 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-products-v2-controller.php(162): Automattic\WooCommerce\Blocks\RestApi\Controllers\Products->get_product_data(Object(WC_Product_Simple), 'view')
+#5 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/
+
+Oct 24, 2020 10.52.31: Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:317
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): out_of_stock_read_more_url('Add to cart', Object(WC_Product_Simple))
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Add to cart', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Add to cart', Object(WC_Product_Simple))
+#3 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(473): WC_Product_Simple->add_to_cart_text()
+#4 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(446): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->get_add_to_cart(Object(WC_Product_Simple))
+#5 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(3
+
+Oct 24, 2020 10.52.32: Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:317
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): out_of_stock_read_more_url('Add to cart', Object(WC_Product_Simple))
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Add to cart', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Add to cart', Object(WC_Product_Simple))
+#3 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(473): WC_Product_Simple->add_to_cart_text()
+#4 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(446): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->get_add_to_cart(Object(WC_Product_Simple))
+#5 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(3
+
+Oct 24, 2020 10.53.27: Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:317
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): out_of_stock_read_more_url('Add to cart', Object(WC_Product_Simple))
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Add to cart', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Add to cart', Object(WC_Product_Simple))
+#3 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(473): WC_Product_Simple->add_to_cart_text()
+#4 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(446): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->get_add_to_cart(Object(WC_Product_Simple))
+#5 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(3
+
+Oct 24, 2020 10.54.27: Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:317
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): out_of_stock_read_more_url('Add to cart', Object(WC_Product_Simple))
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Add to cart', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Add to cart', Object(WC_Product_Simple))
+#3 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(473): WC_Product_Simple->add_to_cart_text()
+#4 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(446): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->get_add_to_cart(Object(WC_Product_Simple))
+#5 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(3
+
+Oct 24, 2020 10.54.28: Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:317
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): out_of_stock_read_more_url('Add to cart', Object(WC_Product_Simple))
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Add to cart', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Add to cart', Object(WC_Product_Simple))
+#3 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(473): WC_Product_Simple->add_to_cart_text()
+#4 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(446): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->get_add_to_cart(Object(WC_Product_Simple))
+#5 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(3
+
+Oct 24, 2020 10.55.40: Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:317
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): out_of_stock_read_more_url('Add to cart', Object(WC_Product_Simple))
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Add to cart', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Add to cart', Object(WC_Product_Simple))
+#3 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/RestApi/Controllers/Products.php(223): WC_Product_Simple->add_to_cart_text()
+#4 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-products-v2-controller.php(162): Automattic\WooCommerce\Blocks\RestApi\Controllers\Products->get_product_data(Object(WC_Product_Simple), 'view')
+#5 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/
+
+Oct 30, 2020 09.04.33: Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:317
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): out_of_stock_read_more_url('Add to cart', Object(WC_Product_Simple))
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Add to cart', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Add to cart', Object(WC_Product_Simple))
+#3 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/RestApi/Controllers/Products.php(223): WC_Product_Simple->add_to_cart_text()
+#4 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-products-v2-controller.php(162): Automattic\WooCommerce\Blocks\RestApi\Controllers\Products->get_product_data(Object(WC_Product_Simple), 'view')
+#5 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/
+
+Oct 30, 2020 09.04.39: Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:317
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): out_of_stock_read_more_url('Add to cart', Object(WC_Product_Simple))
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Add to cart', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Add to cart', Object(WC_Product_Simple))
+#3 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/RestApi/Controllers/Products.php(223): WC_Product_Simple->add_to_cart_text()
+#4 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-products-v2-controller.php(162): Automattic\WooCommerce\Blocks\RestApi\Controllers\Products->get_product_data(Object(WC_Product_Simple), 'view')
+#5 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/
+
+Oct 30, 2020 09.26.00: Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:317
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): out_of_stock_read_more_url('Add to cart', Object(WC_Product_Simple))
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Add to cart', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Add to cart', Object(WC_Product_Simple))
+#3 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/RestApi/Controllers/Products.php(223): WC_Product_Simple->add_to_cart_text()
+#4 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-products-v2-controller.php(162): Automattic\WooCommerce\Blocks\RestApi\Controllers\Products->get_product_data(Object(WC_Product_Simple), 'view')
+#5 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/
+
+Oct 30, 2020 09.37.31: Maximum execution time of 30 seconds exceeded
+
+Oct 30, 2020 09.38.07: Maximum execution time of 30 seconds exceeded
+
+Oct 30, 2020 09.45.41: Maximum execution time of 30 seconds exceeded
+
+Oct 30, 2020 09.46.06: Maximum execution time of 30 seconds exceeded
+
+Oct 30, 2020 09.46.32: Maximum execution time of 30 seconds exceeded
+
+Oct 30, 2020 09.46.58: Maximum execution time of 30 seconds exceeded
+
+Oct 30, 2020 09.47.24: Maximum execution time of 30 seconds exceeded
+
+Oct 30, 2020 09.47.49: Maximum execution time of 30 seconds exceeded
+
+Oct 30, 2020 10.20.45: Maximum execution time of 30 seconds exceeded
+
+Oct 30, 2020 10.21.12: Maximum execution time of 30 seconds exceeded
+
+Oct 30, 2020 10.21.39: Maximum execution time of 30 seconds exceeded
+
+Oct 30, 2020 10.22.07: Maximum execution time of 30 seconds exceeded
+
+Oct 30, 2020 10.22.35: Maximum execution time of 30 seconds exceeded
+
+Oct 30, 2020 10.23.02: Maximum execution time of 30 seconds exceeded

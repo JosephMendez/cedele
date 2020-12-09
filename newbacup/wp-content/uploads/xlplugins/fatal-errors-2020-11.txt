@@ -1,0 +1,487 @@
+
+Nov 03, 2020 07.05.52: Uncaught Exception: DateTime::__construct(): Failed to parse time string (danwwjd@yahoo.com.sg) at position 0 (d): The timezone could not be found in the database in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:64
+Stack trace:
+#0 /var/www/html/wp-content/themes/understrap/edenred-system-user.php(64): DateTime->__construct('danwwjd@yahoo.c...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): {closure}(7045, Object(WP_User))
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-includes/user.php(1874): do_action('profile_update', 7045, Object(WP_User))
+#5 /var/www/html/wp-includes/user.php(1995): wp_insert_user(Array)
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(308): wp_update_user(Array)
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): WC_Form_Handler::save_account_details('')
+#8 /var/www/html/wp-includes/class-wp-ho
+
+Nov 03, 2020 08.44.31: Uncaught Exception: DateTime::__construct(): Failed to parse time string (john.daisy.ramsay@gmail.com) at position 0 (j): The timezone could not be found in the database in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:64
+Stack trace:
+#0 /var/www/html/wp-content/themes/understrap/edenred-system-user.php(64): DateTime->__construct('john.daisy.rams...')
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): {closure}(7160, Object(WP_User))
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-includes/user.php(1874): do_action('profile_update', 7160, Object(WP_User))
+#5 /var/www/html/wp-includes/user.php(1995): wp_insert_user(Array)
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(308): wp_update_user(Array)
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): WC_Form_Handler::save_account_details('')
+#8 /var/www/html/wp-includes/clas
+
+Nov 05, 2020 17.40.07: Maximum execution time of 30 seconds exceeded
+
+Nov 05, 2020 17.40.33: Maximum execution time of 30 seconds exceeded
+
+Nov 05, 2020 17.40.59: Maximum execution time of 30 seconds exceeded
+
+Nov 05, 2020 17.41.24: Maximum execution time of 30 seconds exceeded
+
+Nov 05, 2020 17.41.51: Maximum execution time of 30 seconds exceeded
+
+Nov 05, 2020 17.42.16: Maximum execution time of 30 seconds exceeded
+
+Nov 05, 2020 17.42.43: Maximum execution time of 30 seconds exceeded
+
+Nov 05, 2020 17.43.08: Maximum execution time of 30 seconds exceeded
+
+Nov 06, 2020 04.32.04: Maximum execution time of 30 seconds exceeded
+
+Nov 06, 2020 04.32.30: Maximum execution time of 30 seconds exceeded
+
+Nov 06, 2020 04.32.56: Maximum execution time of 30 seconds exceeded
+
+Nov 06, 2020 04.33.23: Maximum execution time of 30 seconds exceeded
+
+Nov 06, 2020 04.33.49: Maximum execution time of 30 seconds exceeded
+
+Nov 06, 2020 04.34.15: Maximum execution time of 30 seconds exceeded
+
+Nov 06, 2020 04.34.42: Maximum execution time of 30 seconds exceeded
+
+Nov 06, 2020 04.35.09: Maximum execution time of 30 seconds exceeded
+
+Nov 06, 2020 04.35.36: Maximum execution time of 30 seconds exceeded
+
+Nov 06, 2020 04.36.02: Maximum execution time of 30 seconds exceeded
+
+Nov 06, 2020 04.36.28: Maximum execution time of 30 seconds exceeded
+
+Nov 06, 2020 04.36.54: Maximum execution time of 30 seconds exceeded
+
+Nov 06, 2020 04.37.31: Maximum execution time of 30 seconds exceeded
+
+Nov 06, 2020 04.37.57: Maximum execution time of 30 seconds exceeded
+
+Nov 06, 2020 04.38.23: Maximum execution time of 30 seconds exceeded
+
+Nov 06, 2020 04.38.48: Maximum execution time of 30 seconds exceeded
+
+Nov 06, 2020 04.39.14: Maximum execution time of 30 seconds exceeded
+
+Nov 06, 2020 04.39.39: Maximum execution time of 30 seconds exceeded
+
+Nov 08, 2020 19.09.46: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 02.52.46: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 02.53.09: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 02.53.33: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 02.53.57: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 02.55.02: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 02.55.26: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 02.55.50: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 02.56.14: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 02.56.37: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 02.57.07: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 03.18.12: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 03.18.37: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 03.19.04: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 03.19.54: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 03.20.22: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 03.36.02: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 03.36.38: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 03.43.49: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 03.44.13: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 03.44.38: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 03.52.33: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 03.53.14: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 03.53.34: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 03.53.55: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 19.54.20: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 19.54.46: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 19.55.12: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 19.55.37: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 19.56.03: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 19.56.30: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 19.57.46: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 19.58.12: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 19.58.38: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 19.59.04: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 19.59.31: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 19.59.57: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 20.35.19: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 20.35.46: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 20.36.12: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 20.36.37: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 20.37.04: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 20.37.39: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 20.38.04: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 20.38.30: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 20.39.53: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 20.40.20: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 20.40.45: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 20.41.12: Maximum execution time of 30 seconds exceeded
+
+Nov 09, 2020 20.41.38: Maximum execution time of 30 seconds exceeded
+
+Nov 11, 2020 07.46.52: Uncaught Error: Call to a member function get_payment_method() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/checkout/thankyou.php:19
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(257): wc_get_template('checkout/thanky...', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(5393)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_shortcode_tag(Array)
+#7 /var/www/html/wp-includes/shortcodes.php(218): preg_repla
+
+Nov 11, 2020 10.47.07: Uncaught Error: Call to a member function get_id() on bool in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:1156
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): {closure}(false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters(false, Array)
+#2 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-order-product-fields.php(318): apply_filters('woe_get_order_p...', false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1605): WC_Order_Export_Order_Product_Fields->get('department')
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1680): WC_Order_Export_Data_Extractor::fetch_order_products(Object(WC_Order), Object(WC_Order_Export_Labels), Array, Array, Object(WC_Order_Export_O
+
+Nov 11, 2020 10.47.40: Uncaught Error: Call to a member function get_id() on bool in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:1156
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): {closure}(false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters(false, Array)
+#2 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-order-product-fields.php(318): apply_filters('woe_get_order_p...', false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1605): WC_Order_Export_Order_Product_Fields->get('department')
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1680): WC_Order_Export_Data_Extractor::fetch_order_products(Object(WC_Order), Object(WC_Order_Export_Labels), Array, Array, Object(WC_Order_Export_O
+
+Nov 11, 2020 11.18.14: Uncaught Error: Call to a member function get_id() on bool in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:1156
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): {closure}(false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters(false, Array)
+#2 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-order-product-fields.php(318): apply_filters('woe_get_order_p...', false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1605): WC_Order_Export_Order_Product_Fields->get('department')
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1680): WC_Order_Export_Data_Extractor::fetch_order_products(Object(WC_Order), Object(WC_Order_Export_Labels), Array, Array, Object(WC_Order_Export_O
+
+Nov 11, 2020 12.19.53: Uncaught Error: Call to a member function get_payment_method() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/checkout/thankyou.php:19
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(257): wc_get_template('checkout/thanky...', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(0)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_shortcode_tag(Array)
+#7 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_
+
+Nov 12, 2020 08.19.05: Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:125
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-includ
+
+Nov 13, 2020 02.58.59: Uncaught Error: Call to a member function get_id() on bool in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:1156
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): {closure}(false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters(false, Array)
+#2 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-order-product-fields.php(318): apply_filters('woe_get_order_p...', false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1605): WC_Order_Export_Order_Product_Fields->get('department')
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1680): WC_Order_Export_Data_Extractor::fetch_order_products(Object(WC_Order), Object(WC_Order_Export_Labels), Array, Array, Object(WC_Order_Export_O
+
+Nov 13, 2020 02.59.45: Uncaught Error: Call to a member function get_id() on bool in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:1156
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): {closure}(false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters(false, Array)
+#2 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-order-product-fields.php(318): apply_filters('woe_get_order_p...', false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1605): WC_Order_Export_Order_Product_Fields->get('department')
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1680): WC_Order_Export_Data_Extractor::fetch_order_products(Object(WC_Order), Object(WC_Order_Export_Labels), Array, Array, Object(WC_Order_Export_O
+
+Nov 13, 2020 03.00.45: Uncaught Error: Call to a member function get_id() on bool in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:1156
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): {closure}(false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters(false, Array)
+#2 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-order-product-fields.php(318): apply_filters('woe_get_order_p...', false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1605): WC_Order_Export_Order_Product_Fields->get('department')
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1680): WC_Order_Export_Data_Extractor::fetch_order_products(Object(WC_Order), Object(WC_Order_Export_Labels), Array, Array, Object(WC_Order_Export_O
+
+Nov 16, 2020 05.47.54: Uncaught Error: Call to a member function get_fees() on null in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php:575
+Stack trace:
+#0 /var/www/html/wp-content/themes/understrap/emails.php(30): require_once()
+#1 /var/www/html/wp-includes/class-wp-hook.php(289): change_order_status_created(5795)
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(363): do_action('woocommerce_ord...', 5795, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(221): WC_Order->status_transition()
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-order-data.php(644): WC_Order->save()
+#7 /var/www/html/wp-includes/class-wp-hook.php(289): WC_Meta_Box_Order_Data::save(5795)
+#8 /var/www/html/wp-includes/class
+
+Nov 17, 2020 09.23.05: Uncaught Error: Call to a member function get_fees() on null in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php:575
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(270): wc_get_template('emails/admin-ne...', Array, '', '')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(118): wc_get_template_html('emails/admin-ne...', Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email.php(541): WC_Email_New_Order->get_content_html()
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(98): WC_Email->get_content()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_Email_New_Order->trigger(5904, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#
+
+Nov 17, 2020 09.43.02: Uncaught Error: Call to a member function get_fees() on null in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php:575
+Stack trace:
+#0 /var/www/html/wp-content/themes/understrap/emails.php(30): require_once()
+#1 /var/www/html/wp-includes/class-wp-hook.php(289): change_order_status_created(5919)
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(363): do_action('woocommerce_ord...', 5919, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(221): WC_Order->status_transition()
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-order-data.php(644): WC_Order->save()
+#7 /var/www/html/wp-includes/class-wp-hook.php(289): WC_Meta_Box_Order_Data::save(5919)
+#8 /var/www/html/wp-includes/class
+
+Nov 20, 2020 08.19.41: Uncaught Error: Call to a member function get_fees() on null in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php:575
+Stack trace:
+#0 /var/www/html/wp-content/themes/understrap/emails.php(30): require_once()
+#1 /var/www/html/wp-includes/class-wp-hook.php(289): change_order_status_created(6279)
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(363): do_action('woocommerce_ord...', 6279, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(221): WC_Order->status_transition()
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-order-data.php(644): WC_Order->save()
+#7 /var/www/html/wp-includes/class-wp-hook.php(289): WC_Meta_Box_Order_Data::save(6279)
+#8 /var/www/html/wp-includes/class
+
+Nov 23, 2020 03.26.20: Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:317
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): out_of_stock_read_more_url('Add to cart', Object(WC_Product_Simple))
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Add to cart', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Add to cart', Object(WC_Product_Simple))
+#3 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/RestApi/Controllers/Products.php(223): WC_Product_Simple->add_to_cart_text()
+#4 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-products-v2-controller.php(162): Automattic\WooCommerce\Blocks\RestApi\Controllers\Products->get_product_data(Object(WC_Product_Simple), 'view')
+#5 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/
+
+Nov 23, 2020 03.26.40: Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:317
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): out_of_stock_read_more_url('Add to cart', Object(WC_Product_Simple))
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Add to cart', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Add to cart', Object(WC_Product_Simple))
+#3 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/RestApi/Controllers/Products.php(223): WC_Product_Simple->add_to_cart_text()
+#4 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/Controllers/Version2/class-wc-rest-products-v2-controller.php(162): Automattic\WooCommerce\Blocks\RestApi\Controllers\Products->get_product_data(Object(WC_Product_Simple), 'view')
+#5 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-rest-api/src/
+
+Nov 23, 2020 03.29.44: Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:317
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): out_of_stock_read_more_url('Add to cart', Object(WC_Product_Simple))
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters('Add to cart', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php(62): apply_filters('woocommerce_pro...', 'Add to cart', Object(WC_Product_Simple))
+#3 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(473): WC_Product_Simple->add_to_cart_text()
+#4 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(446): Automattic\WooCommerce\Blocks\BlockTypes\AbstractProductGrid->get_add_to_cart(Object(WC_Product_Simple))
+#5 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php(3
+
+Nov 25, 2020 20.54.45: Uncaught RuntimeException: Failed to fetch media due to an error from Instagram's API: The Instagram API responded with an error: Error #0 [Unknown]: [error details could not be retrieved] in /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/MediaStore/MediaStore.php:145
+Stack trace:
+#0 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Actions/ImportMediaAction.php(54): RebelCode\Spotlight\Instagram\MediaStore\MediaStore->getFeedMedia(Object(RebelCode\Spotlight\Instagram\Feeds\Feed))
+#1 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Utils/Arrays.php(100): RebelCode\Spotlight\Instagram\Actions\ImportMediaAction->RebelCode\Spotlight\Instagram\Actions\{closure}(Object(WP_Post), 1)
+#2 [internal function]: RebelCode\Spotlight\Instagram\Utils\Arrays::RebelCode\Spotlight\Instagram\Utils\{closure}(Object(WP_Post), 1)
+#3 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Utils/Arrays.php(101): array_walk(Array, Object
+
+Nov 27, 2020 07.26.57: Uncaught Error: Call to a member function get_fees() on null in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php:575
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(270): wc_get_template('emails/admin-ne...', Array, '', '')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(118): wc_get_template_html('emails/admin-ne...', Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email.php(541): WC_Email_New_Order->get_content_html()
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(98): WC_Email->get_content()
+#5 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-admin.php(568): WC_Email_New_Order->trigger(5142, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#6 /var/www/html/wp-includes/
+
+Nov 27, 2020 07.28.03: Uncaught Error: Call to a member function get_fees() on null in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php:575
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(270): wc_get_template('emails/admin-ne...', Array, '', '')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(118): wc_get_template_html('emails/admin-ne...', Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email.php(541): WC_Email_New_Order->get_content_html()
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(98): WC_Email->get_content()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_Email_New_Order->trigger(5142, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#
+
+Nov 27, 2020 07.30.42: Uncaught Error: Call to a member function get_fees() on null in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php:575
+Stack trace:
+#0 /var/www/html/wp-content/themes/understrap/emails.php(30): require_once()
+#1 /var/www/html/wp-includes/class-wp-hook.php(289): change_order_status_created(5142)
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(363): do_action('woocommerce_ord...', 5142, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(221): WC_Order->status_transition()
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-order-data.php(644): WC_Order->save()
+#7 /var/www/html/wp-includes/class-wp-hook.php(289): WC_Meta_Box_Order_Data::save(5142)
+#8 /var/www/html/wp-includes/class
+
+Nov 27, 2020 07.32.10: Uncaught Error: Call to a member function get_fees() on null in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php:575
+Stack trace:
+#0 /var/www/html/wp-content/themes/understrap/emails.php(30): require_once()
+#1 /var/www/html/wp-includes/class-wp-hook.php(289): change_order_status_created(5142)
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(363): do_action('woocommerce_ord...', 5142, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(221): WC_Order->status_transition()
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-order-data.php(644): WC_Order->save()
+#7 /var/www/html/wp-includes/class-wp-hook.php(289): WC_Meta_Box_Order_Data::save(5142)
+#8 /var/www/html/wp-includes/class
+
+Nov 27, 2020 07.35.15: Uncaught Error: Call to a member function get_fees() on null in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php:575
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(270): wc_get_template('emails/admin-ne...', Array, '', '')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(118): wc_get_template_html('emails/admin-ne...', Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email.php(541): WC_Email_New_Order->get_content_html()
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(98): WC_Email->get_content()
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-order-actions.php(121): WC_Email_New_Order->trigger(5142, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#6 /var/www/html/wp-inclu
+
+Nov 27, 2020 07.35.26: Uncaught Error: Call to a member function get_fees() on null in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php:575
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(270): wc_get_template('emails/admin-ne...', Array, '', '')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(118): wc_get_template_html('emails/admin-ne...', Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email.php(541): WC_Email_New_Order->get_content_html()
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(98): WC_Email->get_content()
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-order-actions.php(121): WC_Email_New_Order->trigger(5142, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#6 /var/www/html/wp-inclu
+
+Nov 27, 2020 11.52.13: Maximum execution time of 30 seconds exceeded
+
+Nov 27, 2020 15.25.28: Uncaught Error: Call to a member function get_payment_method() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/checkout/thankyou.php:19
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(257): wc_get_template('checkout/thanky...', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(7686)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_shortcode_tag(Array)
+#7 /var/www/html/wp-includes/shortcodes.php(218): preg_repla
+
+Nov 28, 2020 05.20.22: Uncaught Error: Call to a member function get_fees() on null in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php:575
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(270): wc_get_template('emails/admin-ne...', Array, '', '')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(118): wc_get_template_html('emails/admin-ne...', Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email.php(541): WC_Email_New_Order->get_content_html()
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(98): WC_Email->get_content()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_Email_New_Order->trigger(7772, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#
+
+Nov 28, 2020 07.06.19: Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:131
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-includ
+
+Nov 28, 2020 07.22.46: Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:131
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-includ
+
+Nov 28, 2020 07.33.10: Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:131
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-includ
+
+Nov 28, 2020 11.54.30: Uncaught RuntimeException: Failed to fetch media due to an error from Instagram's API: The Instagram API responded with an error: Error #2 [OAuthException]: An unexpected error has occurred. Please retry your request later. in /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/MediaStore/MediaStore.php:145
+Stack trace:
+#0 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Actions/ImportMediaAction.php(54): RebelCode\Spotlight\Instagram\MediaStore\MediaStore->getFeedMedia(Object(RebelCode\Spotlight\Instagram\Feeds\Feed))
+#1 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Utils/Arrays.php(100): RebelCode\Spotlight\Instagram\Actions\ImportMediaAction->RebelCode\Spotlight\Instagram\Actions\{closure}(Object(WP_Post), 1)
+#2 [internal function]: RebelCode\Spotlight\Instagram\Utils\Arrays::RebelCode\Spotlight\Instagram\Utils\{closure}(Object(WP_Post), 1)
+#3 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Utils/Arrays
+
+Nov 30, 2020 03.39.56: Uncaught Exception: Invalid order item. in /var/www/html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-item-type-data-store.php:135
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/data-stores/class-wc-order-item-product-data-store.php(34): Abstract_WC_Order_Item_Type_Data_Store->read(Object(WC_Order_Item_Product))
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): WC_Order_Item_Product_Data_Store->read(Object(WC_Order_Item_Product))
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order-item.php(74): WC_Data_Store->read(Object(WC_Order_Item_Product))
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/formats/abstract-class-woe-formatter-plain-format.php(280): WC_Order_Item->__construct(1)
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/formats/abstract-class-woe-formatter-plain-format.php(69): WOE_Formatter_Plain_Format->try_fill_summary_report_products_fields(Array)
+#5 /var/www/
+
+Nov 30, 2020 11.54.48: Uncaught RuntimeException: Failed to fetch media due to an error from Instagram's API: The Instagram API responded with an error: Error #0 [Unknown]: [error details could not be retrieved] in /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/MediaStore/MediaStore.php:145
+Stack trace:
+#0 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Actions/ImportMediaAction.php(54): RebelCode\Spotlight\Instagram\MediaStore\MediaStore->getFeedMedia(Object(RebelCode\Spotlight\Instagram\Feeds\Feed))
+#1 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Utils/Arrays.php(100): RebelCode\Spotlight\Instagram\Actions\ImportMediaAction->RebelCode\Spotlight\Instagram\Actions\{closure}(Object(WP_Post), 1)
+#2 [internal function]: RebelCode\Spotlight\Instagram\Utils\Arrays::RebelCode\Spotlight\Instagram\Utils\{closure}(Object(WP_Post), 1)
+#3 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Utils/Arrays.php(101): array_walk(Array, Object

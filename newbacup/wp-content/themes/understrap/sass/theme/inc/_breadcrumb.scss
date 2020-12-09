@@ -1,0 +1,22 @@
+.woocommerce-breadcrumb {
+	color: $primary-dark !important;
+	font-family: $headingFont;
+	font-size: 20px !important;
+	line-height: 22px;
+	margin-bottom: 30px !important;
+	@include media-breakpoint-down(sm) {
+		font-size: 18px !important;
+		line-height: 17px;
+	}
+	a {
+		color: $secondary !important;
+	}
+	.breadcrumb-arrow {
+		display: inline-block;
+		width: 8px;
+		height: 14px;
+		background: url(../images/arrow-right.svg) no-repeat center center / 100% auto;
+		vertical-align: middle;
+		margin: 0 9px;
+	}
+}

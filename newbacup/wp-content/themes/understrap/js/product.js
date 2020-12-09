@@ -1,0 +1,1 @@
+"use strict";jQuery(document).ready(function(){jQuery(".products.cedele-carousel").owlCarousel({items:4,margin:25,dots:!0,nav:!0,responsiveClass:!0,responsive:{0:{items:1},768:{items:2},996:{items:3},1140:{items:4}}})});

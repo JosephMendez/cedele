@@ -1,0 +1,131 @@
+.pointer {
+	cursor: pointer;
+}
+.clearfix {
+	clear: both;
+}
+.cdls-noselect {
+	-webkit-touch-callout: none; /* iOS Safari */
+	-webkit-user-select: none; /* Safari */
+	-khtml-user-select: none; /* Konqueror HTML */
+	-moz-user-select: none; /* Old versions of Firefox */
+	-ms-user-select: none; /* Internet Explorer/Edge */
+	user-select: none; /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
+}
+.cdls-form-partner {
+    padding-bottom: 10px;
+}
+.cdls-form-partner button {
+	margin-left: 0px !important;
+	margin-bottom: 0px !important;
+}
+
+/*table peak hour*/
+.cdls-table-partner {
+	width: calc(100% - 20px);
+	margin: 0px 0px 0px 10px;
+}
+.cdls-table-partner th,
+.cdls-table-partner td {
+	text-align: center;
+	vertical-align: middle;
+}
+.cdls-form-partner .button-new-partner {
+    margin: 20px 0px 5px 10px !important;
+}
+.cdls-form-partner .cdls-button-submit-highlight {
+	margin-left: 10px !important;
+	margin-bottom: 10px !important;
+}
+
+.cdls-form-partner select {
+	width: 100px;
+}
+.cdls-nagination {
+    display: inline-block;
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.cdls-nagination a {
+	text-decoration: none;
+	display: inline-block;
+    vertical-align: baseline;
+    min-width: 30px;
+    min-height: 30px;
+    margin: 0;
+    padding: 0 4px;
+    font-size: 16px;
+    line-height: 1.625;
+    text-align: center;
+    border-color: #7e8993;
+    color: #32373c;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 3px;
+    white-space: nowrap;
+    box-sizing: border-box;
+}
+.cdls-nagination span {
+	text-decoration: none;
+	display: inline-block;
+    vertical-align: baseline;
+    min-width: 30px;
+    min-height: 30px;
+    margin: 0;
+    padding: 0 4px;
+    font-size: 16px;
+    line-height: 1.625;
+    text-align: center;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 3px;
+    white-space: nowrap;
+    box-sizing: border-box;
+    color: #a0a5aa!important;
+    border-color: #ddd!important;
+    background: #f7f7f7!important;
+}
+
+
+/* MODAL */
+.cdls-faded {
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.3);
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	display: none;
+}
+
+.cdls-faded.show {
+	display: block;
+}
+
+.cdls-modal {
+	background-color: white;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 430px;
+}
+
+.cdls-modal > div {
+    padding: 10px;
+	border: 1px solid silver;
+}
+
+.cdls-modal .cdls-modal-header {
+}
+
+.cdls-modal table {
+	width: 100%;
+}
+
+.cdls-modal .cdls-modal-footer {
+	text-align: right;
+}

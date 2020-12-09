@@ -1,0 +1,41 @@
+// This is an empty scss file for your custom styles - Please add your super duper awesome mega design styles here
+@import "inc/_fontface";
+@import "inc/_typo";
+@import "inc/_layout";
+@import "inc/_sprite";
+@import "inc/_form";
+@import "inc/_scrollbar";
+@import "inc/_shared";
+@import "inc/_buttons";
+@import "inc/_header";
+@import "inc/_footer";
+@import "inc/_confirm";
+@import "inc/_alert";
+@import "inc/_carousel";
+@import "inc/_breadcrumb";
+@import "owl/owl.carousel";
+@import "pages/_store";
+@import "pages/_login";
+@import "pages/_signup";
+@import "pages/_shop";
+@import "pages/_home";
+@import "pages/_cart";
+@import "pages/_product";
+@import "pages/_checkout";
+@import "pages/_story";
+@import "pages/_thankyou";
+@import "pages/_wishlist";
+@import "pages/_contact";
+@import "pages/_career";
+@import "pages/_account";
+@import "pages/_blog";
+@import "pages/_faq";
+@import "pages/_rewards";
+
+body{
+  font-size: 0.875rem;
+  font-family: $bodyFontRegular;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}

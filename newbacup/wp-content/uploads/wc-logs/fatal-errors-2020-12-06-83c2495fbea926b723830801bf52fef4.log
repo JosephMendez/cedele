@@ -1,0 +1,11 @@
+2020-12-06T14:47:44+00:00 CRITICAL Uncaught Error: Call to a member function get_payment_method() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/checkout/thankyou.php:19
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(257): wc_get_template('checkout/thanky...', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(9032)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_shortcode_tag(Array)
+#7 /var/www/html/wp-includes/shortcodes.php(218): preg_repla in /var/www/html/wp-content/themes/understrap/woocommerce/checkout/thankyou.php on line 19
+

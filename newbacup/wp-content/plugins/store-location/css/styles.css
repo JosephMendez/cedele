@@ -1,0 +1,168 @@
+div#contacts_form_meta_box.postbox {
+	width: 100%;
+}
+
+.pointer {
+	cursor: pointer;
+}
+
+.text-red {
+	color: red;
+}
+
+.clearfix {
+	clear: both;
+}
+
+.form-location {
+	width: 100%;
+}
+
+.form-location form {
+	display: flex;
+}
+
+.form-location-info {
+	width: 40%;
+	display: inline-block;
+}
+
+.form-location-info input[type="text"],
+.form-location-info select,
+.form-location-info input[type="email"] {
+	width: 85%;
+}
+
+.form-location-info input[type="text"].disabled,
+.form-location-info select.disabled,
+.form-location-info input[type="email"].disabled {
+	background-color: #e9ecef;
+    opacity: 1;
+}
+
+.form-working-time {
+	width: 60%;
+	display: inline-block;
+	float: right;
+}
+
+.form-working-time table {
+	width: 100%;
+}
+
+.table-working-time .day-name {
+	text-transform: capitalize;
+}
+
+.table-working-time tbody tr {
+	height: 42px;
+	min-height: 42px;
+}
+
+.table-working-time td {
+	vertical-align: top;
+}
+
+.table-working-time .sub-opening-time {
+	display: none;
+	margin-bottom: 10px;
+}
+
+.table-working-time .sub-opening-time .from {
+	width: 45%;
+	float: left;
+}
+
+.table-working-time .sub-opening-time .to {
+	width: 45%;
+	float: left;
+}
+
+.table-working-time .sub-opening-time input {
+	width: 60%;
+}
+
+.table-working-time .button-more-time {
+	cursor: pointer;
+	border: none;
+    background-color: transparent;
+    display: none;
+}
+
+/* file upload location */
+.store-attachment-preview {
+	display: none;
+}
+.store-attachment-preview.show {
+	display: block;
+}
+.button-clear-attachment {
+	vertical-align: middle;
+	margin-left: 5px;
+}
+.button-clear-attachment:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.file {
+	display: none;
+}
+
+.icon-file {
+	vertical-align: middle;
+    margin-left: 10px;
+}
+
+/* setting page */
+.wpsl-form-setting .form-setting {
+	margin-top: 10px;
+}
+
+.wpsl-form-setting .form-row {
+	display: flex;
+	align-items: center;
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.wpsl-form-setting .button-action {
+	width: 30px;
+	margin-left: 20px;
+    display: flex;
+    cursor: pointer;
+}
+
+.wpsl-form-setting .form-row input {
+	width: 90%;
+	flex-grow: 1;
+}
+
+.wpsl-form-setting .postbox {
+	width: 40%;
+}
+
+.wpsl-form-setting .button-add-more {
+	width: 90%;
+	flex-grow: 1;
+	border: 1px dotted black;
+	height: 30px;
+	border-radius: 3px;
+	cursor: pointer;
+	background-color: #e8e8e8;
+}
+
+.wpsl-form-setting .button-add-more svg{
+	vertical-align: middle;
+}
+
+.wpsl-form-setting .warning-alert {
+	margin-left: 5px;
+	vertical-align: middle;
+	color: red;
+	display: none;
+}
+
+.wpsl-form-setting .warning-alert svg {
+	vertical-align: text-top;
+}

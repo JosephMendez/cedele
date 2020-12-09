@@ -1,0 +1,8 @@
+table.cdls-table-placeholder {
+	border: 1px solid gray;
+	margin: 20px 0px 0px 10px;
+}
+
+table.cdls-table-placeholder input {
+	width: 220px;
+}

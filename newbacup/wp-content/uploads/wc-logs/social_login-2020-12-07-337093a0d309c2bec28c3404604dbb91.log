@@ -1,0 +1,2 @@
+12-07-2020 @ 09:34:35 - HybridAuth Error: Endpoint: Error while trying to init Hybrid_Auth: You cannot access this page directly. There might be an issue with the host or a WordPress plugin caching the authentication endpoint, please check documentation: https://docs.woocommerce.com/document/woocommerce-social-login/#caching-issue. If you are not seeing any issues with WooCommerce Social Login, please disregard this message.
+12-07-2020 @ 20:05:58 - Error: User profile request failed! facebook api returned an invalid response: NULL

@@ -1,0 +1,606 @@
+.woocommerce-login{
+  #content {
+		@media (min-width: 1400px) {
+			height: calc( 100vh - 100px );
+		}
+		@include media-breakpoint-down(md) {
+			height: calc( 100vh - 76px );
+		}
+		@include media-breakpoint-down(sm) {
+			height: auto;
+			min-height: calc( 100vh - 68px );
+		}
+		.row {
+			height: 100%;
+			align-items: center;
+		}
+	}
+
+	h1.cdl-heading {
+		//font-size: 96px;
+		//line-height: 91px;
+		font-size: 64px;
+		line-height: 1;
+		margin-bottom: 1rem;
+		@include media-breakpoint-down(md) {
+			font-size: 60px;
+			line-height: 57px;
+		}
+		@include media-breakpoint-down(sm) {
+			/*font-size: 48px;*/
+			/*line-height: 46px;*/
+			font-size: 42px;
+			line-height: 40px;
+		}
+	}
+
+	.col2-set {
+		@include media-breakpoint-down(md) {
+			width: auto;
+		}
+	}
+
+	.entry-content {
+		@media (min-width: 992px) and (max-width: 1399px) {
+			padding: 30px 0;
+		}
+		@include media-breakpoint-down(sm) {
+			padding: 36px 0;
+		}
+	}
+
+	.wrapper {
+		padding: 0;
+	}
+
+  .entry-header{
+    display: none;
+  }
+
+  .woocommerce form.login{
+    padding: 0;
+    border: none;
+  }
+
+  .woocommerce form .show-password-input, .woocommerce-page form .show-password-input{
+    top: 1.2em;
+    right: 1em;
+  }
+
+  .btn-login {
+    font-family: $headingFont;
+    font-size: 1rem;
+    text-transform: uppercase;
+  }
+  .icon-Arrow{
+    stroke: #fff;
+    width: 1.5rem;
+    margin-left: .5rem;
+    position: relative;
+    top: -2px;
+  }
+  .btn-signup{
+    border-radius: 4px;
+    height: 50px;
+    color: #000;
+    span{
+      display: inline-block;
+      margin-left: 10px;
+      text-transform: uppercase;
+      color: $blue;
+      font-family: $headingFont;
+      font-size: 1rem;
+    }
+  }
+  .login-banner{
+    position: absolute;
+    width: 54vw;
+    background-size: cover;
+    top: 0;
+    right: 0;
+		bottom: 0;
+		@include media-breakpoint-down(md) {
+			display: none;
+		}
+  }
+  #full-width-page-wrapper{
+    position: relative;
+    overflow: hidden;
+  }
+}
+
+
+.btn-social{
+  height: 48px;
+  padding-left: 40px;
+  font-family: $subFont;
+  font-weight: bold;
+  font-size: 0.875rem;
+  line-height: 36px;
+	@include media-breakpoint-up(sm) {
+		min-width: 150px;
+	}
+	@include media-breakpoint-up(md) {
+		min-width: 160px;
+	}
+  &.login-google {
+    background-image: url(../assets/symbol/Google.svg);
+    background-repeat: no-repeat;
+    background-position: top 50% left 15px;
+    background-size: 28px;
+		margin-right: 28px;
+  }
+  &.login-facebook {
+    background-image: url(../assets/symbol/Facebook.svg);
+    background-repeat: no-repeat;
+    background-position: top 50% left 15px;
+    background-size: 28px;
+  }
+}
+.group-btn {
+	@include media-breakpoint-down(sm) {
+		display: flex;
+		.btn-social {
+			flex-basis: calc(50% - 14px);
+			&.login-google {
+				margin-right: 14px;
+			}
+			&.login-facebook {
+				margin-left: 14px;
+			}
+		}
+	}
+}
+
+.woocommerce-notices-wrapper{
+  font-family: $subFont;
+  .woocommerce-error{
+    border: none;
+    background-color: $red;
+    color: #fff;
+    border-radius: 4px;
+    padding: .5em 1em .5em 3.5em;
+    &:before {
+      display: none;
+    }
+    &:after{
+      content: '';
+      display: inline-block;
+      width: 20px;
+      height: 20px;
+      background-image: url(../assets/symbol/Circle-cross.svg);
+      background-repeat: no-repeat;
+      background-size: 18px;
+      top: 10px;
+      left: 15px;
+      position: absolute;
+    }
+  }
+}
+
+.cartFormModal {
+	&.modal:before {
+		display: none !important;
+	}
+
+	input[type=number],
+	input::-webkit-outer-spin-button,
+	input::-webkit-inner-spin-button {
+		-webkit-appearance: none;
+		-moz-appearance: none;
+		appearance: none;
+		-moz-appearance: textfield;
+	}
+
+	&.ajaxRegisterModal {
+		.modal-dialog {
+			.closeModal {
+				color: #fff;
+			}
+		}
+	}
+
+	.modal-dialog {
+		display: flex;
+		max-width: 918px;
+		border-radius: 8px;
+		overflow: hidden;
+
+		.closeModal {
+			position: absolute;
+			z-index: 5;
+			width: 40px;
+			height: 40px;
+			background: none;
+			top: 7px;
+			right: 25px;
+			color: #3F3F3F;
+			border: none;
+			padding: 0;
+			outline: none !important;
+		}
+	}
+
+	.modal-content {
+		border: none;
+	}
+
+	.formModal {
+		display: flex;
+		text-align: center;
+	  	flex-wrap: wrap;
+
+		&.ajaxRegisterForm {
+			.colSmall {
+				background-image: url("../images/bgRightPanelRegister.jpg");
+			  	min-height: 450px;
+			}
+
+			.colLarge {
+				padding-top: 74px;
+
+				.btn-submit {
+					max-width: 262px;
+					margin-top: 10px;
+				}
+
+				.form-fields {
+					padding-left: 75px;
+					padding-right: 75px;
+				}
+			}
+		}
+
+		.logoField {
+			text-align: left;
+			padding: 16px 24px 100px;
+			position: absolute;
+			width: 100%;
+			top: 0;
+			left: 0;
+			@include media-breakpoint-down(md) {
+			  padding: 16px 24px;
+			}
+		}
+
+		.colLeft {
+			@include media-breakpoint-up(xl) {
+				width: 332px;
+				height: 609px;
+			}
+			@include media-breakpoint-down(xl) {
+				width: 36.166%;
+			}
+			@include media-breakpoint-down(md) {
+			  width: 100%;
+			  flex-basis: 100%;
+			  order: 2;
+			}
+			@include media-breakpoint-down(sm) {
+			  width: 100%;
+			  flex-basis: 100%;
+			  order: 2;
+			}
+		}
+		.colRight {
+			@include media-breakpoint-up(xl) {
+				width: 586px;
+			}
+			@include media-breakpoint-down(xl) {
+				width: 63.834%;
+				padding: 80px 0;
+			}
+			@include media-breakpoint-down(md) {
+			  width: 100%;
+			  flex-basis: 100%;
+			  order: 1;
+			}
+			@include media-breakpoint-down(sm) {
+			  width: 100%;
+			  flex-basis: 100%;
+			  order: 1;
+			}
+		}
+
+		.colSmall {
+			background: url("../images/bgLeftLoginAjax.jpg") no-repeat center center / cover;
+			color: #fff;
+			//display: flex;
+			//align-items: center;
+			//justify-content: center;
+			position: relative;
+
+			.colInner {
+				width: 100%;
+			}
+
+			.titleBlock {
+				margin-bottom: 40px;
+
+				h3.title {
+					color: white;
+					font-weight: bold;
+					/*font-size: 48px;*/
+					/*line-height: 46px;*/
+					font-size: 42px;
+					line-height: 40px;
+					margin: 0 0 10px 0;
+					font-family: $headingFont;
+					@include media-breakpoint-down(md) {
+					  font-size: 28px;
+					}
+				}
+
+				.desc {
+					font-size: 14px;
+					line-height: 22px;
+				}
+
+				+ .btnGroups {
+					padding-top: 0;
+				}
+			}
+
+			.btnGroups {
+				margin-top: 274px;
+				padding-left: 24px;
+				padding-right: 24px;
+				.btnWhiteLarge {
+					display: block;
+					border: 2px solid #fff;
+					background: none;
+					border-radius: 8px;
+					height: 56px;
+					line-height: 52px;
+					text-transform: uppercase;
+					color: #fff;
+					width: 100%;
+					font-family: $headingFont;
+					font-size: 18px;
+					font-weight: bold;
+					margin-bottom: 15px;
+					&:hover {
+						background: #fff;
+						color: $primary-dark;
+					}
+
+					@include media-breakpoint-down(md) {
+					  font-size: 13px;
+					  margin: 5px;
+					}
+				}
+				@include media-breakpoint-down(md) {
+				  display: flex;
+				  margin-top: 180px;
+				  padding: 0px;
+				}
+			}
+
+		}
+
+		.field {
+			.error {
+				color: #f00;
+				text-align: left;
+				font-size: 12px;
+				margin-top: 5px;
+			}
+		}
+
+		.colLarge {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			padding-top: 25px;
+			padding-bottom: 25px;
+
+			.row {
+				margin-left: -8px;
+				margin-right: -8px;
+
+				> div {
+					padding-left: 8px;
+					padding-right: 8px;
+				}
+			}
+
+			.titleBlock {
+				margin-bottom: 15px;
+
+				h3.title {
+					font-weight: bold;
+					/*font-size: 48px;*/
+					/*line-height: 46px;*/
+					font-size: 42px;
+					line-height: 40px;
+					margin: 0 0 10px 0;
+					font-family: $headingFont;
+				  @include media-breakpoint-down(md) {
+					font-size: 28px;
+				  }
+				}
+
+				.desc {
+					font-size: 14px;
+					line-height: 22px;
+				}
+			}
+
+			.field {
+				margin-bottom: 15px;
+
+				.field-label {
+					font-weight: bold;
+					font-size: 20px;
+					line-height: 28px;
+					margin-bottom: 8px;
+					text-transform: capitalize;
+					font-family: $headingFont;
+					color: #000;
+					text-align: left;
+				}
+			}
+
+			.colInner {
+				width: 100%;
+			}
+
+			.txt_text {
+				height: 48px;
+				line-height: 46px;
+				border: 1px solid #3f3f3f;
+				border-radius: 8px;
+				background: none;
+				width: 100%;
+				font-size: 14px;
+				outline: none !important;
+				padding: 0 19px;
+
+				&.invalid {
+					border-color: #f00;
+				}
+			}
+
+			.btn-submit {
+				height: 56px;
+				line-height: 56px;
+				background: $primary;
+				box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+				border-radius: 8px;
+				border: none;
+				font-size: 18px;
+				text-transform: uppercase;
+				width: 100%;
+				color: #fff;
+				font-family: $headingFont;
+				padding: 0 30px;
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+
+				&:hover {
+					background: darken($primary, 10%);
+				}
+
+				&:disabled {
+					background: #e2be8c;
+				}
+
+				i {
+					right: -20px;
+					position: relative;
+				}
+			}
+
+			.fieldRegister {
+				.socialLoginDesc {
+					color: #3F3F3F;
+					padding-top: 9px;
+					padding-bottom: 12px;
+				}
+
+				.btnWhiteLargeBorder {
+					border: 2px solid $primary;
+					background: none;
+					border-radius: 8px;
+					height: 56px;
+					line-height: 52px;
+					text-transform: uppercase;
+					color: $primary;
+					width: 100%;
+					max-width: 262px;
+					font-family: $headingFont;
+					font-size: 18px;
+					font-weight: bold;
+					margin-bottom: 12px;
+
+					&:hover {
+						background: $primary;
+						color: #fff;
+					}
+				}
+			}
+
+			.ajaxLogin {
+				.form-fields {
+					max-width: 330px;
+					margin: 0 auto;
+
+					.login-response-msg {
+						margin-bottom: 10px;
+
+						&.success {
+							color: #11d411;
+						}
+
+						&.invalid {
+							position: relative;
+							background-color: $red;
+							color: white !important;
+							text-align: left;
+							border-radius: 4px;
+							padding: .5em 1em .5em 3.5em;
+
+							&:after {
+								content: '';
+								position: absolute;
+								top: 10px;
+								left: 15px;
+								display: inline-block;
+								width: 20px;
+								height: 20px;
+								background-image: url(../assets/symbol/Circle-cross.svg);
+								background-repeat: no-repeat;
+								background-size: 18px;
+							}
+						}
+					}
+				}
+			}
+
+			.socialLogin {
+				margin: 0 auto;
+				max-width: 380px;
+
+				.socialLoginDesc {
+					margin-bottom: 15px;
+				}
+
+				.btnSocialLogin {
+					background-color: #fff;
+					background-repeat: no-repeat;
+					background-attachment: scroll;
+					background-position: 12px center;
+					min-width: 155px;
+					box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+					border-radius: 4px;
+					border: none;
+					height: 48px;
+					padding-left: 60px;
+					padding-right: 10px;
+					text-align: left;
+
+					&.btnGoogle {
+						background-image: url("../images/icnGoogle.png");
+						padding-left: 65px;
+					}
+
+					&.btnFacebook {
+						background-image: url("../images/icnFacebook.png");
+					}
+
+					@include media-breakpoint-down(md) {
+					  &.btnGoogle {
+						padding-left: 10px;
+					  }
+					}
+				}
+			}
+		}
+	}
+
+	input::placeholder {
+		color: #aaa;
+		font-size: 14px;
+	}
+}

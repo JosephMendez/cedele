@@ -1,0 +1,648 @@
+
+Sep 15, 2020 07.44.33: Uncaught Error: Call to a member function has_errors() on string in /var/www/html/wp-login.php:1355
+Stack trace:
+#0 {main}
+  thrown
+
+Sep 15, 2020 07.45.04: Uncaught Error: Call to a member function has_errors() on string in /var/www/html/wp-login.php:1355
+Stack trace:
+#0 {main}
+  thrown
+
+Sep 24, 2020 01.37.49: Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:98
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-include
+
+Sep 24, 2020 01.38.01: Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:98
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-include
+
+Sep 24, 2020 01.38.35: Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:98
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-include
+
+Sep 24, 2020 01.41.26: Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:98
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-include
+
+Sep 24, 2020 02.07.12: Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:98
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-include
+
+Sep 24, 2020 02.08.08: Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:98
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-include
+
+Sep 24, 2020 02.17.20: Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:98
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-include
+
+Sep 24, 2020 02.36.21: Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:98
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-include
+
+Sep 24, 2020 02.37.33: Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:98
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-include
+
+Sep 24, 2020 02.37.46: Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:98
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-include
+
+Sep 24, 2020 02.37.48: Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:98
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-include
+
+Sep 24, 2020 02.48.24: Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:98
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-include
+
+Sep 24, 2020 02.51.55: Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:98
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-include
+
+Sep 24, 2020 02.52.53: Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:98
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-include
+
+Sep 24, 2020 02.56.48: Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:98
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-include
+
+Sep 24, 2020 03.01.38: Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:98
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-include
+
+Sep 24, 2020 03.14.49: Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:98
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-include
+
+Sep 24, 2020 03.15.29: Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:98
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-include
+
+Sep 24, 2020 03.15.38: Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:98
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-include
+
+Sep 24, 2020 06.29.17: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:555
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 24, 2020 06.30.01: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:555
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 24, 2020 06.32.38: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:555
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 24, 2020 06.34.13: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:555
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 24, 2020 06.34.22: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:555
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 24, 2020 06.36.23: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:555
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 24, 2020 06.37.13: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:555
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 24, 2020 07.21.03: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:555
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 24, 2020 07.21.29: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:555
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 24, 2020 07.30.46: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:555
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 25, 2020 07.17.44: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:555
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 25, 2020 07.20.10: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:555
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 25, 2020 07.30.32: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:555
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 25, 2020 08.46.05: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:555
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 25, 2020 08.47.05: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:555
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 25, 2020 09.05.13: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:555
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 25, 2020 09.09.32: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:555
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 28, 2020 03.35.59: Uncaught PHPExcel_Reader_Exception: Could not open /var/www/html/wp-content/uploads/example.xls for reading! File does not exist. in /var/www/html/wp-content/themes/understrap/inc/PHPExcel/Reader/Excel5.php:433
+Stack trace:
+#0 /var/www/html/wp-content/themes/understrap/inc/PHPExcel/IOFactory.php(269): PHPExcel_Reader_Excel5->canRead('/var/www/html/w...')
+#1 /var/www/html/wp-content/themes/understrap/inc/PHPExcel/IOFactory.php(191): PHPExcel_IOFactory::createReaderForFile('/var/www/html/w...')
+#2 /var/www/html/wp-content/plugins/cedele-setting/includes/form-migrate-data.php(41): PHPExcel_IOFactory::load('/var/www/html/w...')
+#3 /var/www/html/wp-content/plugins/cedele-setting/ajax/ajax.php(182): read_and_create_excel_file('/var/www/html/w...', '2', '3')
+#4 /var/www/html/wp-includes/class-wp-hook.php(287): ajax_cdls_migrate_data_func('')
+#5 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#6 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#7 /var/www/html/w
+
+Sep 28, 2020 03.36.25: Uncaught PHPExcel_Reader_Exception: Could not open /var/www/html/wp-content/uploads/example.xls for reading! File does not exist. in /var/www/html/wp-content/themes/understrap/inc/PHPExcel/Reader/Excel5.php:433
+Stack trace:
+#0 /var/www/html/wp-content/themes/understrap/inc/PHPExcel/IOFactory.php(269): PHPExcel_Reader_Excel5->canRead('/var/www/html/w...')
+#1 /var/www/html/wp-content/themes/understrap/inc/PHPExcel/IOFactory.php(191): PHPExcel_IOFactory::createReaderForFile('/var/www/html/w...')
+#2 /var/www/html/wp-content/plugins/cedele-setting/includes/form-migrate-data.php(41): PHPExcel_IOFactory::load('/var/www/html/w...')
+#3 /var/www/html/wp-content/plugins/cedele-setting/ajax/ajax.php(182): read_and_create_excel_file('/var/www/html/w...', '2', '3')
+#4 /var/www/html/wp-includes/class-wp-hook.php(287): ajax_cdls_migrate_data_func('')
+#5 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#6 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#7 /var/www/html/w
+
+Sep 28, 2020 03.36.53: Uncaught PHPExcel_Reader_Exception: Could not open /var/www/html/wp-content/uploads/example.xls for reading! File does not exist. in /var/www/html/wp-content/themes/understrap/inc/PHPExcel/Reader/Excel5.php:433
+Stack trace:
+#0 /var/www/html/wp-content/themes/understrap/inc/PHPExcel/IOFactory.php(269): PHPExcel_Reader_Excel5->canRead('/var/www/html/w...')
+#1 /var/www/html/wp-content/themes/understrap/inc/PHPExcel/IOFactory.php(191): PHPExcel_IOFactory::createReaderForFile('/var/www/html/w...')
+#2 /var/www/html/wp-content/plugins/cedele-setting/includes/form-migrate-data.php(41): PHPExcel_IOFactory::load('/var/www/html/w...')
+#3 /var/www/html/wp-content/plugins/cedele-setting/ajax/ajax.php(182): read_and_create_excel_file('/var/www/html/w...', '2', '3')
+#4 /var/www/html/wp-includes/class-wp-hook.php(287): ajax_cdls_migrate_data_func('')
+#5 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#6 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#7 /var/www/html/w
+
+Sep 28, 2020 07.52.18: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:565
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 28, 2020 07.54.00: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:565
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 28, 2020 08.00.24: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:565
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 29, 2020 03.38.17: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:565
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 29, 2020 03.39.12: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:565
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 29, 2020 03.47.44: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:565
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 29, 2020 03.50.53: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:565
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 29, 2020 03.51.05: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:565
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 29, 2020 04.04.56: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:565
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 29, 2020 04.28.31: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:565
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 29, 2020 04.49.55: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:565
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2
+
+Sep 29, 2020 04.51.26: Uncaught Error: Cannot use object of type stdClass as array in /var/www/html/wp-content/themes/understrap/edenred-system-user.php:565
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): action_woocommerce_checkout_process('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1107): do_action('woocommerce_che...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(467): WC_Checkout->process_checkout()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_AJAX::checkout('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(89): do_action('wc_ajax_checkou...')
+#9 /var/www/html/wp-includes/class-wp-hook.php(2

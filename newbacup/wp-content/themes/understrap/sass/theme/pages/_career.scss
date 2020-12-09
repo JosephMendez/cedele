@@ -1,0 +1,389 @@
+.careerPage {
+	h3.title{
+		/*font-size: 48px;*/
+		/*line-height: 46px;*/
+		font-size: 36px;
+		line-height: 42px;
+		text-align: left;
+		margin: 0 0 36px 0;
+		color: $primary-dark;
+		font-family: $headingFont;
+		font-weight: bold;
+		@include media-breakpoint-down(md) {
+			text-align: center !important;
+		}
+		@include media-breakpoint-down(sm) {
+			font-size: 28px;
+			line-height: 32px;
+		}
+	}
+	.blockTitle {
+		@include media-breakpoint-down(md) {
+			text-align: center;
+		}
+	}
+	.contentPage{
+		@include media-breakpoint-up(md) {
+			padding-top: 50px;
+			padding-bottom: 100px;
+		}
+		@include media-breakpoint-down(sm) {
+			padding-top: 0;
+			padding-bottom: 50px;
+		}
+		.carousel-slider.dots-center .owl-dots{
+			width: 100%;
+			left: 0;
+			bottom: 10px;
+		}
+		.desc {
+			p {
+				line-height: 24px;
+			}
+		}
+		.wp-block-columns {
+			@include media-breakpoint-down(md) {
+				.wp-block-column {
+					flex-basis: 100% !important;
+					margin-left: 0 !important;
+				}
+			}
+		}
+	}
+	.jobBlock{
+		background: url("../images/bg-job-block.png") no-repeat center center scroll transparent;
+		padding-top: 50px;
+		padding-bottom: 50px;
+		background-size: cover;
+		overflow: hidden;
+		@include media-breakpoint-down(md) {
+			padding: 0;
+		}
+		.colLeft{
+			@include media-breakpoint-up(md) {
+				background: #fff;
+				padding: 24px 16px 50px 16px;
+				box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+				border-radius: 4px;
+			}
+			@include media-breakpoint-down(md) {
+				box-shadow: none;
+				border-radius: 0;
+				padding: 50px 15px;
+				margin: 0 -39px;
+				position: relative;
+				overflow: hidden;
+				> div {
+					position: relative;
+					z-index: 1;
+				}
+				&:before {
+					content: '';
+					position: absolute;
+					top: 0;
+					bottom: 0;
+					left: -40px;
+					right: -40px;
+					background-color: white;
+				}
+			}
+			@include media-breakpoint-down(sm) {
+				margin: 0 -15px;
+			}
+			.blockTitle{
+				margin-bottom: 24px;
+			}
+			h3.title {
+				margin-bottom: 24px;
+			}
+		}
+		.applyForm{
+			.formField{
+				margin-bottom: 18px;
+				@include media-breakpoint-down(sm) {
+					margin-bottom: 1rem;
+				}
+				.fieldLabel{
+					font-size: 18px;
+					line-height: 20px;
+					font-family: $headingFont;
+					color: #000;
+					margin-bottom: 10px;
+				}
+				.fieldValue{
+					.txt_text,
+					.txt_area{
+						border: 1px solid #3F3F3F;
+						box-sizing: border-box;
+						border-radius: 4px;
+						width: 100%;
+						font-size: 14px;
+						height: 48px;
+						line-height: 46px;
+						padding: 0 20px;
+						&::placeholder{
+							color: #aaa;
+						}
+					}
+					.txt_area{
+						padding: 10px 15px;
+						line-height: 1.2;
+						height: 100px;
+					}
+				}
+				p:empty{
+					display: none;
+				}
+				label[for=file-upload]{
+					display: inline-block;
+					width: auto !important;
+					height: 40px;
+					line-height: 38px;
+					border: 1px solid #AAAAAA;
+					border-radius: 4px;
+					padding: 0 16px 0 45px;
+					background: url("../images/icnUpload.png") no-repeat 16px center scroll #fff;
+					background-size: 17px;
+					white-space: nowrap;
+					overflow: hidden;
+					text-overflow: ellipsis;
+					cursor: pointer;
+					margin: 0;
+				}
+				input#file-upload{
+					opacity: 0;
+					position: absolute;
+					z-index: -1;
+				}
+				.noticeMaxSize{
+					color: #aaa;
+					margin-top: 3px;
+				}
+				.wpcf7-submit{
+					height: 49px;
+					line-height: 49px;
+					border: none;
+					color: #fff;
+					font-family: $headingFont;
+					text-transform: uppercase;
+					font-size: 18px;
+					min-width: 160px;
+					padding: 0 20px;
+					background: $primary;
+					border-radius: 8px;
+					@include media-breakpoint-up(sm) {
+						max-width: 160px;
+					}
+					@include media-breakpoint-up(lg) {
+						max-width: 220px;
+					}
+					&:hover{
+						background: $primary-dark;
+					}
+				}
+			}
+			.fieldSubmit{
+				margin-top: 24px;
+				> div {
+					&:last-child {
+						@include media-breakpoint-up(sm) {
+							text-align: right;
+						}
+					}
+				}
+			}
+			@include media-breakpoint-down(md) {
+				> div {
+					width: 100%;
+					max-width: 100%;
+				}
+			}
+			.ajax-loader {
+				position: absolute;
+			}
+		}
+		.colRight{
+			@include media-breakpoint-up(md) {
+				background: #fff;
+				padding: 24px 0 40px 0;
+				box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+				border-radius: 4px;
+			}
+			@include media-breakpoint-down(md) {
+				background: #F3F3F3;
+				border-radius: 0;
+				box-shadow: none;
+				margin: 0 -39px;
+				padding: 36px 15px;
+			}
+			@include media-breakpoint-down(sm) {
+				margin: 0 -15px;
+			}
+			.blockTitle{
+				@include media-breakpoint-down(md) {
+					margin-bottom: 36px;
+				}
+				@include media-breakpoint-down(sm) {
+					margin-bottom: 10px;
+				}
+			}
+			h3.title {
+				margin-bottom: 0;
+				@include media-breakpoint-between(sm, md) {
+					margin-bottom: 36px;
+				}
+			}
+			.formFiler{
+				@include media-breakpoint-up(md) {
+					text-align: right;
+					padding-right: 16px;
+					padding-bottom: 20px;
+					h3.title {
+						text-align: right;
+					}
+				}
+				@include media-breakpoint-down(md) {
+					position: relative;
+					text-align: left;
+				}
+				@include media-breakpoint-down(sm) {
+					margin-bottom: 16px;
+				}
+				.desc{
+					color: #aaa;
+					@include media-breakpoint-up(md) {
+						margin-bottom: 16px;
+					}
+					@include media-breakpoint-between(sm, md) {
+						position: absolute;
+						right: 0;
+						bottom: 20px;
+					}
+					@include media-breakpoint-down(sm) {
+						text-align: center;
+						margin-bottom: 16px;
+					}
+				}
+				.fieldFilter {
+					@include media-breakpoint-down(sm) {
+						display: flex;
+					}
+				}
+				.txt_select{
+					height: 48px;
+					line-height: 46px;
+					border: 1px solid #575757;
+					border-radius: 4px;
+					padding: 0 45px 0 15px;
+					background: url("../images/arrowSelect.svg") no-repeat scroll right 20px center #fff;
+					appearance: none;
+					-moz-appearance: none;
+					-webkit-appearance: none;
+					min-width: 160px;
+					@include media-breakpoint-up(md) {
+						margin-left: 30px;
+					}
+					@include media-breakpoint-down(md) {
+						margin-left: 0;
+						flex-basis: calc(50% - 8px);
+						flex-grow: 0;
+						&:first-of-type {
+							margin-right: 1rem;
+						}
+					}
+				}
+			}
+
+		}
+		.filerCareer{
+			display: flex;
+			flex-direction: column;
+			overflow: hidden;
+			height: 100%;
+			.formFiler{
+				flex: 0 0 auto;
+			}
+			#listCareer{
+				flex: 1 1 auto;
+				overflow-y: auto;
+				padding: 15px 16px 0 16px;
+				@include media-breakpoint-down(md) {
+					padding: 0;
+				}
+				&::-webkit-scrollbar{
+					width: 5px;
+				}
+				&::-webkit-scrollbar-button {
+					display: none;
+				}
+				&::-webkit-scrollbar-track {
+					background: transparent;
+					border-radius: 100px;
+				}
+				&::-webkit-scrollbar-track-piece {
+					background: transparent;
+					border-radius: 100px;
+				}
+				&::-webkit-scrollbar-thumb {
+					background: $primary;
+					border-radius: 100px;
+				}
+				article{
+					background: white;
+					box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+					border-radius: 4px;
+					border: 2px solid transparent;
+					padding: 16px;
+					margin-bottom: 16px;
+					&:hover{
+						border: 2px solid $primary;
+						box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25);
+					}
+					.post-content{
+						display: flex;
+						.post-content-detail{
+							flex: 1;
+						}
+						.post-pdf{
+							width: 140px;
+							display: flex;
+							align-items: center;
+							justify-content: flex-end;
+							a{
+								color: #2F80ED;
+								font-size: 14px;
+							}
+						}
+						.post-location{
+							font-size: 12px;
+							line-height: 16px;
+							color: #3F3F3F;
+							font-weight: 300;
+						}
+						h3.post-title{
+							font-size: 18px;
+							line-height: 20px;
+							color: $primary-dark;
+							font-family: $headingFont;
+							margin: 5px 0 0 0;
+						}
+					}
+				}
+			}
+		}
+	}
+	.jobBlockContent {
+		@include media-breakpoint-down(md) {
+			.row {
+				> div {
+					&:first-of-type {
+						order: 2;
+					}
+					&:last-of-type {
+						order: 1;
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,323 @@
+.woocommerce-edit-account {
+	h1.entry-title {
+		@include media-breakpoint-down(md) {
+			margin-bottom: 36px !important;
+		}
+		@include media-breakpoint-down(sm) {
+			margin-bottom: 24px !important;
+		}
+	}
+}
+
+.woocommerce-EditAccountForm{
+	.userAvatar{
+		display: flex;
+		margin-bottom: 50px;
+		@include media-breakpoint-down(md) {
+			margin-bottom: 36px;
+		}
+		@include media-breakpoint-down(sm) {
+			margin-bottom: 24px;
+		}
+		.bgGAvatar{
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			font-family: $headingFont;
+			text-transform: uppercase;
+			border-radius: 500px;
+			color: #fff;
+			//font-size: 96px;
+			font-size: 64px;
+			height: 160px;
+			width: 160px;
+			@include media-breakpoint-down(md) {
+				height: 103px;
+				width: 103px;
+				font-size: 64px;
+			}
+			@include media-breakpoint-down(sm) {
+				height: 74px;
+				width: 74px;
+				font-size: 56px;
+			}
+		}
+		.img{
+			width: 160px;
+			@include media-breakpoint-down(md) {
+				width: 103px;
+			}
+			@include media-breakpoint-down(sm) {
+				width: 74px;
+			}
+		}
+		.userDetaiil{
+			flex: 1;
+			padding-left: 30px;
+			display: flex;
+			align-items: center;
+			@include media-breakpoint-down(md) {
+				padding-left: 16px;
+			}
+			.memberEdenred{
+				background-color: #FBAD18;
+				border-radius: 4px;
+				//text-align: center;
+				padding: 2px 0px;
+				margin-top: 5px;
+				font-size: 12px;
+				line-height: 16px;
+				color: white;
+				font-style: normal;
+				font-weight: 300;
+				width: 115px;
+				img{
+					height: 15px;
+					width: 15px;
+					margin: 4px 10px;
+				}
+			}
+			.pointEdenred {
+				width: 80px;
+				margin-top: 10px;
+				padding: 4px 0px;
+				font-style: normal;
+				font-weight: 300;
+				font-size: 12px;
+				line-height: 16px;
+				color: #A5AE51;
+				border: 1px solid #A5AE51;
+				border-radius: 4px;
+
+				img{
+					height: 15px;
+					width: 15px;
+					margin-bottom: 2px;
+					margin-left: 10px;
+					margin-right: 10px;
+				}
+			}
+		}
+		.userName{
+			font-family: $headingFont;
+			font-size: 34px;
+			line-height: 1;
+			margin: 0 0 10px 0;
+			color: black;
+			@include media-breakpoint-down(md) {
+				font-size: 24px;
+			}
+		}
+	}
+
+	.formFields{
+		margin-bottom: 10px;
+		&.formFieldsPassword {
+			margin-top: 8px;
+		}
+		h3.titleBox{
+			font-size: 34px;
+			line-height: 1;
+			margin-bottom: 24px;
+			font-family: $headingFont;
+			color: $primary-dark;
+			@include media-breakpoint-down(md) {
+				font-size: 24px;
+			}
+			@include media-breakpoint-down(sm) {
+				margin-bottom: 16px;
+			}
+		}
+		.field{
+			margin-bottom: 24px;
+			label{
+				font-size: 1rem;
+				line-height: 22px;
+				margin-bottom: 14px;
+				font-family: $headingFont;
+				color: #000;
+				display: block;
+			}
+			.woocommerce-Input,
+			.txt_select{
+				width: 100%;
+				height: 48px;
+				line-height: 46px;
+				border: 1px solid #3F3F3F;
+				border-radius: 4px;
+				background: #fff;
+				padding: 0 20px;
+				outline: none;
+			}
+			.datetimepicker{
+				background: url("../images/arrowSelect.svg") no-repeat scroll right 25px center #fff;
+			}
+			.txt_select{
+				padding: 0 15px;
+				background: url("../images/arrowSelect.svg") no-repeat scroll right 25px center #fff;
+				appearance: none;
+				-moz-appearance: none;
+				-webkit-appearance: none;
+			}
+			.show-password-input{
+				height: 46px;
+				width: 46px;
+				position: absolute;
+				right: 5px;
+				top: 1px;
+				background: url("../images/icnShowPassword.png") center center scroll no-repeat transparent;
+				background-size: 50%;
+				&:after{
+					display: none;
+				}
+				&.display-password{
+					background: url("../images/icnHidePassword.png") center center scroll no-repeat transparent;
+					background-size: 50%;
+				}
+			}
+		}
+	}
+	.fieldBtnSubmit{
+		text-align: right;
+		button.btn{
+			height: 49px;
+			border: none;
+			background: $primary;
+			color: #fff;
+			font-family: $headingFont;
+			font-size: 18px;
+			box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+			border-radius: 8px;
+			min-width: 166px;
+			padding: 0 15px;
+			text-transform: uppercase;
+		}
+	}
+}
+
+.woocommerce-MyAccount-content{
+	.woocommerce-Address{
+		margin-bottom: 50px;
+	}
+	h4.cdl-heading {
+		font-size: 24px;
+	}
+	#shipping_first_name_field,
+	#shipping_last_name_field,
+	#shipping_company_field,
+	#shipping_country_field,
+	#shipping_city_field,
+	#billing_first_name_field,
+	#billing_last_name_field,
+	#billing_company_field,
+	#billing_country_field,
+	#billing_city_field,
+	#billing_phone_field,
+	#billing_email_field
+	{
+		display: none;
+	}
+	.select2-container .select2-selection{
+		background-position: right 14px top 18px;
+	}
+	.select2-selection--single{
+		min-height: 48px;
+    border-radius: 5px;
+    border-color: $dark;
+    padding: 5px 0;
+    font-size: 14px;
+    .select2-selection__rendered{
+    	padding-left: 10px;
+			line-height: 36px;
+    }
+    .select2-selection__clear{
+    	display: none;
+    }
+  }
+  .form-row label{
+  	font-family: $headingFont;
+  	font-size: 1rem;
+  	color: #000;
+  }
+  .wc-social-login-profile{
+  	display: none;
+  }
+
+  #shipping_same_address_field{
+  	display: none;
+  }
+}
+
+.woocommerce-account {
+	.woocommerce-MyAccount-content,
+	.woocommerce-MyAccount-navigation {
+		float: none;
+		width: auto;
+	}
+}
+
+.woocommerce-MyAccount-navigation {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 130px;
+	@include media-breakpoint-down(md) {
+		display: none;
+	}
+	ul {
+		margin: 0;
+		padding: 16px 0;
+		list-style: none;
+		box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+		border-radius: 4px;
+		background: #F3F3F3;
+		font-family: $headingFont;
+
+		li {
+			a {
+				background: none;
+				border: none;
+				min-height: 36px;
+				font-size: 18px;
+				line-height: 24px;
+				padding: 7px 12px;
+				color: #3F3F3F;
+			}
+
+			&.active,
+			&:hover {
+				a {
+					background: #AAAAAA;
+					color: #fff;
+				}
+			}
+
+			&.customer-logout {
+				a {
+					color: #F44336;
+				}
+			}
+		}
+	}
+}
+
+.myAccountPage {
+	@include media-breakpoint-down(md) {
+		padding: 50px 0;
+	}
+	h1.entry-title {
+		color: $primary-dark;
+		font-size: 34px;
+		font-weight: bold;
+		line-height: 1;
+		margin-bottom: 30px;
+	}
+	.form-control {
+		height: 48px;
+		font-size: 14px;
+	}
+}
+
+.woocommerce-password-strength,
+.woocommerce-password-hint {
+	display: none!important;
+}

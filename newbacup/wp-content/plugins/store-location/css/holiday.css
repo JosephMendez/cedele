@@ -1,0 +1,39 @@
+.wpsl-holiday-container-form {
+	width: 100%;
+}
+
+.wpsl-holiday-container-form table {
+	width: 70%;
+}
+
+.wpsl-holiday-container-form textarea {
+	width: 80%;
+}
+
+.wpsl-holiday-container-form tr td:nth-child(1) {
+	vertical-align: top;
+}
+
+.wpsl-holiday-container-form table .wrap-location{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.wpsl-holiday-container-form .span-end-time {
+	margin-left: 20px;
+}
+
+.wpsl-holiday-container-form .item-outlet {
+	width: 30%;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.wpsl-holiday-container-form .item-outlet input[type="checkbox"] {
+	vertical-align: middle;
+}
+
+.wpsl-holiday-container-form .item-outlet span {
+	text-transform: capitalize;
+}

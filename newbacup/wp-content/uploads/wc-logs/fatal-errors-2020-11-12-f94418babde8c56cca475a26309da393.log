@@ -1,0 +1,12 @@
+2020-11-12T08:19:05+00:00 CRITICAL Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:125
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-includ in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php on line 125
+

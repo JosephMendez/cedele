@@ -1,0 +1,69 @@
+.cdl-heading{
+  color: $primary-dark;
+  font-family: $headingFont;
+}
+.cdl-sub-heading{
+  font-family: $bodyFont;
+}
+
+h1.cdl-heading{
+  //font-size: 6rem;
+	font-size: 4rem;
+}
+h2.cdl-heading{
+  //font-size: 3.75rem;
+	font-size: 3rem;
+}
+h3.cdl-heading{
+  //font-size: 3rem;
+	font-size: 2.4rem;
+}
+h4.cdl-heading{
+  //font-size: 1.5;
+	font-size: 1.8rem
+}
+h5.cdl-heading{
+  //font-size: 1.5rem;
+	font-size: 1.2rem;
+}
+h6.cdl-heading{
+  //font-size: 1.25rem;
+	font-size: 1rem;
+}
+
+
+h5.cdl-sub-heading{
+  //font-size: 1.5rem;
+	font-size: 1.2rem;
+}
+h6.cdl-sub-heading{
+	//font-size: 1.25rem;
+	font-size: 1rem;
+}
+
+.cdl-subtitle{
+  font-size: 0.875rem;
+}
+
+a{
+  color: $blue;
+  &:hover{
+    color: lighten($blue, 10%);
+    text-decoration: none;
+  }
+}
+
+.heading-font{
+  font-family: $headingFont;
+}
+
+.font-body{
+  font-family: $bodyFontRegular;
+  font-size: 1rem;
+  &.font-weight-semibold{
+    font-family: $bodyFontSb;
+  }
+  &.font-weight-bold{
+    font-family: $bodyFont;
+  }
+}

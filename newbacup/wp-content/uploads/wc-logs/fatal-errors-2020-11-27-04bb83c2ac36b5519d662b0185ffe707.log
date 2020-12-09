@@ -1,0 +1,77 @@
+2020-11-27T07:26:57+00:00 CRITICAL Uncaught Error: Call to a member function get_fees() on null in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php:575
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(270): wc_get_template('emails/admin-ne...', Array, '', '')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(118): wc_get_template_html('emails/admin-ne...', Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email.php(541): WC_Email_New_Order->get_content_html()
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(98): WC_Email->get_content()
+#5 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-admin.php(568): WC_Email_New_Order->trigger(5142, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#6 /var/www/html/wp-includes/ in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php on line 575
+
+2020-11-27T07:28:03+00:00 CRITICAL Uncaught Error: Call to a member function get_fees() on null in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php:575
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(270): wc_get_template('emails/admin-ne...', Array, '', '')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(118): wc_get_template_html('emails/admin-ne...', Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email.php(541): WC_Email_New_Order->get_content_html()
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(98): WC_Email->get_content()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_Email_New_Order->trigger(5142, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+# in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php on line 575
+
+2020-11-27T07:30:42+00:00 CRITICAL Uncaught Error: Call to a member function get_fees() on null in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php:575
+Stack trace:
+#0 /var/www/html/wp-content/themes/understrap/emails.php(30): require_once()
+#1 /var/www/html/wp-includes/class-wp-hook.php(289): change_order_status_created(5142)
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(363): do_action('woocommerce_ord...', 5142, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(221): WC_Order->status_transition()
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-order-data.php(644): WC_Order->save()
+#7 /var/www/html/wp-includes/class-wp-hook.php(289): WC_Meta_Box_Order_Data::save(5142)
+#8 /var/www/html/wp-includes/class in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php on line 575
+
+2020-11-27T07:32:10+00:00 CRITICAL Uncaught Error: Call to a member function get_fees() on null in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php:575
+Stack trace:
+#0 /var/www/html/wp-content/themes/understrap/emails.php(30): require_once()
+#1 /var/www/html/wp-includes/class-wp-hook.php(289): change_order_status_created(5142)
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(363): do_action('woocommerce_ord...', 5142, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(221): WC_Order->status_transition()
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-order-data.php(644): WC_Order->save()
+#7 /var/www/html/wp-includes/class-wp-hook.php(289): WC_Meta_Box_Order_Data::save(5142)
+#8 /var/www/html/wp-includes/class in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php on line 575
+
+2020-11-27T07:35:15+00:00 CRITICAL Uncaught Error: Call to a member function get_fees() on null in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php:575
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(270): wc_get_template('emails/admin-ne...', Array, '', '')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(118): wc_get_template_html('emails/admin-ne...', Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email.php(541): WC_Email_New_Order->get_content_html()
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(98): WC_Email->get_content()
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-order-actions.php(121): WC_Email_New_Order->trigger(5142, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#6 /var/www/html/wp-inclu in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php on line 575
+
+2020-11-27T07:35:26+00:00 CRITICAL Uncaught Error: Call to a member function get_fees() on null in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php:575
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(270): wc_get_template('emails/admin-ne...', Array, '', '')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(118): wc_get_template_html('emails/admin-ne...', Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email.php(541): WC_Email_New_Order->get_content_html()
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(98): WC_Email->get_content()
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-order-actions.php(121): WC_Email_New_Order->trigger(5142, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#6 /var/www/html/wp-inclu in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php on line 575
+
+2020-11-27T11:52:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/vendor/dompdf/dompdf/src/Dompdf.php on line 549
+
+2020-11-27T15:25:28+00:00 CRITICAL Uncaught Error: Call to a member function get_payment_method() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/checkout/thankyou.php:19
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(257): wc_get_template('checkout/thanky...', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(7686)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_shortcode_tag(Array)
+#7 /var/www/html/wp-includes/shortcodes.

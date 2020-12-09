@@ -1,0 +1,46 @@
+2020-11-11T07:46:52+00:00 CRITICAL Uncaught Error: Call to a member function get_payment_method() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/checkout/thankyou.php:19
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(257): wc_get_template('checkout/thanky...', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(5393)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_shortcode_tag(Array)
+#7 /var/www/html/wp-includes/shortcodes.php(218): preg_repla in /var/www/html/wp-content/themes/understrap/woocommerce/checkout/thankyou.php on line 19
+
+2020-11-11T10:47:07+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:1156
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): {closure}(false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters(false, Array)
+#2 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-order-product-fields.php(318): apply_filters('woe_get_order_p...', false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1605): WC_Order_Export_Order_Product_Fields->get('department')
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1680): WC_Order_Export_Data_Extractor::fetch_order_products(Object(WC_Order), Object(WC_Order_Export_Labels), Array, Array, Object(WC_Order_Export_O in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php on line 1156
+
+2020-11-11T10:47:40+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:1156
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): {closure}(false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters(false, Array)
+#2 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-order-product-fields.php(318): apply_filters('woe_get_order_p...', false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1605): WC_Order_Export_Order_Product_Fields->get('department')
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1680): WC_Order_Export_Data_Extractor::fetch_order_products(Object(WC_Order), Object(WC_Order_Export_Labels), Array, Array, Object(WC_Order_Export_O in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php on line 1156
+
+2020-11-11T11:18:14+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:1156
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): {closure}(false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters(false, Array)
+#2 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-order-product-fields.php(318): apply_filters('woe_get_order_p...', false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1605): WC_Order_Export_Order_Product_Fields->get('department')
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1680): WC_Order_Export_Data_Extractor::fetch_order_products(Object(WC_Order), Object(WC_Order_Export_Labels), Array, Array, Object(WC_Order_Export_O in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php on line 1156
+
+2020-11-11T12:19:53+00:00 CRITICAL Uncaught Error: Call to a member function get_payment_method() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/checkout/thankyou.php:19
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(257): wc_get_template('checkout/thanky...', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(0)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_shortcode_tag(Array)
+#7 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_ in /var/www/html/wp-content/themes/understrap/woocommerce/checkout/thankyou.php on line 19
+

@@ -1,0 +1,73 @@
+.wp-product-avaiable {
+	margin-top: 20px;
+}
+
+.wp-product-avaiable span {
+	text-transform: capitalize;
+}
+
+/* product-availability-type-product */
+.product-availability-type-product input {
+	margin-left: 50px;
+}
+
+.product-availability-type-product label {
+	vertical-align: baseline !important;
+}
+
+.wp-product-avaiable .wp-product-avaiable-sub {
+	padding-left: 20px;
+}
+
+.wp-product-store-location {
+	display: none;
+}
+
+.wp-product-delivery-method {
+	padding-left: 20px;
+}
+
+.wp-product-delivery-method div {
+	margin-top: 10px
+}
+
+.wp-product-delivery-method input[type="checked"] {
+	vertical-align: middle !important;
+}
+.wp-product-list-location {
+	display: flex;
+	flex-wrap: wrap;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+
+.wp-product-list-location .wp-product-location {
+    width: 30%;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+/* product lead time */
+.wp-product-lead-time {
+	padding-left: 20px;
+}
+
+.wp-product-lead-time > div {
+	margin-top: 10px
+}
+
+.wp-product-lead-time input[type="checked"] {
+	vertical-align: middle !important;
+}
+
+.wp-product-lead-time .lead-time-row span {
+	margin-left: 50px;
+	display: none;
+}
+
+.wp-product-lead-time .lead-time-row {
+	height: 30px;
+	display: flex;
+    align-items: center;
+}

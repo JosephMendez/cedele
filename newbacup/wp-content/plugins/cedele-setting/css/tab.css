@@ -1,0 +1,42 @@
+.cdls-nav {
+    border-bottom: 1px solid gray;
+    position: relative;
+    outline: none;
+}
+
+.cdls-nav .cdls-nav-item {
+    display: inline-block;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border: 1px solid gray;
+    background-color: white;
+    position: relative;
+    top: 1px;
+    background-color: #EBEBEB;
+}
+
+.cdls-nav .cdls-nav-item:hover {
+    /*background-color: #75A9F9;*/
+    background-color: white;
+    border-bottom: none;
+    height: 29px;
+}
+
+.cdls-nav .cdls-nav-item.active {
+    /*background-color: #75A9F9;*/
+    background-color: white;
+    border-bottom: none;
+    height: 29px;
+}
+
+.cdls-nav a {
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding: 5px 10px;
+}
+
+.cdls-form .subsubsub {
+    margin-left: 8px;
+    width: 100%;
+}

@@ -1,0 +1,22 @@
+{
+    "name": "a3rev/wc-dynamic-gallery",
+    "description": "Auto adds a fully customizable dynamic images gallery to every single product page with thumbnails, caption text and lazy-load. Over 28 settings to fine tune every aspect of the gallery. Creates an image gallery manager on every product edit page - greatly simplifies managing product images. Search engine optimized images with WooCommerce Dynamic Gallery Pro.",
+    "license": "GPLv2 or later",
+    "authors": [
+        {
+            "name": "a3rev Software",
+            "email": "admin@a3rev.com"
+        }
+    ],
+    "config": {
+        "optimize-autoloader": true
+    },
+    "require": {
+        "php": ">=5.6|>=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+          "A3Rev\\WCDynamicGallery\\": [ "admin/", "includes/", "classes/", "widget/" ]
+        }
+    }
+}

@@ -1,0 +1,89 @@
+2020-12-02T00:54:52+00:00 CRITICAL Uncaught RuntimeException: Failed to fetch media due to an error from Instagram's API: The Instagram API responded with an error: Error #0 [Unknown]: [error details could not be retrieved] in /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/MediaStore/MediaStore.php:145
+Stack trace:
+#0 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Actions/ImportMediaAction.php(54): RebelCode\Spotlight\Instagram\MediaStore\MediaStore->getFeedMedia(Object(RebelCode\Spotlight\Instagram\Feeds\Feed))
+#1 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Utils/Arrays.php(100): RebelCode\Spotlight\Instagram\Actions\ImportMediaAction->RebelCode\Spotlight\Instagram\Actions\{closure}(Object(WP_Post), 1)
+#2 [internal function]: RebelCode\Spotlight\Instagram\Utils\Arrays::RebelCode\Spotlight\Instagram\Utils\{closure}(Object(WP_Post), 1)
+#3 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Utils/Arrays.php(101): array_walk(Array, Object in /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/MediaStore/MediaStore.php on line 145
+
+2020-12-02T01:57:03+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:1205
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): {closure}(false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters(false, Array)
+#2 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-order-product-fields.php(318): apply_filters('woe_get_order_p...', false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1605): WC_Order_Export_Order_Product_Fields->get('department')
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1680): WC_Order_Export_Data_Extractor::fetch_order_products(Object(WC_Order), Object(WC_Order_Export_Labels), Array, Array, Object(WC_Order_Export_O in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php on line 1205
+
+2020-12-02T03:06:24+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:1205
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): {closure}(false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters(false, Array)
+#2 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-order-product-fields.php(318): apply_filters('woe_get_order_p...', false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1605): WC_Order_Export_Order_Product_Fields->get('department')
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1680): WC_Order_Export_Data_Extractor::fetch_order_products(Object(WC_Order), Object(WC_Order_Export_Labels), Array, Array, Object(WC_Order_Export_O in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php on line 1205
+
+2020-12-02T03:39:54+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:1205
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): {closure}(false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters(false, Array)
+#2 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-order-product-fields.php(318): apply_filters('woe_get_order_p...', false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1605): WC_Order_Export_Order_Product_Fields->get('department')
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1680): WC_Order_Export_Data_Extractor::fetch_order_products(Object(WC_Order), Object(WC_Order_Export_Labels), Array, Array, Object(WC_Order_Export_O in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php on line 1205
+
+2020-12-02T04:31:50+00:00 CRITICAL Uncaught Exception: Invalid order item. in /var/www/html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-item-type-data-store.php:135
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/data-stores/class-wc-order-item-product-data-store.php(34): Abstract_WC_Order_Item_Type_Data_Store->read(Object(WC_Order_Item_Product))
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): WC_Order_Item_Product_Data_Store->read(Object(WC_Order_Item_Product))
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order-item.php(74): WC_Data_Store->read(Object(WC_Order_Item_Product))
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/formats/abstract-class-woe-formatter-plain-format.php(280): WC_Order_Item->__construct(1)
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/formats/abstract-class-woe-formatter-plain-format.php(69): WOE_Formatter_Plain_Format->try_fill_summary_report_products_fields(Array)
+#5 /var/www/ in /var/www/html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-item-type-data-store.php on line 135
+
+2020-12-02T04:32:22+00:00 CRITICAL Uncaught Exception: Invalid order item. in /var/www/html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-item-type-data-store.php:135
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/data-stores/class-wc-order-item-product-data-store.php(34): Abstract_WC_Order_Item_Type_Data_Store->read(Object(WC_Order_Item_Product))
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): WC_Order_Item_Product_Data_Store->read(Object(WC_Order_Item_Product))
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order-item.php(74): WC_Data_Store->read(Object(WC_Order_Item_Product))
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/formats/abstract-class-woe-formatter-plain-format.php(280): WC_Order_Item->__construct(1)
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/formats/abstract-class-woe-formatter-plain-format.php(69): WOE_Formatter_Plain_Format->try_fill_summary_report_products_fields(Array)
+#5 /var/www/ in /var/www/html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-item-type-data-store.php on line 135
+
+2020-12-02T04:34:11+00:00 CRITICAL Uncaught Exception: Invalid order item. in /var/www/html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-item-type-data-store.php:135
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/data-stores/class-wc-order-item-product-data-store.php(34): Abstract_WC_Order_Item_Type_Data_Store->read(Object(WC_Order_Item_Product))
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): WC_Order_Item_Product_Data_Store->read(Object(WC_Order_Item_Product))
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order-item.php(74): WC_Data_Store->read(Object(WC_Order_Item_Product))
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/formats/abstract-class-woe-formatter-plain-format.php(280): WC_Order_Item->__construct(1)
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/formats/abstract-class-woe-formatter-plain-format.php(69): WOE_Formatter_Plain_Format->try_fill_summary_report_products_fields(Array)
+#5 /var/www/ in /var/www/html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-item-type-data-store.php on line 135
+
+2020-12-02T04:34:22+00:00 CRITICAL Uncaught Exception: Invalid order item. in /var/www/html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-item-type-data-store.php:135
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/data-stores/class-wc-order-item-product-data-store.php(34): Abstract_WC_Order_Item_Type_Data_Store->read(Object(WC_Order_Item_Product))
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): WC_Order_Item_Product_Data_Store->read(Object(WC_Order_Item_Product))
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order-item.php(74): WC_Data_Store->read(Object(WC_Order_Item_Product))
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/formats/abstract-class-woe-formatter-plain-format.php(280): WC_Order_Item->__construct(1)
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/formats/abstract-class-woe-formatter-plain-format.php(69): WOE_Formatter_Plain_Format->try_fill_summary_report_products_fields(Array)
+#5 /var/www/ in /var/www/html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-item-type-data-store.php on line 135
+
+2020-12-02T08:54:45+00:00 CRITICAL Uncaught RuntimeException: Failed to fetch media due to an error from Instagram's API: The Instagram API responded with an error: Error #0 [Unknown]: [error details could not be retrieved] in /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/MediaStore/MediaStore.php:145
+Stack trace:
+#0 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Actions/ImportMediaAction.php(54): RebelCode\Spotlight\Instagram\MediaStore\MediaStore->getFeedMedia(Object(RebelCode\Spotlight\Instagram\Feeds\Feed))
+#1 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Utils/Arrays.php(100): RebelCode\Spotlight\Instagram\Actions\ImportMediaAction->RebelCode\Spotlight\Instagram\Actions\{closure}(Object(WP_Post), 1)
+#2 [internal function]: RebelCode\Spotlight\Instagram\Utils\Arrays::RebelCode\Spotlight\Instagram\Utils\{closure}(Object(WP_Post), 1)
+#3 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Utils/Arrays.php(101): array_walk(Array, Object in /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/MediaStore/MediaStore.php on line 145
+
+2020-12-02T10:54:27+00:00 CRITICAL Uncaught RuntimeException: Failed to fetch media due to an error from Instagram's API: The Instagram API responded with an error: Error #2 [OAuthException]: An unexpected error has occurred. Please retry your request later. in /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/MediaStore/MediaStore.php:145
+Stack trace:
+#0 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Actions/ImportMediaAction.php(54): RebelCode\Spotlight\Instagram\MediaStore\MediaStore->getFeedMedia(Object(RebelCode\Spotlight\Instagram\Feeds\Feed))
+#1 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Utils/Arrays.php(100): RebelCode\Spotlight\Instagram\Actions\ImportMediaAction->RebelCode\Spotlight\Instagram\Actions\{closure}(Object(WP_Post), 1)
+#2 [internal function]: RebelCode\Spotlight\Instagram\Utils\Arrays::RebelCode\Spotlight\Instagram\Utils\{closure}(Object(WP_Post), 1)
+#3 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Utils/Arrays in /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/MediaStore/MediaStore.php on line 145
+
+2020-12-02T12:00:40+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php:1205
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(287): {closure}(false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#1 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters(false, Array)
+#2 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-order-product-fields.php(318): apply_filters('woe_get_order_p...', false, Object(WC_Order), Object(WC_Order_Item_Product), false, Array)
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1605): WC_Order_Export_Order_Product_Fields->get('department')
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/core/class-wc-order-export-data-extractor.php(1680): WC_Order_Export_Data_Extractor::fetch_order_products(Object(WC_Order), Object(WC_Order_Export_Labels), Array, Array, Object(WC_Order_Export_O in /var/www/html/wp-content/themes/understrap/inc/woocommerce.php on line 1205
+

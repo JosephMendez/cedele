@@ -1,0 +1,84 @@
+.woocommerce-order-received .wrapper{
+  background: url(../images/BG.jpg) no-repeat center/cover;
+  min-height: 680px;
+  padding: 100px 0;
+	@include media-breakpoint-up(md) {
+		padding: 80px 0;
+	}
+  .entry-header{
+    display: none;
+  }
+  .woocommerce-order-overview{
+    text-align: center;
+		margin-bottom: 1rem;
+    li{
+      float: none;
+      text-align: left;
+      display: inline-block;
+			margin-bottom: 1rem;
+			@include media-breakpoint-down(sm) {
+				display: block;
+				border: none;
+			}
+    }
+  }
+  .omise-paynow-details{
+    display: none;
+  }
+}
+.woocommerce-order {
+	max-width: 730px;
+	background-color: white;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 4px;
+	margin: 0 auto;
+	padding: 50px;
+	@include media-breakpoint-down(sm) {
+		padding: 50px 20px;
+	}
+	.omise-paynow-details {
+		margin: 0 !important;
+	}
+	i.icon-check {
+		display: inline-block;
+		width: 42px;
+		height: 42px;
+		background: url(../images/check.png) no-repeat center center / 100% auto;
+		vertical-align: middle;
+		margin-right: 30px;
+	}
+	.thankyou-box{
+		text-align: center;
+	}
+	.cdl-heading{
+		color: #6DAD48;;
+		font-style: normal;
+		font-weight: bold;
+		/*font-size: 48px;*/
+		/*line-height: 46px;*/
+		font-size: 34px;
+		line-height: 1;
+		margin-bottom: 1rem;
+		@include media-breakpoint-down(sm) {
+			font-size: 24px;
+		}
+	}
+	.order-id{
+		color: #2F80ED;
+		font-weight: bold;
+		font-size: 20px;
+		line-height: 22px;
+		margin-bottom: 12px;
+	}
+	.home-link{
+		width: 420px;
+		max-width: 90%;
+	}
+	a.btn {
+		width: 58%;
+		@include media-breakpoint-down(sm) {
+			width: 100%;
+			max-width: 271px;
+		}
+	}
+}

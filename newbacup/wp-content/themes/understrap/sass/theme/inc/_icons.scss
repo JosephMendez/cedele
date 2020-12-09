@@ -1,0 +1,146 @@
+@font-face {
+	font-family: "CedeleIcons";
+	src: url('../fonts/icons/CedeleIcons.eot');
+	src: url('../fonts/icons/CedeleIcons.eot?#iefix') format('eot'),
+		url('../fonts/icons/CedeleIcons.woff2') format('woff2'),
+		url('../fonts/icons/CedeleIcons.woff') format('woff'),
+		url('../fonts/icons/CedeleIcons.ttf') format('truetype'),
+		url('../fonts/icons/CedeleIcons.svg#CedeleIcons') format('svg');
+}
+
+.cdl-icon:before {
+	font-family: "CedeleIcons";
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	/* speak: none; only necessary if not using the private unicode range (firstGlyph option) */
+	text-decoration: none;
+	text-transform: none;
+}
+
+
+.cdl-icon-Arrow:before {
+	content: "\E001";
+}
+
+.cdl-icon-Award:before {
+	content: "\E002";
+}
+
+.cdl-icon-Bag:before {
+	content: "\E003";
+}
+
+.cdl-icon-Book:before {
+	content: "\E004";
+}
+
+.cdl-icon-Cake:before {
+	content: "\E005";
+}
+
+.cdl-icon-chev-down:before {
+	content: "\E006";
+}
+
+.cdl-icon-Circle-active:before {
+	content: "\E007";
+}
+
+.cdl-icon-Circle-minus:before {
+	content: "\E008";
+}
+
+.cdl-icon-Circle-plus:before {
+	content: "\E009";
+}
+
+.cdl-icon-Circle:before {
+	content: "\E00A";
+}
+
+.cdl-icon-Clock:before {
+	content: "\E00B";
+}
+
+.cdl-icon-Discount:before {
+	content: "\E00C";
+}
+
+.cdl-icon-Drink:before {
+	content: "\E00D";
+}
+
+.cdl-icon-Facebook:before {
+	content: "\E00E";
+}
+
+.cdl-icon-Favorite:before {
+	content: "\E00F";
+}
+
+.cdl-icon-Flame:before {
+	content: "\E010";
+}
+
+.cdl-icon-Gift:before {
+	content: "\E011";
+}
+
+.cdl-icon-Google:before {
+	content: "\E012";
+}
+
+.cdl-icon-Ice-cream:before {
+	content: "\E013";
+}
+
+.cdl-icon-Map:before {
+	content: "\E014";
+}
+
+.cdl-icon-Money:before {
+	content: "\E015";
+}
+
+.cdl-icon-Pen:before {
+	content: "\E016";
+}
+
+.cdl-icon-Phone:before {
+	content: "\E017";
+}
+
+.cdl-icon-Search:before {
+	content: "\E018";
+}
+
+.cdl-icon-Share:before {
+	content: "\E019";
+}
+
+.cdl-icon-Shopping-cart:before {
+	content: "\E01A";
+}
+
+.cdl-icon-Smile:before {
+	content: "\E01B";
+}
+
+.cdl-icon-Square-check:before {
+	content: "\E01C";
+}
+
+.cdl-icon-Squarebox:before {
+	content: "\E01D";
+}
+
+.cdl-icon-Store:before {
+	content: "\E01E";
+}
+
+.cdl-icon-X-mark:before {
+	content: "\E01F";
+}

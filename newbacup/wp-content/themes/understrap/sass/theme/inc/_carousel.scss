@@ -1,0 +1,142 @@
+.carousel-slider {
+	overflow: hidden !important;
+	.btn-hero {
+		position: absolute;
+		bottom: 240px;
+		@include media-breakpoint-down(md) {
+			bottom: 68px !important;
+		}
+		@include media-breakpoint-down(sm) {
+			display: none;
+		}
+	}
+}
+
+.carousel-slider-hero__cell {
+	@media (max-width: 1600px) {
+		height: 656px !important;
+	}
+	@include media-breakpoint-down(md) {
+		height: 346px !important;
+	}
+	@include media-breakpoint-down(sm) {
+		height: 169px !important;
+	}
+}
+
+.owl-dots .owl-dot.active span{
+  width: 65px!important;
+}
+.carousel-slider button.owl-dot{
+  outline: 0!important;
+}
+.carousel-slider .owl-dots .owl-dot span{
+  margin: 4px;
+}
+.carousel-slider .owl-dots{
+  left: 3rem;
+  bottom: 180px;
+}
+.carousel-slider-hero__cell__content{
+  position: unset;
+}
+
+.carousel-slider .owl-dots {
+  position: absolute;
+  bottom: 23%;
+  left: 22%;
+}
+@media (min-width: 1140px){
+  .carousel-slider .owl-dots{
+    left: calc( (100vw - 1160px) / 2 );
+  }
+}
+
+.cedele-carousel{
+  &.products.columns-4{
+    li.product{
+      width: 100%!important;
+      margin-right: 0;
+    }
+  }
+  .owl-dots{
+    text-align: center;
+  }
+  .owl-dots button.owl-dot{
+    outline: 0!important;
+  }
+  .owl-dots .owl-dot span {
+    background-color: $primary-light;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    border-radius: 9999px;
+    margin: 4px;
+    -webkit-backface-visibility: visible;
+    -webkit-transition: opacity .2s ease;
+    transition: opacity .2s ease;
+  }
+  .owl-dots .owl-dot.active span,
+  .owl-dots .owl-dot:hover span {
+    background-color: $primary;
+  }
+  .owl-nav{
+    button{
+      width: 56px;
+      height: 56px;
+      border: 1px solid $dark!important;
+      display: block;
+      background-color: #fff!important;
+      outline: 0;
+      border-radius: 100%;
+      font-size: 2rem!important;
+      text-indent: -9999px;
+      background-size: 6px!important;
+      background-repeat: no-repeat!important;
+      background-position: center!important;
+      -webkit-transition: all .2s ease;
+      transition: all .2s ease;
+      position: absolute;
+      top: 50%;
+      margin-top: -65px;
+			@include media-breakpoint-down(sm) {
+				width: 30px;
+				height: 30px;
+				margin-top: -45px;
+				border: none !important;
+				background-color: rgba(255,255,255,0.9) !important;
+			}
+      &.disabled{
+        pointer-events: none;
+				@include media-breakpoint-up(sm) {
+					background-color: $gray !important;
+				}
+      }
+      &:hover{
+				@include media-breakpoint-up(sm) {
+					background-color: $gray !important;
+				}
+			}
+      &.owl-prev{
+        background-image: url(../assets/symbol/arrow-left.svg)!important;
+        left: -75px;
+				@include media-breakpoint-down(md) {
+					left: -25px;
+				}
+				@include media-breakpoint-down(sm) {
+					left: 0;
+				}
+      }
+      &.owl-next{
+        background-image: url(../assets/symbol/arrow-right.svg)!important;
+        right: -75px;
+				@include media-breakpoint-down(md) {
+					right: -25px;
+				}
+				@include media-breakpoint-down(sm) {
+					right: 0;
+				}
+      }
+    }
+  }
+}

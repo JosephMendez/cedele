@@ -1,0 +1,683 @@
+/*
+Theme Name: UnderStrap
+Theme URI: https://understrap.com
+Author: Holger Koenemann
+Author URI: https://www.holgerkoenemann.de
+GitHub Theme URI: https://github.com/understrap/understrap
+Description: Combination of Automattic´s _s theme and Bootstrap 4. Made as a solid starting point for your next theme project and WordPress website. Use it as starter theme or as a parent theme. It is up to you. Including Font Awesome support, built-in widget slider and much more you need for basic websites. IMPORTANT: All developer dependencies are not bundled with this install file. Just download the .zip, extract it and run "npm install" and "gulp copy-assets" inside the extracted /understrap folder.
+That downloads everything and moves it in place so that you can recompile your CSS and JS files;
+A developer version (with Gulp/node and Sass sources) is available on gitHub: https://github.com/understrap/understrap
+A child theme is available on Github, too: https://github.com/understrap/understrap-child;
+Version: 0.9.4
+License: UnderStrap WordPress Theme, Copyright 2013-2017 Holger Koenemann
+UnderStrap is distributed under the terms of the GNU GPL version 2
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: understrap
+Tags: one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, theme-options, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+UnderStrap is based on Underscores https://underscores.me/, (C) 2012-2016 Automattic, Inc.
+
+Resource Licenses:
+Font Awesome: http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+Bootstrap: https://getbootstrap.com | https://github.com/twbs/bootstrap/blob/master/LICENSE (Code licensed under MIT, documentation under CC BY 3.0.)
+and of course
+jQuery: https://jquery.org | (Code licensed under MIT)
+WP Bootstrap Navwalker by Edward McIntyre: https://github.com/twittem/wp-bootstrap-navwalker | GNU GPL
+*/
+
+/*
+This file is just used to identify the theme in WordPress.
+The compiled CSS output can be found in /css/theme.css
+The SASS sources for it can be found in /sass/
+The dependencies can be found in /src/ after running "gulp copy-assets" terminal command
+
+...and now go out and play!
+*/
+
+.select2-selection__rendered {
+	font-family: 'Gotham Regular', -apple-system, Roboto, Arial !important;
+}
+
+.select2-results__options li {
+	font-family: 'Gotham Regular', -apple-system, Roboto, Arial;
+}
+
+.advance-notice {
+	background: #5FB8B6 !important;
+}
+
+.store-card.overlay .store-image {
+	width: 373px !important;
+	height: 261px !important;
+}
+
+.store-card.overlay {
+	max-width: 373px !important;
+}
+
+.store-card {
+	overflow: hidden !important;
+}
+
+.woocommerce .woocommerce-filter-product label {
+	font-family: 'Gotham Regular', -apple-system, san-serif;
+	font-size: 1rem;
+}
+
+.price-front {
+	display: flex !important;
+	/*justify-content: flex-end !important;*/
+}
+
+.price-decima {
+	font-size: 0.875rem;
+}
+
+.qtt-input:focus {
+	outline: 2px solid #914204;
+}
+
+.select2-container--bootstrap4 .select2-results__option--highlighted, .select2-container--bootstrap4 .select2-results__option--highlighted.select2-results__option[aria-selected=true] {
+	background-color: #E7D8C3 !important;
+	/*padding:top;*/
+}
+
+/*//Custom Blog list*/
+.card_blog {
+	background-color: #fff;
+	background-clip: border-box;
+	border: 1px solid rgba(0, 0, 0, .125);
+	padding: 10px;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 4px;
+	margin-bottom: 36px;
+	border-top: none;
+}
+
+.card_blog:hover {
+	border: 3px solid #914204;
+}
+
+.title {
+	font-family: 'Gotham Regular', -apple-system, san-serif;
+	font-style: normal;
+	font-weight: bold;
+	color: #3C1605;
+	margin-top: 1rem;
+	text-align: center;
+}
+.title:hover {
+	color: #914204;
+}
+
+p > .btn-secondary {
+	font-family: 'Gotham Regular', -apple-system, san-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 22px;
+	color: #AD8850;
+	background-color: transparent !important;
+	border-color: transparent !important;
+	padding-left: 0;
+}
+
+#right-sidebar > .widget_categories {
+	background: #FFFFFF;
+	box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25);
+	border-radius: 4px;
+	padding-left: 15px;
+	padding-top: 10px;
+	margin-bottom: 5em;
+	position: sticky;
+	top: 7em;
+	z-index: 1000;
+}
+
+#right-sidebar > .widget_categories > h3 {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	line-height: 32px;
+	color: #3C1605;
+	font-family: 'Gotham Regular', -apple-system, san-serif;
+}
+
+#right-sidebar > .widget_categories > ul > li > a {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 28px;
+	font-family: 'Gotham Regular', -apple-system, san-serif;
+	color: #3F3F3F;
+}
+
+#right-sidebar > .widget_categories > ul {
+	padding-left: 0;
+}
+
+#right-sidebar > .widget_categories > ul > li {
+	list-style-type: none;
+}
+
+.col-8 > p {
+	font-family: 'Gotham Regular', -apple-system, san-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 24px;
+	color: #000000;
+}
+
+.border_top {
+	margin: auto;
+	width: 114px;
+	height: 0px;
+	border-top: 3px solid #914204;
+}
+
+.wrap_text_blog {
+	padding-top: 50px;
+	padding-bottom: 52px;
+}
+
+.title_blog {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 96px;
+	line-height: 91px;
+	color: #3C1605;
+	font-family: 'Gotham Regular', -apple-system, san-serif;
+}
+
+.wrapper_blog_list {
+	margin-top: 1rem;
+}
+
+.widget_media_image {
+	z-index: -9999 !important;
+}
+
+.date_create {
+	font-style: normal;
+	font-weight: 300;
+	font-size: 12px;
+	line-height: 16px;
+	text-align: center;
+	color: #3F3F3F;
+}
+
+.left_blog_sub .date_create {
+	margin-bottom: 24px;
+}
+
+.icon_left_blog {
+	position: absolute;
+	width: 406px;
+	height: 241px;
+	left: -16rem;
+	top: 50rem;
+	transform: rotate(-15deg);
+}
+
+.icon_blog_2 {
+	position: absolute;
+	left: -2rem;
+	top: 80rem;
+}
+
+.icon_blog_3 {
+	position: absolute;
+	right: -7rem;
+	top: 50rem;
+}
+
+.icon_blog_4 {
+	position: absolute;
+	top: 80rem;
+	right: -87px;
+}
+
+.div_left {
+	width: 730px;
+	float: left;
+}
+
+.div_right {
+	margin-left: 30px;
+}
+
+.blog-template-ads {
+	position: relative;
+}
+
+.blog-template-ads-sub {
+	width: 100%;
+	position: sticky;
+	top: 100px;
+}
+
+.ads_blog {
+	position: relative;
+}
+
+.ads_blog .btn_add_to_cart {
+	/* position: absolute; */
+	position: absolute;
+	bottom: 35px;
+}
+
+.div-select-category-blog span.select2 {
+	opacity: 0;
+}
+
+.row_blog {
+	display: flex;
+	height: 348px;
+	width: 100%;
+	background: #FFFFFF;
+	box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 4px;
+	float: left;
+	margin-bottom: 36px;
+	position: relative;
+}
+
+.row_category_blog {
+	width: 100%;
+}
+
+.category_list {
+	width: 100%;
+	background: #FFFFFF;
+	box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25);
+	border-radius: 4px;
+}
+
+.left_blog {
+	padding: 0px 24px;
+	display: flex;
+	align-items: center;
+	height: 100%;
+	flex-grow: 1;
+}
+
+.left_blog_sub {
+	width: 100%;
+	z-index: 90;
+}
+
+.left_blog_sub h3 {
+	margin-top: 16px;
+}
+
+.right_blog {
+	flex-shrink: 0;
+	width: 354px;
+	height: 100%;
+	border-bottom-right-radius: inherit;
+	border-top-right-radius: inherit;
+	border-bottom-left-radius: 0px;
+	border-top-left-radius: 0px;
+}
+
+.right_blog img {
+	width: 100%;
+	height: 100%;
+	border-radius: inherit;
+	object-fit: cover;
+}
+
+.layer_blog {
+	width: 100%;
+	height: 100%;
+	border-radius: inherit;
+	border: 2px solid transparent;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.row_blog:hover .layer_blog {
+	border: 2px solid #914204;
+}
+
+.row_blog:nth-child(even) .left_blog {
+
+}
+
+.row_blog:nth-child(even) {
+	flex-direction: row-reverse;
+}
+
+.row_blog:nth-child(even) .right_blog {
+	border-bottom-right-radius: 0px;
+	border-top-right-radius: 0px;
+	border-bottom-left-radius: inherit;
+	border-top-left-radius: inherit;
+}
+
+.row_blog a[class$="read-more-link"] {
+	font-family: inherit;
+}
+
+.blog-read-button {
+	text-align: center;
+	display: none;
+}
+
+.blog-read-button a {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 22px;
+	color: #AD8850;
+	font-family: 'Gotham Regular', -apple-system, san-serif;
+}
+
+.cat-item>a {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 28px;
+	color: #3F3F3F;
+}
+.cat-item {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 28px;
+	color: #3F3F3F;
+	position: relative;
+	display: block;
+	padding: 0;
+	margin-bottom: 14px;
+	background-color: #fff;
+	font-family: 'Gotham Regular', -apple-system, san-serif;
+}
+
+.cat-item:last-child {
+	margin-bottom: 0px;
+}
+
+.ads_blog_text_top
+{
+	color: rgba(255,255,255,1);
+	text-align: center;
+	font-family: 'Gotham Regular', -apple-system, san-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 17px;
+	padding-top: 338px;
+}
+.ads_blog_text_bottom
+{
+	color: rgba(255,255,255,1);
+	text-align: center;
+	font-family: 'Gotham Regular', -apple-system, san-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	line-height: 32px;
+}
+.btn_add_to_cart
+{
+	width: 152px;
+	height: 49px;
+	left: calc(50% - 152px/2);
+	background: #914204;
+	box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 8px;
+	display: inline-block;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 1rem;
+	font-family: 'Gotham Regular', -apple-system, san-serif;
+	line-height: 18px;
+	text-align: center;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	flex: none;
+	order: 0;
+	align-self: center;
+	border-color: transparent;
+	white-space: nowrap;
+}
+.blog-content-div .read_more {
+	margin-top: 12px;
+	display: block;
+}
+.read_more{
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 22px;
+	color: #AD8850;
+	font-family: 'Gotham Regular', -apple-system, san-serif;
+}
+.cat_item_title
+{
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	list-style-type: none;
+	padding: 0;
+	line-height: 32px;
+	color: #3C1605;
+	font-family: 'Gotham Regular', -apple-system, san-serif;
+	margin-bottom: 24px;
+}
+.pagination_center
+{
+	display: flex;
+	justify-content: center;
+}
+.share-wrap {
+	width: 100%;
+	height: 124px;
+	background: #F3F3F3;
+	padding: 5px;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.share_btn {
+	justify-content: center;
+	display: flex;
+	align-items: center;
+}
+
+.share_btn > a {
+	margin-left: 36px;
+}
+
+.text_share {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 28px;
+	text-align: center;
+	color: #000000;
+	font-family: 'Gotham Regular', -apple-system, san-serif;
+}
+
+.related_border {
+	width: 100%;
+	margin-top: 1em;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px 190px 0px 190px;
+}
+/*//Order term*/
+.quicklink>li {
+	border: none;
+}
+
+.quicklink>li>a {
+	border: none;
+	font-family: 'Gotham Regular', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 1;
+	color: #3F3F3F;
+}
+
+.quicklink>li:hover {
+	background: #AAAAAA;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.quicklink>li>a:hover {
+	background: #AAAAAA;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.blog-template-section ul.list-group {
+	padding: 24px 24px 30px 24px;
+}
+
+.list-group,
+.left_faq,
+.list-group-item {
+	background: transparent;
+}
+
+.left_faq {
+	display: flex;
+	flex-direction: column;
+	padding: 16px 0px;
+	width: 300px;
+	height: 188px;
+	background: #F3F3F3;
+	box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 4px;
+	border: none !important;
+}
+
+.right_faq {
+	width: 700px;
+	float: right;
+	margin-left: 30px;
+}
+.text_description_page,.right_faq>.container>p
+{
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 24px;
+	color: #3F3F3F;
+	font-family: 'Gotham Regular', -apple-system, san-serif;
+}
+.title_page
+{
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px !important;
+	line-height: 57px;
+	color: #3C1605;
+	font-family: 'Gotham Regular', sans-serif;
+	margin-bottom: 50px;
+}
+/*//order term*/
+.blog-content .blog-content-sub > p
+{
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 24px;
+	color: #3F3F3F;
+}
+
+.blog-content {
+	padding: 0px 95px 0px 95px;
+}
+
+.clearfix {
+	clear: both;
+}
+
+.blog-content-sub {
+	border: 2px solid #F3F3F3;
+	padding: 36px 95px 50px 95px;
+}
+
+.title_sub {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	line-height: 1;
+	color: #000000;
+	font-family: 'Gotham Regular', sans-serif;
+}
+
+.entry-header .date_create {
+	font-family: 'Gotham Regular', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 17px;
+	text-align: center;
+	color: #3F3F3F;
+}
+
+/* content-single */
+.wp_border_line {
+	border-top: 3px solid #914204;
+}
+.blog-detail-banner img {
+	width: 100%;
+	max-height: 800px;
+	object-fit: cover;
+}
+
+/* custom breadcrum*/
+.custom-breadcrumbs {
+	padding: 0px;
+	list-style: none;
+	margin-bottom: 42px;
+}
+
+.custom-breadcrumbs .separator {
+	color: #AAAAAA;
+}
+
+.custom-breadcrumbs li {
+	display: inline-block;
+	margin-right: 9px;
+	font-family: 'Gotham Regular', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 20px;
+	color: #3C1605;
+}
+
+.custom-breadcrumbs li a {
+	font-family: 'Gotham Regular', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 20px;
+	color: #AAAAAA;
+}
+#div-description, #menu1 .store-table {
+	min-height: 355px;
+}
+.woof_list .woof_childs_list .woof_childs_list .woof_radio_label {
+	font-size:.875rem !important;
+}
+.wp_border_line.line-top-detail-blog {
+	width: 292px;
+	margin: auto;
+	margin-bottom: 16px;
+}
+.h3-title{
+	display: none;
+}
+

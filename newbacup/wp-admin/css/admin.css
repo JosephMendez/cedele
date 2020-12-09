@@ -1,0 +1,19 @@
+.data-description{
+    width: 100%;
+    margin-top: 5px;
+}
+.txt-data-name{
+    width: 100% !important; ;
+}
+.div-outlet{
+    width: 90%;
+}
+.button-add-more-outlet{
+    width: 90%;
+    flex-grow: 1;
+    border: 1px dotted black;
+    height: 30px;
+    border-radius: 3px;
+    cursor: pointer;
+    background-color: #e8e8e8;
+}

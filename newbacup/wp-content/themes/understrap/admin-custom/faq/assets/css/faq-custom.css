@@ -1,0 +1,46 @@
+#form-faq-custom input[type="text"] {
+    padding: 3px 8px;
+    font-size: 1.7em;
+    line-height: 100%;
+    height: 1.7em;
+    width: 100%;
+    outline: 0;
+    margin: 0 0 3px;
+}
+
+#form-faq-custom .form-faq-custom__section-left {
+	width: 65%;
+	float: left;
+}
+
+#form-faq-custom .form-faq-custom__section-right {
+    width: calc(35% - 20px);
+    margin-left: 20px;
+    float: left;
+}
+
+#form-faq-custom select {
+    width: 100%;
+}
+
+/* faq-categories */
+.faq_custom_categories-form {
+    width: 40%;
+    float: left;
+    margin-top: 26px;
+    margin-right: 20px;
+}
+.faq_custom_categories-form h2 {
+    margin: 12px 0;
+    font-size: 1.1em;
+}
+.faq_custom_categories-form p {
+    margin: 0px;
+}
+.faq_custom_categories-form p.submit > * {
+    float: left;
+}
+.faq_custom_categories-table {
+    width: calc(60% - 20px);
+    float: right;
+}

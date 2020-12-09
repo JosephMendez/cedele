@@ -1,0 +1,38 @@
+// Use this file to overwrite the basic Bootstrap variables and add your own variables
+// To overwrite a Bootstrap variable you don´t have to touch the Bootstrap folder.
+// Just copy a variable from src/sass/bootstrap4/_variables.scss, paste it here and edit the value.
+
+
+$primary: #914204; // Thats a sample how you could change a BootStrap variable.
+$primary-dark: #3C1605;
+$primary-light: #AD8850;
+$dark: #3F3F3F;
+$gray: #F3F3F3;
+$blue: #2F80ED;
+$red: #EB5757;
+$secondary: #AAAAAA;
+$tableBg: #F3F3F3;
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1440px,
+);
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1400px,
+);
+
+$headingFont: 'Gotham Bold',-apple-system,san-serif;
+$menuFont: 'Gotham Regular',-apple-system,san-serif;
+$dropdownFont: 'Gotham Regular',-apple-system,san-serif;
+$bodyFont: 'Gotham Regular',-apple-system,san-serif;
+$bodyFontSb: 'Gotham Regular',-apple-system,san-serif;
+$bodyFontRegular: 'Gotham Regular',-apple-system,san-serif;
+$subFont: 'Gotham Regular',-apple-system, sans-serif;

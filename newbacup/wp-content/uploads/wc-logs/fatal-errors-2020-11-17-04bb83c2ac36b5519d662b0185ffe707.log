@@ -1,0 +1,23 @@
+2020-11-17T09:23:05+00:00 CRITICAL Uncaught Error: Call to a member function get_fees() on null in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php:575
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(270): wc_get_template('emails/admin-ne...', Array, '', '')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(118): wc_get_template_html('emails/admin-ne...', Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email.php(541): WC_Email_New_Order->get_content_html()
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(98): WC_Email->get_content()
+#5 /var/www/html/wp-includes/class-wp-hook.php(287): WC_Email_New_Order->trigger(5904, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#6 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+# in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php on line 575
+
+2020-11-17T09:43:02+00:00 CRITICAL Uncaught Error: Call to a member function get_fees() on null in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php:575
+Stack trace:
+#0 /var/www/html/wp-content/themes/understrap/emails.php(30): require_once()
+#1 /var/www/html/wp-includes/class-wp-hook.php(289): change_order_status_created(5919)
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(363): do_action('woocommerce_ord...', 5919, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(221): WC_Order->status_transition()
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-order-data.php(644): WC_Order->save()
+#7 /var/www/html/wp-includes/class-wp-hook.php(289): WC_Meta_Box_Order_Data::save(5919)
+#8 /var/www/html/wp-includes/class in /var/www/html/wp-content/themes/understrap/woocommerce/emails/admin-new-order.php on line 575
+

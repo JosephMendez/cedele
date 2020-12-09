@@ -1,0 +1,114 @@
+/* pagination */
+.front-custom-pagination {
+	width: 100%;
+	text-align: center;
+	list-style: none;
+	padding: 0px;
+}
+
+.front-custom-pagination > li {
+	display: inline-block;
+	margin-right: 5px;
+}
+
+.front-custom-pagination > li > * {
+    font-family: 'Gotham Regular', sans-serif;
+    font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 22px;
+	color: white;
+	background-color: #914204;
+	text-align: center;
+	display: block;
+	width: 44px;
+	height: 44px;
+	border-radius: 50%;
+	box-sizing: border-box;
+	line-height: 44px;
+	border: 1px solid white;
+}
+
+.front-custom-pagination > li > a {
+	background: white;
+	color: #3F3F3F;
+}
+
+.front-custom-pagination > li > a:hover {
+	border: 1px solid #3F3F3F;
+}
+
+.section-right--border-top {
+  display: block;
+  border-top: 3px solid #914204;
+  margin-bottom: 12px;
+  width: 60px;
+}
+.section-right--category-title {
+	font-family: 'Gotham Regular', -apple-system, san-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 34px;
+  line-height: 32px;
+  color: #914204;
+	margin: 0 0 24px;
+}
+
+.section-right--list-faqs {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.section-right--faq-item {
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+.section-right--faq-item:last-child {
+  margin-bottom: 0px;
+}
+
+.section-right--faq-item-question {
+  padding: 9px 12px;
+  background: #F3F3F3;
+  cursor: pointer;
+
+  font-family: 'Gotham Regular', -apple-system, san-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 22px;
+  color: #3F3F3F;
+}
+.section-right--faq-item-question-content {
+  width: calc(100% - 24px);
+  display: inline-block;
+}
+
+.section-right--faq-item-answer {
+  padding: 9px 12px;
+  display: none;
+  font-family: 'Gotham Regular',-apple-system,san-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #3F3F3F;
+}
+.section-right--faq-item.opening .section-right--faq-item-answer {
+  display: block;
+}
+
+.section-right--faq-item-question-icon svg {
+  display: inline-block;
+  width: 24px !important;
+  float: right;
+  transform: rotate(0deg);
+}
+.section-right--faq-item.opening .section-right--faq-item-question-icon svg {
+  transform: rotate(180deg);
+}
+#add_payment_method .cart-collaterals .cart_totals table th, .woocommerce-cart .cart-collaterals .cart_totals table th, .woocommerce-checkout .cart-collaterals .cart_totals table th {
+    width: 60%;
+}

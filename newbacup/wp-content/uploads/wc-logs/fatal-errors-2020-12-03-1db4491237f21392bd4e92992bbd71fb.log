@@ -1,0 +1,20 @@
+2020-12-03T02:39:53+00:00 CRITICAL Uncaught Exception: Invalid order item. in /var/www/html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-item-type-data-store.php:135
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/data-stores/class-wc-order-item-product-data-store.php(34): Abstract_WC_Order_Item_Type_Data_Store->read(Object(WC_Order_Item_Product))
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): WC_Order_Item_Product_Data_Store->read(Object(WC_Order_Item_Product))
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order-item.php(74): WC_Data_Store->read(Object(WC_Order_Item_Product))
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/formats/abstract-class-woe-formatter-plain-format.php(280): WC_Order_Item->__construct(1)
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/formats/abstract-class-woe-formatter-plain-format.php(69): WOE_Formatter_Plain_Format->try_fill_summary_report_products_fields(Array)
+#5 /var/www/ in /var/www/html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-item-type-data-store.php on line 135
+
+2020-12-03T14:08:40+00:00 CRITICAL Uncaught Error: Call to a member function get_payment_method() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/checkout/thankyou.php:19
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(257): wc_get_template('checkout/thanky...', Array)
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(63): WC_Shortcode_Checkout::order_received(8550)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::checkout('', '', 'woocommerce_che...')
+#6 [internal function]: do_shortcode_tag(Array)
+#7 /var/www/html/wp-includes/shortcodes.php(218): preg_repla in /var/www/html/wp-content/themes/understrap/woocommerce/checkout/thankyou.php on line 19
+

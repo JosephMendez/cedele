@@ -1,0 +1,146 @@
+2020-12-07T10:08:34+00:00 CRITICAL Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:131
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-includ in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php on line 131
+
+2020-12-07T10:08:38+00:00 CRITICAL Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:131
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-includ in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php on line 131
+
+2020-12-07T10:08:41+00:00 CRITICAL Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:131
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-includ in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php on line 131
+
+2020-12-07T10:08:42+00:00 CRITICAL Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:131
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-includ in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php on line 131
+
+2020-12-07T10:08:48+00:00 CRITICAL Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:131
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-includ in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php on line 131
+
+2020-12-07T10:08:59+00:00 CRITICAL Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:131
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-includ in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php on line 131
+
+2020-12-07T10:09:05+00:00 CRITICAL Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:131
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-includ in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php on line 131
+
+2020-12-07T10:10:30+00:00 CRITICAL Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:131
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-includ in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php on line 131
+
+2020-12-07T10:15:48+00:00 CRITICAL Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:131
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-includ in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php on line 131
+
+2020-12-07T10:15:51+00:00 CRITICAL Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:131
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-includ in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php on line 131
+
+2020-12-07T10:15:51+00:00 CRITICAL Uncaught Error: Call to a member function format() on bool in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php:131
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(251): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(343): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /var/www/html/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta...', '[woocommerce_ca...')
+#7 /var/www/html/wp-includes/class-wp-hook.php(287): do_shortcode('[woocommerce_ca...')
+#8 /var/www/html/wp-includ in /var/www/html/wp-content/themes/understrap/woocommerce/cart/cart.php on line 131
+
+2020-12-07T12:54:27+00:00 CRITICAL Uncaught RuntimeException: Failed to fetch media due to an error from Instagram's API: The Instagram API responded with an error: Error #2 [OAuthException]: An unexpected error has occurred. Please retry your request later. in /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/MediaStore/MediaStore.php:145
+Stack trace:
+#0 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Actions/ImportMediaAction.php(54): RebelCode\Spotlight\Instagram\MediaStore\MediaStore->getFeedMedia(Object(RebelCode\Spotlight\Instagram\Feeds\Feed))
+#1 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Utils/Arrays.php(100): RebelCode\Spotlight\Instagram\Actions\ImportMediaAction->RebelCode\Spotlight\Instagram\Actions\{closure}(Object(WP_Post), 1)
+#2 [internal function]: RebelCode\Spotlight\Instagram\Utils\Arrays::RebelCode\Spotlight\Instagram\Utils\{closure}(Object(WP_Post), 1)
+#3 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Utils/Arrays in /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/MediaStore/MediaStore.php on line 145
+
+2020-12-07T16:54:52+00:00 CRITICAL Uncaught RuntimeException: Failed to fetch media due to an error from Instagram's API: The Instagram API responded with an error: Error #0 [Unknown]: [error details could not be retrieved] in /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/MediaStore/MediaStore.php:145
+Stack trace:
+#0 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Actions/ImportMediaAction.php(54): RebelCode\Spotlight\Instagram\MediaStore\MediaStore->getFeedMedia(Object(RebelCode\Spotlight\Instagram\Feeds\Feed))
+#1 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Utils/Arrays.php(100): RebelCode\Spotlight\Instagram\Actions\ImportMediaAction->RebelCode\Spotlight\Instagram\Actions\{closure}(Object(WP_Post), 1)
+#2 [internal function]: RebelCode\Spotlight\Instagram\Utils\Arrays::RebelCode\Spotlight\Instagram\Utils\{closure}(Object(WP_Post), 1)
+#3 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Utils/Arrays.php(101): array_walk(Array, Object in /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/MediaStore/MediaStore.php on line 145
+

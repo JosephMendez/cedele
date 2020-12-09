@@ -1,0 +1,79 @@
+.pointer {
+	cursor: pointer;
+}
+
+.cdls-noselect {
+	-webkit-touch-callout: none; /* iOS Safari */
+	-webkit-user-select: none; /* Safari */
+	-khtml-user-select: none; /* Konqueror HTML */
+	-moz-user-select: none; /* Old versions of Firefox */
+	-ms-user-select: none; /* Internet Explorer/Edge */
+	user-select: none; /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
+}
+
+.cdls-table-shipping-time {
+
+}
+
+.cdls-form-shipping-time {
+	padding: 10px;
+}
+.cdls-form-shipping-time button {
+	margin-left: 0px !important;
+	margin-bottom: 0px !important;
+}
+
+/*table peak hour*/
+.cdls-table-shipping-time-peak-hour {
+	width: 60%;
+}
+.cdls-table-shipping-time-peak-hour th,
+.cdls-table-shipping-time-peak-hour td {
+	text-align: center;
+	vertical-align: middle;
+}
+.cdls-table-shipping-time-peak-hour .input-start-time {
+	margin-right: 8px;
+}
+.cdls-table-shipping-time-peak-hour .input-start-time,
+.cdls-table-shipping-time-peak-hour .input-end-time {
+	padding-left: 5px;
+	width: 100px;
+}
+.cdls-table-shipping-time-peak-hour tr .edited-data-span {
+	display: inline-block;
+}
+.cdls-table-shipping-time-peak-hour tr .editing-data-span {
+	display: none;
+}
+.cdls-table-shipping-time-peak-hour tr.editing .edited-data-span {
+	display: none;
+}
+.cdls-table-shipping-time-peak-hour tr.editing .editing-data-span {
+	display: inline-block;
+}
+
+/* occasion */
+.cdls-table-shipping-time-occasion {
+	width: 60%;
+}
+.cdls-table-shipping-time-occasion th,
+.cdls-table-shipping-time-occasion td {
+	text-align: center;
+	vertical-align: middle;
+}
+.cdls-table-shipping-time-occasion tfoot input {
+	padding-left: 5px;
+}
+.cdls-table-shipping-time-occasion tr .edited-data-span {
+	display: inline-block;
+}
+.cdls-table-shipping-time-occasion tr .editing-data-span {
+	display: none;
+}
+.cdls-table-shipping-time-occasion tr.editing .edited-data-span {
+	display: none;
+}
+.cdls-table-shipping-time-occasion tr.editing .editing-data-span {
+	display: inline-block;
+}

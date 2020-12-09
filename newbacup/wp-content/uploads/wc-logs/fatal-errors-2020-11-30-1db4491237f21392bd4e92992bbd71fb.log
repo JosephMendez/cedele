@@ -1,0 +1,16 @@
+2020-11-30T03:39:56+00:00 CRITICAL Uncaught Exception: Invalid order item. in /var/www/html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-item-type-data-store.php:135
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/data-stores/class-wc-order-item-product-data-store.php(34): Abstract_WC_Order_Item_Type_Data_Store->read(Object(WC_Order_Item_Product))
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(159): WC_Order_Item_Product_Data_Store->read(Object(WC_Order_Item_Product))
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order-item.php(74): WC_Data_Store->read(Object(WC_Order_Item_Product))
+#3 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/formats/abstract-class-woe-formatter-plain-format.php(280): WC_Order_Item->__construct(1)
+#4 /var/www/html/wp-content/plugins/woo-order-export-lite/classes/formats/abstract-class-woe-formatter-plain-format.php(69): WOE_Formatter_Plain_Format->try_fill_summary_report_products_fields(Array)
+#5 /var/www/ in /var/www/html/wp-content/plugins/woocommerce/includes/data-stores/abstract-wc-order-item-type-data-store.php on line 135
+
+2020-11-30T11:54:48+00:00 CRITICAL Uncaught RuntimeException: Failed to fetch media due to an error from Instagram's API: The Instagram API responded with an error: Error #0 [Unknown]: [error details could not be retrieved] in /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/MediaStore/MediaStore.php:145
+Stack trace:
+#0 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Actions/ImportMediaAction.php(54): RebelCode\Spotlight\Instagram\MediaStore\MediaStore->getFeedMedia(Object(RebelCode\Spotlight\Instagram\Feeds\Feed))
+#1 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Utils/Arrays.php(100): RebelCode\Spotlight\Instagram\Actions\ImportMediaAction->RebelCode\Spotlight\Instagram\Actions\{closure}(Object(WP_Post), 1)
+#2 [internal function]: RebelCode\Spotlight\Instagram\Utils\Arrays::RebelCode\Spotlight\Instagram\Utils\{closure}(Object(WP_Post), 1)
+#3 /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/Utils/Arrays.php(101): array_walk(Array, Object in /var/www/html/wp-content/plugins/spotlight-social-photo-feeds-premium/core/MediaStore/MediaStore.php on line 145
+

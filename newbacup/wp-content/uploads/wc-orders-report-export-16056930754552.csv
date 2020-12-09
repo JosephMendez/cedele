@@ -1,0 +1,762 @@
+﻿Date,"Order #",Status,Customer,Product(s),"Items Sold",Coupon(s),"N. Revenue"
+"2020-11-18 16:44:26",6044,processed,returning,"5× KB01 Hearty Meal Box, 2× KB01 Hearty Meal Box, 5× KB01 Hearty Meal Box, 6× Grilled Chicken Grain Bowl Snack Box, 6× Grilled Chicken Garlic Aglio Olio Snack Box",24,,370.8
+"2020-11-18 16:37:40",6043,processed,returning,"1× BC02 Red Velvet Cake",1,,59
+"2020-11-18 16:24:12",6041,processed,returning,"1× *A03 Flourless Chocolate Logcake",1,,58
+"2020-11-18 15:28:00",6040,processed,returning,"1× BC02 Choc Banana Espresso Cake",1,,59
+"2020-11-18 15:26:42",6039,processed,returning,"1× *A02 Lychee Champagne Logcake",1,,68
+"2020-11-18 15:25:10",6038,processed,returning,"1× BC02 Strawberry Fields Cake",1,,59
+"2020-11-18 15:23:12",6037,processed,returning,"1× BC01 Carrot Walnut Cake - 8""R",1,,59
+"2020-11-18 15:12:48",6036,processed,returning,"1× BC02 Real Dark Chocolate Cake",1,,45
+"2020-11-18 15:12:48",6035,processed,new,"1× BC02 Lychee Rose Cake, 1× BC06 Cherry Chocolate Pound Cake 500g, 1× BB01 Wholewheat Sourdough",3,,83.5
+"2020-11-18 15:11:36",6034,processed,new,"1× BC03 Sugarless Carrot Walnut Cake",1,,66
+"2020-11-18 15:01:23",6033,processed,new,"1× BC03 Vegan Matcha Chocolate Cheesecake",1,novbd15cake,38.25
+"2020-11-18 14:37:50",6030,processed,new,"1× BC02 Lychee Rose Cake",1,,85
+"2020-11-18 14:33:56",6029,processed,returning,"1× BC02 Chocolate Matcha Cake",1,,63
+"2020-11-18 14:29:49",6028,processed,new,"1× BC02 Real Dark Chocolate Cake, 3× BB01 Wholewheat Sourdough",4,,82.5
+"2020-11-18 14:28:05",6027,processed,returning,"1× BC02 Chocolate Fudge Cake",1,,63
+"2020-11-18 14:23:48",6026,processed,returning,"1× BC02 Black Forest Cake",1,,59
+"2020-11-18 14:08:11",6025,processed,new,"1× BC02 Caramel Sea Salt Tiramisu",1,,63
+"2020-11-18 13:38:14",6014,processed,new,"1× BC03 Eggless Carrot Walnut Cake, 1× Red Rooibos Tea, 1× Lemongrass Tea",3,,81
+"2020-11-18 13:36:36",6013,processed,new,"1× BC07 Almond Semolina Sugee Butter Cake, 1× BC02 Caramel Sea Salt Tiramisu",2,,81
+"2020-11-18 13:22:49",6012,processed,new,"1× BC03 Vegan Matcha Chocolate Cheesecake, 1× *C02 Assorted Premium Butter Shortbread",2,,87
+"2020-11-18 13:20:22",6011,processed,returning,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-18 13:09:20",6010,processed,new,"1× *A04 Hojicha Matcha Yuzu Block Cake",1,"wel10asc01, wel10asc2, wel10asc3",59
+"2020-11-18 12:59:46",6009,processed,returning,"1× BC02 Choc Banana Espresso Cake",1,,59
+"2020-11-18 12:53:53",6008,processed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-18 12:33:53",6007,processed,returning,"1× BC02 Eggless Chocolate Truffle",1,,45
+"2020-11-18 12:19:14",6006,processed,new,"1× BB01 Rye Sourdough",1,,6.3
+"2020-11-18 12:16:18",6005,processed,returning,"1× BC02 Chocolate Matcha Cake",1,,63
+"2020-11-18 12:14:05",6004,processed,returning,"1× BC02 Caramel Sea Salt Tiramisu",1,,63
+"2020-11-18 12:00:24",6003,pending,new,"1× BC02 Strawberry Fields Cake",1,,59
+"2020-11-18 11:45:28",6002,processed,new,"1× *A02 Lychee Champagne Logcake",1,welcome10,61.2
+"2020-11-18 11:45:24",6001,processed,returning,"1× BC08 Berry Victoria, 1× BB04 Tahini Choc Pull-Apart Loaf, 1× BB05 Jelly Donuts",3,,56.9
+"2020-11-18 11:37:36",6000,processed,returning,"1× BC02 Strawberry Fields Cake",1,,59
+"2020-11-18 11:31:27",5999,processed,new,"1× BC02 Eggless Chocolate Truffle",1,,77
+"2020-11-18 11:19:45",5996,processed,new,"1× BC09 Red Velvet Slice, 1× BC09 Ondeh Ondeh Slice, 1× BC09 C'mel Sea Salt Cheesecake Slice, 1× BC09 Real Dark Chocolate Slice",4,,30.5
+"2020-11-18 11:09:04",5995,processed,returning,"1× BC02 Eggless Chocolate Truffle",1,,59
+"2020-11-18 11:06:34",5994,processed,returning,"5× BB01 Wholewheat Sourdough",5,,32.5
+"2020-11-18 11:03:13",5993,processed,new,"1× BC02 Gula Melaka Pandan Cake",1,,59
+"2020-11-18 10:50:11",5992,processed,new,"1× BC02 Gula Melaka Pandan Cake",1,,59
+"2020-11-18 10:49:30",5991,pending,returning,"1× Mushroom Soup (250ml) - Daily",1,,9
+"2020-11-18 10:36:34",5989,processed,returning,"1× BC05 Caramel SeaSalt Cheesecake",1,,77
+"2020-11-18 10:33:35",5988,processed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-18 10:20:48",5980,processed,returning,"1× BC02 Eggless Chocolate Truffle",1,,45
+"2020-11-18 09:55:23",5978,processed,returning,"2× BB04 Hot Cross Buns Bundle, 1× SP01 Assorted Scone Box, 2× BP02 Choc Croissant Bundle",5,,72.5
+"2020-11-18 09:49:15",5977,processed,returning,"1× BC02 Eggless Chocolate Truffle",1,,59
+"2020-11-18 09:46:26",5974,processed,new,"1× *A03 Flourless Chocolate Logcake, 1× *H01 Rosemary & Butter-Roasted Turkey",2,,216
+"2020-11-18 09:32:23",5972,processed,new,"1× Pesto Veggie Garden Box, 1× Roasted Cauliflower (250ml) - Daily, 1× BB01 Toasted Granola Yoghurt Sourdough, 1× Spa Foods Aged Ginger Tea",4,,50
+"2020-11-18 09:28:41",5971,processed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,,59
+"2020-11-18 09:24:26",5970,processed,new,"1× SP02 Picnic Box, 1× BC02 Red Velvet Cake, 1× Sun-dried Apricots",3,,81.7
+"2020-11-18 09:16:26",5969,processed,new,"1× *B03 Christmas Brioche Wreath with Spinach Onion Cheese Dip, 1× BC02 Carrot Walnut Cake",2,,162
+"2020-11-18 09:13:05",5968,processed,new,"1× BC01 Red Velvet Cake-8""R, 2× BC10 Cherry Pistachio, 3× BC10 Chocolate Belgian Marquise, 1× BC10 Blueberry Almond Slice",7,,80
+"2020-11-18 09:07:53",5967,processed,new,"1× BC02 Strawberry Fields Cake, 1× BC02 Chocolate Matcha Cake, 1× BB01 Blue Pea Sourdough, 1× BB03 Plain Ciabatta",4,welcome10,120.96
+"2020-11-18 08:59:02",5966,processed,new,"1× BC03 Vegan Earl Grey Belgian Chocolate Berries Cake",1,,63
+"2020-11-18 08:55:50",5965,processed,new,"1× BC02 Ondeh Ondeh Cake",1,,63
+"2020-11-18 08:37:09",5964,processed,new,"1× BC02 Eggless Chocolate Truffle",1,,77
+"2020-11-18 07:56:31",5963,processed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,,59
+"2020-11-18 07:49:15",5962,processed,new,"1× *H01 Rosemary & Butter-Roasted Turkey",1,,158
+"2020-11-18 06:48:54",5961,processed,new,"1× BC03 Vegan Matcha Chocolate Cheesecake, 2× Salmon Grain Bowl Snack Box, 1× SP03 Meat Free Box",4,,115
+"2020-11-18 06:12:25",5960,processed,new,"1× *B02 Christmas Panettone (Family Size)",1,welcome10,25.2
+"2020-11-18 00:28:19",5958,processed,new,"1× BC03 Vegan Matcha Chocolate Cheesecake",1,welcome10,40.5
+"2020-11-17 23:19:23",5957,processed,new,"1× BC02 Carrot Walnut Cake, 1× SP04 Mini Croissant Sandwiches, 1× SP04 Sliders Box- 6pcs",3,,94.8
+"2020-11-17 23:05:51",5956,processed,new,"1× *B01 Baby Citrusy Panettone 6's, 1× *A09 Classic Fruit Cake, 1× *A02 Lychee Champagne Logcake",3,,128
+"2020-11-17 22:29:39",5955,processed,new,"1× *A04 Hojicha Matcha Yuzu Block Cake",1,,89
+"2020-11-17 22:28:37",5954,processed,new,"1× BC02 Real Dark Chocolate Cake, 1× BCC1 Chocolate Midnight Cookie",2,,54.8
+"2020-11-17 22:10:19",5953,processed,new,"1× BC02 Blueberry Maple Cake",1,,85
+"2020-11-17 22:04:29",5952,processed,new,"1× BC02 Choc Banana Espresso Cake",1,,59
+"2020-11-17 21:40:24",5951,processed,new,"1× *H05 Classic Sausage Platter, 1× *H06 Morrocan Chicken Rice Pilaf, 1× *H03 Honey Cinnamon Glazed Pork Belly, 1× *H12 Winter Truffle Mash Potato, 1× *A02 Lychee Champagne Logcake",5,,306
+"2020-11-17 21:38:39",5950,processed,new,"1× BC04 Burnt Cheesecake - 7""R, 1× *C03 Chocolate Cookies Collection",2,,81
+"2020-11-17 21:29:54",5949,processed,new,"1× Membership Registration",1,,0
+"2020-11-17 21:27:11",5947,processed,new,"1× *A04 Hojicha Matcha Yuzu Block Cake",1,,89
+"2020-11-17 21:18:31",5946,processed,new,"1× BC02 Carrot Walnut Cake, 1× Grilled Chicken Garlic Aglio Olio Snack Box, 1× Roasted Cauliflower (250ml) - Daily",3,,83
+"2020-11-17 21:05:39",5945,processed,new,"1× White Fig Jam, 1× BB04 Tahini Choc Pull-Apart Loaf, 1× *A03 Flourless Chocolate Logcake, 1× BP01 Baby Brioche - Almond Cardamon",4,welcome10,69.93
+"2020-11-17 20:47:50",5944,processed,new,"1× BC02 Red Velvet Cake",1,,59
+"2020-11-17 20:18:32",5943,processed,returning,"1× *A01 Butterscotch Maple Carrot Logcake",1,,68
+"2020-11-17 20:17:17",5942,pending,new,"1× *H11 Rustic Chorizo Bread Stuffing, 1× *H13 Curried Kabocha Squash Gratin, 1× SP02 Picnic Box",3,welcome10,94.32
+"2020-11-17 20:15:11",5941,processed,new,"1× BC03 Eggless Carrot Walnut Cake",1,welcome10,59.4
+"2020-11-17 20:12:36",5940,processed,new,"1× BC02 Chocolate Matcha Cake",1,,92
+"2020-11-17 19:48:22",5939,processed,new,"1× Membership Registration",1,,25
+"2020-11-17 19:21:20",5938,processed,new,"1× BC02 Black Forest Cake",1,,59
+"2020-11-17 19:09:30",5937,processed,new,"1× BC03 Vegan Earl Grey Belgian Chocolate Berries Cake, 1× BB02 Wholemeal Walnut, 1× BB02 Wholemeal 4 Seeds, 1× BB04 Milk & Butter Bread",4,,80.6
+"2020-11-17 19:04:49",5936,processed,new,"1× *H13 Curried Kabocha Squash Gratin, 1× *C01 Assorted Christmas Cookies",2,welcome10,59.4
+"2020-11-17 18:56:56",5935,processed,new,"4× BB03 Plain Ciabatta",4,,19.6
+"2020-11-17 18:49:12",5934,processed,new,"1× BC02 Caramel Sea Salt Tiramisu",1,,63
+"2020-11-17 18:48:06",5933,processed,returning,"1× BC02 Choc Banana Espresso Cake",1,novbd15cake,50.15
+"2020-11-17 18:40:14",5932,processed,returning,"1× BC02 Chocolate Matcha Cake",1,,63
+"2020-11-17 18:09:37",5928,processed,returning,"1× BC02 Red Velvet Cake",1,,59
+"2020-11-17 17:54:07",5927,processed,new,"1× BC01 Red Velvet Cake-8""R",1,,59
+"2020-11-17 17:50:56",5926,processed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,,59
+"2020-11-17 17:47:05",5925,processed,new,"1× *A04 Hojicha Matcha Yuzu Block Cake",1,,89
+"2020-11-17 17:31:18",5924,processed,new,"1× BC02 Chocolate Matcha Cake",1,,63
+"2020-11-17 17:25:31",5923,pending,new,"1× *A02 Lychee Champagne Logcake, 1× *H01 Rosemary & Butter-Roasted Turkey",2,ty10,203.4
+"2020-11-17 17:21:03",5921,processed,returning,"2× KB01 Hearty Meal Box, 2× KB01 Hearty Meal Box, 2× KB01 Hearty Meal Box, 2× KB01 Hearty Meal Box, 2× KB01 Hearty Meal Box",10,,159
+"2020-11-17 17:16:20",5920,processed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-17 16:38:47",5919,processed,new,"23× CORP - Customised Box, 23× SP01 Awesome Box",46,,575
+"2020-11-17 16:32:33",5918,processed,returning,"1× BC02 Gula Melaka Pandan Cake",1,,59
+"2020-11-17 16:25:08",5917,processed,new,"1× BC03 Eggless Carrot Walnut Cake, 1× Uncle Sabas Poppadoms Tomato, 1× Uncle Sabas Poppadoms Sweet Chili, 1× Ginger Tea, 1× Harvest Box Go Banana Snack Pack",5,,80.1
+"2020-11-17 15:54:35",5916,processed,new,"1× BC08 Berry Victoria",1,welcome10,32.4
+"2020-11-17 15:32:29",5915,processed,new,"1× BC02 Strawberry Fields Cake",1,welcome10,53.1
+"2020-11-17 15:07:23",5914,processed,returning,"1× BC02 Red Velvet Cake",1,,59
+"2020-11-17 14:59:23",5913,processed,returning,"1× BC02 Chocolate Matcha Cake",1,,63
+"2020-11-17 14:42:33",5911,processed,returning,"1× BC02 Gula Melaka Pandan Cake",1,,59
+"2020-11-17 14:40:23",5910,processed,new,"1× BC03 Vegan Matcha Chocolate Cheesecake",1,welcome10,40.5
+"2020-11-17 14:35:35",5909,processed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,,59
+"2020-11-17 14:33:06",5908,processed,returning,"1× BC02 Chocolate Matcha Cake",1,,63
+"2020-11-17 14:22:19",5907,processed,new,"1× BC02 Real Dark Chocolate Cake",1,,45
+"2020-11-17 14:16:31",5906,processed,returning,"1× BC02 Gula Melaka Pandan Cake",1,,59
+"2020-11-17 14:03:33",5905,processed,new,"1× BC02 Red Velvet Cake",1,,59
+"2020-11-17 13:56:37",5903,processed,returning,"1× BC02 Ondeh Ondeh Cake",1,,45
+"2020-11-17 13:54:10",5902,processed,new,"1× BC02 Gula Melaka Pandan Cake",1,,59
+"2020-11-17 13:35:27",5899,processed,new,"1× BC02 Chocolate Matcha Cake",1,,63
+"2020-11-17 13:22:57",5897,processed,returning,"1× BC05 Blueberry Hazelnut Cheesecake",1,,45
+"2020-11-17 13:20:51",5896,processed,new,"1× BC02 Chocolate Matcha Cake",1,,63
+"2020-11-17 13:12:32",5895,processed,new,"1× BB01 Wholewheat Sourdough, 1× BC02 Eggless Chocolate Truffle",2,,83.5
+"2020-11-17 13:05:20",5894,processed,new,"1× BC02 Eggless Chocolate Truffle",1,,45
+"2020-11-17 12:45:39",5893,processed,returning,"2× KB01 Hearty Meal Box",2,,31.8
+"2020-11-17 12:25:52",5892,completed,new,"1× BCC1 Chocolate Midnight Cookie, 1× BP04 Choc-Chip Drop Scone Bundle, 1× BP02 Butter Croissant Bundle",3,,32.8
+"2020-11-17 12:03:39",5891,processed,returning,"1× BC02 Chocolate Matcha Cake",1,,63
+"2020-11-17 11:58:38",5889,processed,returning,"6× SP01 Awesome Box, 6× SP01 Awesome Box",12,r4qfaw9y,184
+"2020-11-17 11:37:22",5886,processed,new,"1× BC05 Burnt Cheesecake",1,,45
+"2020-11-17 11:28:33",5885,processed,new,"1× *B04 Classic Minced Pie, 1× *B05 Fig & Pear Gingerbread Minced Pie, 1× Remedy Ginger Lemon Kombucha",3,,50.9
+"2020-11-17 11:25:26",5884,processed,new,"1× Membership Registration",1,,25
+"2020-11-17 11:17:46",5883,processed,new,"1× *A04 Hojicha Matcha Yuzu Block Cake, 1× *H01 Rosemary & Butter-Roasted Turkey, 1× *H04 Christmas Tomahawk & Meat Platter",3,,475
+"2020-11-17 11:10:48",5882,completed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,,59
+"2020-11-17 10:52:08",5881,processed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-17 10:41:44",5880,processed,new,"1× KB01 Hearty Meal Box, 3× KB01 Hearty Meal Box, 3× KB01 Hearty Meal Box",7,,111.3
+"2020-11-17 10:32:32",5879,processed,new,"1× SP01 Assorted Scone Box, 1× BB04 Milk & Butter Bread, 1× BC01 Carrot Walnut Cake - 8""R",3,welcome10,80.82
+"2020-11-17 10:01:34",5878,processed,new,"1× BC02 Ondeh Ondeh Cake, 1× Noah's Apple Beetroot Orange Carrot Ginger Veggie Juice, 1× Noah's Apple Watermelon Mint Juice",3,,54.2
+"2020-11-17 09:55:02",5877,processed,returning,"1× BC02 Eggless Chocolate Truffle",1,,45
+"2020-11-17 09:47:49",5876,processed,new,"1× BC02 Caramel Sea Salt Tiramisu, 3× Green Rooibos Tea",4,,85.5
+"2020-11-17 09:45:24",5875,processed,new,"1× BC02 Choc Banana Espresso Cake",1,,59
+"2020-11-17 09:41:07",5874,processed,returning,"1× BC02 Caramel Sea Salt Tiramisu",1,,63
+"2020-11-17 09:34:16",5873,processed,new,"1× BC05 Burnt Cheesecake, 1× BC10 Brownie With Walnut",2,,80.8
+"2020-11-17 09:24:59",5872,processed,new,"1× *H01 Rosemary & Butter-Roasted Turkey",1,,158
+"2020-11-17 09:18:34",5871,completed,new,"1× BC01 Carrot Walnut Cake - 8""R, 1× Mushroom Soup (250ml) - Daily, 1× Hammy Cheese Thins, 1× Basil Pesto Chicken Thins",4,,85
+"2020-11-17 09:14:27",5870,processed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,,69
+"2020-11-17 08:54:13",5869,processed,returning,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-17 08:48:34",5868,completed,new,"1× Ondeh Ondeh Cake - 6""R, 1× Rosemary Chicken Sandwich, 1× BCC1 Matcha Chocolate Shortbread, 2× Noah's Apple Peach Kiwi Fruit Mango Lime Juice Smoothie, 1× BC09 Red Velvet Slice",6,,81.5
+"2020-11-17 08:43:38",5867,processed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,,59
+"2020-11-17 08:00:57",5866,completed,new,"2× BB01 Wholewheat Sourdough",2,welcome10,11.7
+"2020-11-17 06:26:39",5865,processed,new,"1× BC02 Eggless Chocolate Truffle",1,,59
+"2020-11-17 05:43:02",5864,completed,new,"1× BC09 Real Dark Chocolate Slice, 1× BC10 Cherry Pistachio, 1× BC11 Red Velvet Earl Grey Cupcake, 1× BCC1 Classic Chocolate Chip Cookie, 1× BC09 C'mel Sea Salt Cheesecake Slice, 1× BB04 Cinnamon Swirl, 1× BB02 Wholemeal Walnut, 1× BCC1 Almond Crunch Cookie",8,,52
+"2020-11-17 02:03:40",5863,processed,new,"1× BC02 Red Velvet Cake",1,,59
+"2020-11-17 01:27:05",5862,processed,new,"1× BC03 Vegan Earl Grey Belgian Chocolate Berries Cake, 1× BB02 Wholemeal Walnut, 1× Cedele Hazelnut Nut Butter, 1× BB04 Tahini Choc Pull-Apart Loaf, 1× BP01 Baby Brioche - Choc Cherry",5,welcome10,82.44
+"2020-11-17 01:07:39",5861,processed,new,"1× BC02 Peanut Butter Jelly Cake, 1× *A10 Chocolate Butterscotch Squares with Salt Flakes, 1× BB03 Plain Ciabatta, 2× BB01 Wholewheat Sourdough",5,,80.9
+"2020-11-16 22:43:37",5860,processed,new,"1× BC02 Eggless Chocolate Truffle",1,,59
+"2020-11-16 22:09:19",5858,processed,new,"1× BC02 Eggless Chocolate Truffle",1,,59
+"2020-11-16 21:52:23",5857,processed,new,"1× BC02 Chocolate Matcha Cake",1,,63
+"2020-11-16 21:49:46",5856,processed,returning,"3× *A03 Flourless Chocolate Logcake",3,,174
+"2020-11-16 19:57:31",5838,processed,returning,"1× *H01 Rosemary & Butter-Roasted Turkey, 1× *H11 Rustic Chorizo Bread Stuffing, 1× *A02 Lychee Champagne Logcake",3,,274
+"2020-11-16 19:52:50",5836,processed,new,"1× BC02 Eggless Chocolate Truffle, 1× Toasted Coconut Chips with Cinnamon",2,,80.9
+"2020-11-16 19:46:31",5835,processed,returning,"2× *C06 Tea Cookies Collection",2,,136
+"2020-11-16 18:54:07",5834,processed,returning,"1× BC02 Gula Melaka Pandan Cake",1,,59
+"2020-11-16 18:50:22",5833,processed,returning,"1× BC02 Chocolate Fudge Cake",1,,132
+"2020-11-16 18:00:33",5832,processed,new,"1× BC02 Lychee Rose Cake",1,,59
+"2020-11-16 17:58:12",5831,processed,returning,"1× *A07 Jamaican Meyer's Dark Rum & Raisin Tiramisu",1,,89
+"2020-11-16 17:45:45",5830,processed,new,"1× *A02 Lychee Champagne Logcake",1,,68
+"2020-11-16 17:33:09",5829,processed,returning,"1× BC02 Real Dark Chocolate Cake",1,,45
+"2020-11-16 17:24:43",5828,processed,new,"1× BC02 Gula Melaka Pandan Cake",1,,59
+"2020-11-16 17:21:52",5827,processed,new,"1× SP01 Assorted Muffin & Scone Box, 1× SP04 Assorted Mini Savory Tartlets 12s, 1× SP04 Assorted Mini Savory Tartlets 12s, 1× SP06 Assorted Mini Cheesecake Box [Eggless] [V], 1× SP02 Assorted Mini Pastries",5,,140
+"2020-11-16 17:13:29",5826,processed,new,"1× BB01 Blue Pea Sourdough, 2× BB01 Rye Sourdough, 1× BB04 Cinnamon Swirl, 1× BP02 Butter Croissant Bundle, 1× BP02 Choc Croissant Bundle, 1× BC01 Red Velvet Cake-8""R",7,welcome10,108.37
+"2020-11-16 16:58:04",5825,processed,new,"1× BC02 Lychee Rose Cake, 1× SP02 Relaxing Tea Platter",2,,119
+"2020-11-16 16:40:03",5824,processed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,,59
+"2020-11-16 16:37:00",5823,completed,returning,"1× KB01 Hearty Meal Box, 1× KB01 Hearty Meal Box, 1× KB01 Hearty Meal Box, 1× KB01 Hearty Meal Box, 1× KB01 Hearty Meal Box, 5× Noah's Apple Peach Kiwi Fruit Mango Lime Juice Smoothie",10,welcome10,92.25
+"2020-11-16 16:31:22",5822,processed,new,"1× BC02 Caramel Sea Salt Tiramisu",1,,63
+"2020-11-16 16:25:05",5821,processed,returning,"1× BC05 Choc Cookies & Cream Cheesecake",1,,45
+"2020-11-16 16:23:13",5820,processed,new,"1× BC02 Real Dark Chocolate Cake",1,,45
+"2020-11-16 15:58:06",5819,completed,returning,"1× BB02 Wholemeal 4 Seeds, 1× BB03 Plain Ciabatta, 1× Herby Tomato Sea Salt Slab, 2× BB04 Cinnamon Swirl, 1× Ondeh Ondeh Cake - 6""R, 1× BC01 Carrot Walnut Cake - 8""R",7,,131.7
+"2020-11-16 15:54:40",5818,completed,new,"1× Membership Registration",1,,25
+"2020-11-16 15:31:37",5817,processed,new,"1× BC02 Ondeh Ondeh Cake",1,,45
+"2020-11-16 15:22:56",5816,processed,returning,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-16 15:04:25",5814,processed,new,"1× Cedele Almond Nut Butter, 1× Cedele Sunflower Seeds, 1× BC02 Chocolate Fudge Cake",3,,80.9
+"2020-11-16 14:47:05",5813,processed,returning,"1× BC02 Real Dark Chocolate Cake",1,,63
+"2020-11-16 14:32:20",5812,processed,returning,"1× BC02 Chocolate Matcha Cake, 1× BC02 Chocolate Matcha Cake",2,,126
+"2020-11-16 14:30:33",5811,completed,new,"1× BC09 Carrot Walnut Slice, 1× BC04 Burnt Cheesecake - 7""R, 1× BC06 Almond Semolina Sugee Butter Cake 500g, 1× Breaded Portobello Cheese Burger",4,,83
+"2020-11-16 14:27:55",5810,processed,returning,"1× BC02 Red Velvet Cake",1,,59
+"2020-11-16 14:21:54",5809,processed,new,"1× BC02 Chocolate Matcha Cake",1,,63
+"2020-11-16 14:06:44",5808,processed,returning,"1× BC02 Gula Melaka Pandan Cake, 1× *C04 Christmas Biscotti",2,,87
+"2020-11-16 14:01:56",5807,processed,new,"1× BC02 Real Dark Chocolate Cake",1,,63
+"2020-11-16 14:00:31",5806,completed,new,"2× BB03 Plain Ciabatta, 1× BB01 Wholewheat Sourdough",3,,16.3
+"2020-11-16 13:32:55",5805,processed,returning,"1× BC02 Real Dark Chocolate Cake",1,,45
+"2020-11-16 13:32:25",5804,processed,new,"1× BC02 Ondeh Ondeh Cake",1,,45
+"2020-11-16 13:31:48",5803,processed,new,"1× BC02 Chocolate Fudge Cake",1,,63
+"2020-11-16 13:22:38",5802,processed,new,"1× *A08 Pumpkin Spice Cake, 1× SP04 Tomahawk & Bangers Box",2,,236
+"2020-11-16 13:17:23",5801,processed,new,"1× BC02 Choc Banana Espresso Cake",1,,59
+"2020-11-16 13:02:08",5800,processed,new,"1× SP04 Assorted Mini Savory Tartlets 12s, 1× SP04 Assorted Mini Savory Tartlets 12s, 1× SP06 Assorted Mini Cheesecake Box [Eggless] [V], 2× *H05 Classic Sausage Platter, 1× BB05 Jelly Donuts",6,,250
+"2020-11-16 12:35:50",5795,processed,new,"40× CORP - Customised Box",40,,360
+"2020-11-16 12:19:27",5794,processed,new,"1× BC03 Vegan Earl Grey Belgian Chocolate Berries Cake",1,,63
+"2020-11-16 12:15:25",5793,processed,new,"1× *A03 Flourless Chocolate Logcake, 1× *H05 Classic Sausage Platter",2,,117
+"2020-11-16 12:09:47",5792,completed,returning,"1× Caramel SeaSalt Cheesecake - 6""R",1,,45
+"2020-11-16 11:47:08",5790,processed,new,"1× BC02 Choc Banana Espresso Cake",1,birks022,50.15
+"2020-11-16 11:28:39",5782,processed,returning,"1× BC02 Red Velvet Cake",1,,85
+"2020-11-16 11:27:28",5781,processed,new,"1× BC02 Choc Banana Espresso Cake",1,,59
+"2020-11-16 11:22:29",5780,pending,new,"1× Caramel SeaSalt Cheesecake - 6""R",1,,45
+"2020-11-16 11:10:18",5779,processed,returning,"1× BC02 Choc Banana Espresso Cake, 1× BC02 Ondeh Ondeh Cake",2,,122
+"2020-11-16 11:09:04",5778,processed,new,"1× BC05 Blueberry Hazelnut Cheesecake",1,,45
+"2020-11-16 10:59:14",5777,completed,new,"1× Garlic & Spring Onion Pull-Apart Loaf, 1× BB02 Wholemeal 4 Seeds",2,,13.9
+"2020-11-16 10:57:28",5776,processed,returning,"1× BC02 Black Forest Cake",1,,59
+"2020-11-16 10:48:25",5774,processed,new,"1× BC08 Pandan Angel Sponge Cake, 1× BC02 Eggless Chocolate Truffle",2,,81
+"2020-11-16 10:01:36",5773,processed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-16 09:52:48",5772,processed,new,"1× BC08 Pandan Angel Sponge Cake",1,,36
+"2020-11-16 09:31:29",5770,processed,new,"1× BC02 Ondeh Ondeh Cake",1,,45
+"2020-11-16 09:25:50",5769,processed,new,"1× Membership Registration",1,,25
+"2020-11-16 07:17:31",5767,processed,new,"1× BC02 Eggless Chocolate Truffle",1,,45
+"2020-11-16 00:54:16",5766,processed,new,"1× BC03 Sugarless Carrot Walnut Cake",1,welcome10,59.4
+"2020-11-15 21:28:23",5765,processed,new,"1× *H10 Truffle Portebello Mushroom & Feta Quiche, 1× *H01 Rosemary & Butter-Roasted Turkey, 1× *H12 Winter Truffle Mash Potato",3,,236
+"2020-11-15 21:05:48",5764,processed,new,"1× BB01 Blue Pea Sourdough, 1× BC02 Ondeh Ondeh Cake",2,,52.5
+"2020-11-15 20:50:17",5763,processed,new,"1× Membership Registration",1,,25
+"2020-11-15 20:44:42",5762,processed,new,"1× BC02 Strawberry Fields Cake",1,,59
+"2020-11-15 20:36:38",5761,processed,new,"1× BCC1 Classic Chocolate Chip Cookie, 1× BCC1 Chocolate Midnight Cookie, 1× BC02 Carrot Walnut Cake",3,welcome10,69.75
+"2020-11-15 19:59:13",5760,processed,returning,"1× *H05 Classic Sausage Platter",1,,59
+"2020-11-15 19:56:19",5759,processed,returning,"1× *A08 Pumpkin Spice Cake, 1× *H05 Classic Sausage Platter",2,,107
+"2020-11-15 19:52:35",5758,processed,returning,"1× *A02 Lychee Champagne Logcake",1,,68
+"2020-11-15 18:56:13",5757,processed,returning,"1× BC05 Yuzu Raspberry Cheesecake",1,,45
+"2020-11-15 18:40:26",5756,processed,new,"1× *H01 Rosemary & Butter-Roasted Turkey, 1× *H12 Winter Truffle Mash Potato",2,,188
+"2020-11-15 18:34:47",5755,processed,new,"1× BC02 Red Velvet Cake",1,,59
+"2020-11-15 18:25:30",5754,processed,new,"1× BC02 Black Forest Cake",1,,59
+"2020-11-15 18:04:56",5753,processed,new,"1× BC02 Choc Cherry Financier Cake",1,,63
+"2020-11-15 17:11:13",5752,processed,new,"1× BC02 Choc Banana Espresso Cake, 1× BC02 Gula Melaka Pandan Cake, 1× BC02 Ondeh Ondeh Cake",3,,163
+"2020-11-15 16:59:46",5751,processed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-15 16:34:34",5750,processed,new,"1× *H01 Rosemary & Butter-Roasted Turkey, 1× *H12 Winter Truffle Mash Potato, 1× BB04 Hot Cross Buns Bundle",3,welcome10,179.55
+"2020-11-15 16:10:40",5749,pending,new,"4× BB03 Plain Ciabatta, 2× BB03 White Bloomer, 3× BB03 Rustic Baguette, 1× BB01 Rye Sourdough, 1× BP02 Butter Croissant Bundle, 1× BP02 Choc Croissant Bundle, 1× Grilled Beetroot and Avocado Burger",13,,82.5
+"2020-11-15 16:09:22",5748,processed,new,"1× *H01 Rosemary & Butter-Roasted Turkey, 1× *A09 Classic Fruit Cake",2,,200
+"2020-11-15 15:52:05",5747,completed,new,"1× Grilled Chicken Garlic Aglio Olio Snack Box, 1× BC09 Real Dark Chocolate Slice, 1× BC09 Carrot Walnut Slice, 1× KB01 Hearty Sandwich Set",4,,43
+"2020-11-15 15:42:10",5746,completed,new,"1× Caramel SeaSalt Cheesecake - 6""R, 1× Ondeh Ondeh Cake - 6""R",2,,90
+"2020-11-15 15:32:51",5745,pending,new,"1× Roasted Cauliflower (250ml) - Daily, 1× BP04 Cheese Scallion Scone Bundle, 2× Hammy Cheese Thins, 1× Pulled Pork Avocado Sandwich, 1× BP03 2-Berry Muffin Bundle, 4× BC10 Cherry Pistachio, 1× BB04 Cinnamon Swirl, 1× BB04 Milk & Butter Bread",12,,80.3
+"2020-11-15 15:31:54",5744,processed,new,"1× BC02 Eggless Chocolate Truffle",1,,45
+"2020-11-15 14:49:14",5732,completed,new,"1× BC02 Chocolate Fudge Cake",1,welcome10,56.7
+"2020-11-15 14:41:10",5731,completed,returning,"1× BC02 Real Dark Chocolate Cake",1,,45
+"2020-11-15 14:24:57",5730,processed,new,"1× BC02 Ondeh Ondeh Cake",1,,45
+"2020-11-15 14:10:14",5729,processed,new,"1× *B01 Baby Citrusy Panettone 6's, 1× BC10 Cherry Pistachio, 1× BC10 Chocolate Belgian Marquise, 1× BCC1 Raspberry Thumbprint Cookie",4,welcome10,31.32
+"2020-11-15 13:34:52",5725,completed,returning,"1× BC03 Eggless Carrot Walnut Cake",1,,66
+"2020-11-15 13:28:33",5724,processed,returning,"1× BC02 Gula Melaka Pandan Cake",1,,59
+"2020-11-15 13:20:01",5723,processed,new,"1× *H01 Rosemary & Butter-Roasted Turkey",1,,158
+"2020-11-15 13:14:43",5722,processed,returning,"1× *A03 Flourless Chocolate Logcake",1,,58
+"2020-11-15 13:09:05",5721,completed,new,"1× BC02 Real Dark Chocolate Cake",1,,45
+"2020-11-15 12:27:10",5720,completed,new,"1× BC01 Red Velvet Cake-8""R",1,,59
+"2020-11-15 12:17:52",5719,completed,new,"1× BB01 Blue Pea Sourdough",1,,7.5
+"2020-11-15 11:36:12",5718,completed,new,"1× BC02 Real Dark Chocolate Cake",1,,45
+"2020-11-15 11:19:45",5717,completed,new,"1× BP03 Blueberry Crumble Muffin Bundle, 1× BP03 2-Berry Muffin Bundle, 1× BP03 Carrot Walnut Muffin Bundle",3,,36
+"2020-11-15 10:54:44",5716,processed,returning,"1× BC02 Ondeh Ondeh Cake",1,,45
+"2020-11-15 10:16:17",5715,processed,new,"1× BC02 Ondeh Ondeh Cake",1,welcome10,56.7
+"2020-11-15 09:40:55",5714,processed,new,"1× BC02 Ondeh Ondeh Cake",1,,45
+"2020-11-15 09:18:09",5713,processed,new,"1× BC02 Real Dark Chocolate Cake",1,,45
+"2020-11-15 09:15:44",5712,processed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-15 09:13:24",5711,completed,new,"1× BCC1 Classic Chocolate Chip Cookie, 1× Beef Cheeseburger, 2× BC10 Cherry Pistachio, 1× BC01 Red Velvet Cake-8""R",5,,86.2
+"2020-11-15 08:18:35",5709,processed,new,"2× SP04 Sliders Box- 6pcs, 2× SP04 Sliders Box- 6pcs, 2× SP05 Assorted Pastries Box",6,,129.2
+"2020-11-15 07:17:33",5708,completed,new,"1× *C01 Assorted Christmas Cookies, 1× BB04 Tahini Choc Pull-Apart Loaf, 1× BC08 Pandan Ogura Cake, 1× BP02 Butter Croissant Bundle, 2× BC10 Brownie With Walnut",6,,85.5
+"2020-11-15 06:17:05",5707,completed,new,"1× BC02 Black Forest Cake",1,birm413,50.15
+"2020-11-14 23:01:26",5706,processed,returning,"1× *H10 Truffle Portebello Mushroom & Feta Quiche, 2× BP04 Cheese Scallion Scone Bundle, 1× Salmon Grain Bowl Snack Box, 1× Mushroom Soup (250ml) - Daily, 1× Garlic & Spring Onion Pull-Apart Loaf, 1× *H11 Rustic Chorizo Bread Stuffing, 1× BC09 Carrot Walnut Slice",8,welcome10,143.1
+"2020-11-14 22:23:52",5705,processed,new,"1× BB05 Jelly Donuts, 1× BC02 Chocolate Matcha Cake, 1× BB01 Blue Pea Sourdough",3,,85.5
+"2020-11-14 21:49:05",5704,processed,returning,"1× *A03 Flourless Chocolate Logcake",1,welcome10,52.2
+"2020-11-14 21:37:37",5703,processed,new,"3× *A02 Lychee Champagne Logcake",3,,204
+"2020-11-14 17:43:53",5702,processed,new,"1× *B04 Classic Minced Pie, 1× BC02 Caramel Sea Salt Tiramisu",2,,85
+"2020-11-14 16:53:53",5699,processed,new,"1× BC03 Vegan Earl Grey Belgian Chocolate Berries Cake",1,welcome10,56.7
+"2020-11-14 16:36:19",5698,processed,new,"1× *H01 Rosemary & Butter-Roasted Turkey, 1× *B04 Classic Minced Pie, 1× *B04 Classic Minced Pie, 1× *H07 Canadian Maple Ham",4,welcome10,315
+"2020-11-14 16:21:05",5697,processed,new,"1× SP01 Assorted Muffin & Scone Box, 1× BC02 Carrot Walnut Cake",2,,84
+"2020-11-14 16:07:25",5696,pending,returning,"2× BCC1 Almond Crunch Cookie",2,,18.5
+"2020-11-14 15:54:05",5695,completed,new,"1× BB03 Plain Ciabatta, 4× BC10 Brownie With Walnut, 2× BB01 Wholewheat Sourdough, 1× BB03 White Bloomer",8,,38.9
+"2020-11-14 15:46:50",5694,processed,new,"1× SP04 Sliders Box- 6pcs, 1× SP04 Assorted Mini Savory Tartlets 12s",2,,47.8
+"2020-11-14 15:41:31",5693,processed,new,"1× *C04 Christmas Biscotti, 1× BB04 Milk & Butter Bread, 1× BC09 Carrot Walnut Slice, 1× SP04 Assorted Mini Savory Tartlets 12s, 1× Champagne Jean-Noel Haton Rose, France",5,,139.8
+"2020-11-14 15:29:23",5692,processed,new,"1× BC01 Red Velvet Cake-8""R, 1× Salted Gula Melaka Mixed Nuts, 1× BCC1 Matcha Chocolate Shortbread, 1× Fix & Fogg Peanut Butter - Super Crunchy",4,,69.7
+"2020-11-14 15:21:57",5691,completed,returning,"1× BC02 Gula Melaka Pandan Cake",1,,59
+"2020-11-14 15:21:37",5690,processed,returning,"1× BC01 Red Velvet Cake-8""R",1,,59
+"2020-11-14 15:19:32",5689,completed,new,"1× *A04 Hojicha Matcha Yuzu Block Cake",1,welcome10,80.1
+"2020-11-14 15:04:36",5688,processed,returning,"1× BC02 Chocolate Matcha Cake",1,,63
+"2020-11-14 14:57:59",5687,completed,returning,"1× BC02 Ondeh Ondeh Cake",1,,45
+"2020-11-14 14:51:43",5686,processed,new,"1× BC02 Red Velvet Cake",1,,59
+"2020-11-14 14:47:57",5685,processed,returning,"1× BC02 Choc Banana Espresso Cake",1,,59
+"2020-11-14 14:17:41",5684,processed,returning,"1× BC02 Chocolate Fudge Cake",1,,63
+"2020-11-14 13:51:38",5683,completed,returning,"1× BCC1 Almond Biscotti, 1× BCC1 Chocolate Midnight Cookie, 1× BCC1 Classic Chocolate Chip Cookie, 1× BCC1 Oatmeal Cranberry Cookie, 1× BCC1 Raspberry Thumbprint Cookie, 1× BCC1 Almond Crunch Cookie, 1× BP03 2-Berry Muffin Bundle, 1× BB04 Tahini Choc Pull-Apart Loaf",8,,110.4
+"2020-11-14 13:51:04",5682,completed,new,"1× BC05 Burnt Cheesecake",1,,45
+"2020-11-14 13:47:25",5681,completed,new,"1× BC04 Burnt Cheesecake - 7""R",1,,45
+"2020-11-14 13:45:43",5680,processed,new,"1× BC08 Pandan Angel Sponge Cake",1,,36
+"2020-11-14 13:43:41",5679,completed,new,"1× BC02 Red Velvet Cake",1,,59
+"2020-11-14 13:19:34",5678,processed,new,"1× BC02 Carrot Walnut Cake, 1× SP04 Assorted Mini Savory Tartlets 12s",2,,87
+"2020-11-14 13:00:35",5677,processed,new,"1× *H01 Rosemary & Butter-Roasted Turkey",1,welcome10,142.2
+"2020-11-14 12:53:42",5676,processed,new,"1× *A04 Hojicha Matcha Yuzu Block Cake",1,welcome10,80.1
+"2020-11-14 12:49:03",5675,completed,new,"1× BB02 Wholemeal 4 Seeds, 2× BCC1 Almond Biscotti, 1× BB01 Wholewheat Sourdough, 1× BB04 Cinnamon Swirl",5,,28.1
+"2020-11-14 12:18:42",5674,completed,new,"1× BC05 Caramel SeaSalt Cheesecake",1,welcome10,40.5
+"2020-11-14 12:04:26",5673,completed,new,"1× BC02 Chocolate Matcha Cake",1,,63
+"2020-11-14 11:35:46",5672,completed,new,"1× *A03 Flourless Chocolate Logcake, 1× BB01 Wholewheat Sourdough",2,,64.5
+"2020-11-14 11:23:25",5671,processed,new,"1× Salmon Grain Bowl Snack Box, 1× Beef Cheeseburger, 1× BC02 Peanut Butter Jelly Cake",3,welcome10,81.9
+"2020-11-14 11:13:39",5669,completed,new,"12× BC11 Double Chocolate Cupcake",12,,50.4
+"2020-11-14 11:04:58",5668,completed,new,"1× *A02 Lychee Champagne Logcake, 1× *H01 Rosemary & Butter-Roasted Turkey, 1× *H10 Truffle Portebello Mushroom & Feta Quiche, 1× *H12 Winter Truffle Mash Potato",4,,304
+"2020-11-14 10:50:05",5667,completed,new,"1× BC02 Eggless Chocolate Truffle",1,,59
+"2020-11-14 10:37:42",5666,completed,new,"1× BC02 Strawberry Fields Cake, 1× BB04 Cinnamon Swirl, 1× BP04 Cranberry Scone Bundle, 1× BC09 Carrot Walnut Slice, 1× BB04 Tahini Choc Pull-Apart Loaf, 1× BC10 Blueberry Almond Slice, 1× BC10 Cherry Pistachio",7,welcome10,85.05
+"2020-11-14 10:21:22",5665,completed,returning,"1× BC08 Pandan Ogura Cake",1,,32
+"2020-11-14 08:51:18",5664,completed,new,"2× SP03 Bangers & Mash Box, 2× SP01 Savoury Croissant Box, 1× KB01 Hearty Meal Box, 2× Grilled Chicken Grain Bowl Snack Box",7,,175.9
+"2020-11-14 07:31:25",5663,completed,new,"1× *C02 Assorted Premium Butter Shortbread, 1× BC01 Carrot Walnut Cake - 8""R, 1× Spa Foods Aged Ginger Tea",3,,106.5
+"2020-11-14 07:28:17",5662,completed,new,"1× BC02 Gula Melaka Pandan Cake",1,,59
+"2020-11-14 07:20:28",5661,completed,new,"1× Grilled Chicken Grain Bowl Snack Box, 1× BB03 Plain Ciabatta, 1× Noah's Apple Peach Kiwi Fruit Mango Lime Juice Smoothie, 1× Salmon Grain Bowl Snack Box, 1× SP03 Bangers & Mash Box, 1× Pesto Veggie Garden Box",6,,92.5
+"2020-11-13 23:33:20",5660,completed,new,"2× BC09 Ondeh Ondeh Slice",2,,15
+"2020-11-13 23:16:40",5659,completed,new,"1× BC03 Vegan Earl Grey Belgian Chocolate Berries Cake, 1× BB03 Onion Olive Coriander, 2× BP03 2-Berry Muffin Bundle",4,welcome10,83.25
+"2020-11-13 21:24:31",5658,completed,new,"1× BC02 Ondeh Ondeh Cake",1,welcome10,40.5
+"2020-11-13 21:20:27",5657,completed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,welcome10,53.1
+"2020-11-13 21:18:37",5656,pending,new,"1× BC02 Ondeh Ondeh Cake",1,welcome10,40.5
+"2020-11-13 21:07:27",5655,completed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-13 21:03:43",5654,processed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-13 20:46:56",5653,completed,new,"1× BC02 Black Forest Cake",1,,59
+"2020-11-13 17:54:25",5650,completed,returning,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-13 17:32:16",5649,completed,new,"1× BB03 Plain Ciabatta, 1× BC09 Carrot Walnut Slice, 1× BB02 Wholemeal Walnut, 1× BB04 Brioche, 1× BC10 Cherry Pistachio, 1× Beef Cheeseburger, 1× Basil Pesto Chicken Thins, 1× Salmon Grain Bowl Snack Box, 1× BC09 Red Velvet Slice, 1× Cedele Hazelnut Nut Butter, 1× BP01 Baby Brioche - Almond Cardamon",11,,87.3
+"2020-11-13 17:27:19",5648,processed,returning,"1× BC02 Blueberry Maple Cake",1,,59
+"2020-11-13 17:19:50",5646,completed,new,"1× Ondeh Ondeh Cake - 6""R, 1× BP03 2-Berry Muffin Bundle, 1× BP03 Blueberry Crumble Muffin Bundle, 1× BB04 Hot Cross Buns Bundle",4,,80.5
+"2020-11-13 17:13:00",5645,completed,returning,"1× BC02 Lychee Rose Cake",1,,59
+"2020-11-13 17:11:09",5644,completed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-13 16:40:53",5643,completed,returning,"1× BC01 Carrot Walnut Cake - 8""R, 1× *C01 Assorted Christmas Cookies",2,,87
+"2020-11-13 16:37:06",5642,pending,new,"1× *C01 Assorted Christmas Cookies, 1× BC01 Carrot Walnut Cake - 8""R",2,,87
+"2020-11-13 16:36:10",5641,completed,new,"1× BC05 Yuzu Raspberry Cheesecake",1,welcome10,40.5
+"2020-11-13 16:32:44",5640,completed,returning,"1× BC02 Gula Melaka Pandan Cake",1,,59
+"2020-11-13 16:23:25",5639,processed,returning,"1× BC02 Chocolate Matcha Cake",1,,63
+"2020-11-13 16:16:02",5638,pending,new,"1× BC02 Chocolate Matcha Cake",1,,63
+"2020-11-13 15:39:42",5637,completed,new,"1× KB01 Hearty Meal Box, 1× KB01 Hearty Meal Box",2,welcome10,28.62
+"2020-11-13 15:17:35",5634,completed,new,"1× BC01 Red Velvet Cake-8""R, 2× BB01 Wholewheat Sourdough",3,,72
+"2020-11-13 15:04:08",5633,completed,returning,"2× Grilled Chicken Garlic Aglio Olio Snack Box, 2× Noah's Apple Beetroot Orange Carrot Ginger Veggie Juice, 6× Salmon Grain Bowl Snack Box, 5× Noah's Apple Peach Kiwi Fruit Mango Lime Juice Smoothie, 2× KB01 Hearty Meal Box, 1× BC09 Carrot Walnut Slice, 1× Rebel Kitchen Chocolate Mylk, 1× SP02 Picnic Box, 1× BCC1 Almond Crunch Cookie, 1× BCC1 Classic Chocolate Chip Cookie, 1× SP04 Assorted Mini Savory Tartlets 12s, 1× SP05 Assorted Muffin Box, 1× SP05 Assorted Slice Bar, 1× BC10 Chocolate Belgian Marquise, 1× Pulled Pork Avocado Sandwich, 1× Pulled Beef Avocado Sandwich, 1× Beef Cheeseburger, 2× Noah's Apple Watermelon Mint Juice, 1× Breaded Portobello Cheese Burger, 1× Mushroom Soup (250ml) - Daily, 1× Rebel Kitchen Iced Coffee, 1× Rebel Kitchen Chocolate Hazelnut Mylk, 1× SP02 Picnic Box, 1× BC11 Red Velvet Earl Grey Cupcake, 2× BC11 Lemon Cupcake, 2× Lemongrass Lime Pasta with Glazed Seabass, 2× Spicy Chicken Yum Pasta, 2× Handmade Meatballs Tomato Pasta",45,,500
+"2020-11-13 14:40:26",5632,completed,new,"1× BC01 Carrot Walnut Cake - 8""R, 1× BC07 Banana Walnut Loaf Cake, 2× BB04 Milk & Butter Bread, 1× BB04 Cinnamon Swirl",5,welcome10,84.42
+"2020-11-13 14:35:04",5631,processed,new,"1× BC02 Eggless Chocolate Truffle",1,,45
+"2020-11-13 14:18:41",5630,processed,new,"1× *H05 Classic Sausage Platter, 1× *C03 Chocolate Cookies Collection",2,welcome10,85.5
+"2020-11-13 12:41:15",5629,completed,returning,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-13 12:29:55",5628,completed,new,"1× BC02 Chocolate Fudge Cake",1,,63
+"2020-11-13 12:08:01",5624,completed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,,59
+"2020-11-13 11:32:13",5616,completed,returning,"1× BC02 Choc Banana Espresso Cake",1,,59
+"2020-11-13 11:19:12",5615,processed,new,"1× BC05 Yuzu Raspberry Cheesecake",1,,45
+"2020-11-13 11:12:37",5614,completed,new,"1× Real Dark Chocolate Cake - 6""R",1,,45
+"2020-11-13 10:52:18",5613,completed,new,"2× BC02 Carrot Walnut Cake, 1× BP03 Carrot Walnut Muffin Bundle, 1× BP04 Choc-Chip Drop Scone Bundle",4,welcome10,126.9
+"2020-11-13 10:43:36",5612,pending,new,"1× BB03 Plain Ciabatta",1,,3.9
+"2020-11-13 10:17:13",5611,completed,new,"1× BC02 Caramel Sea Salt Tiramisu, 1× Herby Tomato Sea Salt Slab, 1× BB02 Wholemeal Walnut, 1× BB04 Tahini Choc Pull-Apart Loaf, 1× BCC1 Almond Crunch Cookie",5,,91.1
+"2020-11-13 09:47:18",5610,completed,new,"1× Ondeh Ondeh Cake - 6""R",1,,45
+"2020-11-13 09:39:12",5609,processed,new,"1× *H01 Rosemary & Butter-Roasted Turkey",1,,158
+"2020-11-13 09:16:45",5608,completed,returning,"4× KB01 Hearty Meal Box, 2× KB01 Hearty Meal Box, 2× KB01 Hearty Meal Box, 2× KB01 Hearty Meal Box, 2× SP01 Awesome Box, 2× SP01 Awesome Box",14,,219
+"2020-11-13 09:13:59",5607,processed,new,"1× BC08 Pandan Angel Sponge Cake, 1× BB01 Rye Sourdough",2,,42.3
+"2020-11-13 09:07:49",5606,completed,new,"1× BC02 Gula Melaka Pandan Cake",1,,59
+"2020-11-13 08:13:01",5605,processed,new,"1× BC02 Gula Melaka Pandan Cake",1,,59
+"2020-11-13 07:49:40",5604,processed,new,"1× *H06 Morrocan Chicken Rice Pilaf",1,,59
+"2020-11-13 04:46:45",5603,completed,new,"1× BC02 Lychee Rose Cake",1,,59
+"2020-11-13 00:51:29",5602,processed,new,"1× BC03 Vegan Earl Grey Belgian Chocolate Berries Cake",1,welcome10,56.7
+"2020-11-12 22:43:25",5600,completed,new,"1× BB01 Blue Pea Sourdough, 1× Ondeh Ondeh Cake - 6""R, 1× Salmon Grain Bowl Snack Box, 1× KB01 Hearty Sandwich Set",4,,81
+"2020-11-12 21:36:36",5598,completed,new,"1× BC02 Caramel Sea Salt Tiramisu",1,,63
+"2020-11-12 21:30:55",5597,completed,new,"1× BC03 Vegan Earl Grey Belgian Chocolate Berries Cake, 1× BC11 Lemon Cupcake, 1× BC07 Banana Walnut Loaf Cake",3,,85.2
+"2020-11-12 20:37:29",5596,completed,returning,"1× BC01 Red Velvet Cake-8""R",1,,59
+"2020-11-12 20:26:58",5594,pending,returning,"1× BC01 Red Velvet Cake-8""R",1,,59
+"2020-11-12 19:43:56",5590,completed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,welcome10,53.1
+"2020-11-12 19:36:47",5586,processed,new,"1× BC02 Gula Melaka Pandan Cake",1,,59
+"2020-11-12 19:16:39",5582,completed,returning,"6× SP04 Sliders Box- 6pcs, 4× SP05 Assorted Pastries Box, 1× SP06 Assorted Mini Cheesecake Box [Eggless] [V], 5× SP02 Picnic Box",16,,372.8
+"2020-11-12 19:04:42",5581,pending,new,"1× SP01 Assorted Muffin & Scone Box",1,,25
+"2020-11-12 18:56:23",5580,completed,new,"1× BC02 Black Forest Cake",1,joat40rv08,19
+"2020-11-12 18:50:51",5579,completed,returning,"1× BC05 Yuzu Raspberry Cheesecake",1,,45
+"2020-11-12 18:48:36",5578,completed,returning,"1× BC02 Black Forest Cake",1,,59
+"2020-11-12 18:43:32",5577,completed,new,"1× Ondeh Ondeh Cake - 6""R",1,,45
+"2020-11-12 18:25:43",5576,completed,returning,"1× BC02 Choc Banana Espresso Cake",1,,59
+"2020-11-12 18:24:07",5575,completed,new,"1× BC02 Chocolate Matcha Cake",1,,63
+"2020-11-12 18:21:27",5574,completed,returning,"1× BC02 Black Forest Cake, 1× SP04 Mini Croissant Sandwiches, 1× SP04 Mini Croissant Sandwiches, 1× Herby Tomato Sea Salt Slab, 1× BB02 Wholemeal Walnut, 1× Ham & Cheese Sandwich",6,,112.9
+"2020-11-12 18:20:26",5573,processed,returning,"1× BC02 Real Dark Chocolate Cake",1,,63
+"2020-11-12 18:10:30",5572,completed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,,59
+"2020-11-12 18:09:25",5571,completed,new,"1× BB02 Wholemeal 4 Seeds, 2× BB03 White Bloomer, 1× BB04 Brioche, 1× BB04 Orange Cranberry Loaf, 1× BB04 Tahini Choc Pull-Apart Loaf, 1× BB01 Blue Pea Sourdough, 1× Herby Tomato Sea Salt Slab, 2× BC06 Cherry Chocolate Pound Cake 500g",10,,83.3
+"2020-11-12 17:56:36",5570,completed,returning,"1× BC02 Strawberry Fields Cake, 1× Garlic & Spring Onion Pull-Apart Loaf, 1× BCC1 Oatmeal Cranberry Cookie, 1× BC10 Chocolate Belgian Marquise",4,,80.6
+"2020-11-12 17:38:52",5569,completed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,,59
+"2020-11-12 17:24:59",5568,completed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-12 17:06:31",5567,completed,returning,"1× BC02 Ondeh Ondeh Cake",1,,45
+"2020-11-12 17:01:44",5566,completed,returning,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-12 16:51:36",5563,completed,new,"1× SP04 Assorted Mini Savory Tartlets 12s, 1× SP04 Assorted Mini Savory Tartlets 12s, 1× SP04 Sliders Box- 6pcs, 1× Cedele Almond Nuts",4,,84.7
+"2020-11-12 16:47:26",5562,completed,returning,"1× BC02 Real Dark Chocolate Cake",1,,63
+"2020-11-12 16:31:53",5561,completed,new,"1× BC03 Vegan Matcha Chocolate Cheesecake",1,,45
+"2020-11-12 16:30:22",5560,completed,new,"1× BC02 Chocolate Fudge Cake",1,welcome10,56.7
+"2020-11-12 16:20:22",5559,completed,returning,"1× BC03 Vegan Earl Grey Belgian Chocolate Berries Cake",1,,63
+"2020-11-12 16:19:11",5558,completed,returning,"2× BC02 Chocolate Matcha Cake",2,,126
+"2020-11-12 16:18:24",5557,completed,returning,"1× BC01 Red Velvet Cake-8""R",1,,59
+"2020-11-12 16:13:55",5556,processed,new,"1× BC02 Ondeh Ondeh Cake",1,,45
+"2020-11-12 16:07:44",5555,completed,returning,"1× *A04 Hojicha Matcha Yuzu Block Cake",1,,89
+"2020-11-12 16:01:27",5554,processed,returning,"1× SP04 Mini Croissant Sandwiches, 1× SP04 Mini Croissant Sandwiches, 1× SP04 Mini Croissant Sandwiches, 1× SP04 Sliders Box- 6pcs, 1× SP04 Sliders Box- 6pcs, 1× SP04 Sliders Box- 6pcs",6,,107.4
+"2020-11-12 15:55:33",5553,processed,returning,"1× SP04 Mini Croissant Sandwiches, 1× SP04 Mini Croissant Sandwiches, 1× SP04 Mini Croissant Sandwiches, 1× SP04 Sliders Box- 6pcs, 1× SP04 Sliders Box- 6pcs, 1× SP04 Sliders Box- 6pcs",6,,107.4
+"2020-11-12 15:51:18",5552,completed,returning,"1× BC02 Gula Melaka Pandan Cake",1,,59
+"2020-11-12 15:41:01",5551,completed,returning,"1× BC02 Chocolate Matcha Cake",1,,63
+"2020-11-12 15:40:15",5550,completed,returning,"1× SP04 Mini Croissant Sandwiches, 1× SP04 Mini Croissant Sandwiches, 1× SP04 Mini Croissant Sandwiches, 1× SP04 Sliders Box- 6pcs, 1× SP04 Sliders Box- 6pcs, 1× SP04 Sliders Box- 6pcs",6,,107.4
+"2020-11-12 15:39:03",5549,completed,new,"1× BC05 Choc Cookies & Cream Cheesecake, 1× BC02 Gula Melaka Pandan Cake",2,welcome10,93.6
+"2020-11-12 15:35:10",5548,completed,returning,"1× SP04 Mini Croissant Sandwiches, 1× SP04 Mini Croissant Sandwiches, 1× SP04 Mini Croissant Sandwiches, 1× SP04 Sliders Box- 6pcs, 1× SP04 Sliders Box- 6pcs, 1× SP04 Sliders Box- 6pcs",6,,107.4
+"2020-11-12 15:29:28",5547,completed,returning,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-12 15:27:51",5546,completed,new,"1× SP04 Mini Croissant Sandwiches, 1× SP04 Mini Croissant Sandwiches, 1× SP04 Mini Croissant Sandwiches, 1× SP04 Sliders Box- 6pcs, 1× SP04 Sliders Box- 6pcs, 1× SP04 Sliders Box- 6pcs",6,,107.4
+"2020-11-12 15:23:41",5545,completed,new,"1× BC02 Chocolate Matcha Cake",1,,63
+"2020-11-12 15:09:10",5543,processed,returning,"1× BC03 Vegan Earl Grey Belgian Chocolate Berries Cake",1,,63
+"2020-11-12 14:29:49",5542,processed,returning,"1× *A08 Pumpkin Spice Cake",1,,48
+"2020-11-12 14:28:57",5541,completed,new,"1× BC02 Ondeh Ondeh Cake",1,welcome10,82.8
+"2020-11-12 14:27:23",5540,completed,new,"1× Ondeh Ondeh Cake - 6""R",1,,45
+"2020-11-12 14:09:16",5539,completed,new,"1× BC05 Burnt Cheesecake",1,,45
+"2020-11-12 13:58:10",5538,completed,new,"1× BC02 Chocolate Fudge Cake",1,,63
+"2020-11-12 13:56:56",5537,processed,new,"1× BC02 Blueberry Maple Cake",1,,59
+"2020-11-12 13:51:12",5536,completed,new,"1× BC06 Almond Semolina Sugee Butter Cake 500g, 3× BC06 Cherry Chocolate Pound Cake 500g, 3× BC06 Vanilla Sand Loaf Cake 500g",7,,126
+"2020-11-12 13:44:25",5535,completed,new,"1× BC02 Choc Cherry Financier Cake, 1× SP05 Assorted Danish Box",2,,82
+"2020-11-12 13:41:20",5534,completed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-12 13:38:18",5533,completed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,,69
+"2020-11-12 13:33:46",5532,processed,returning,"1× BC02 Strawberry Fields Cake",1,,59
+"2020-11-12 13:28:25",5531,completed,new,"1× BC05 Choc Cookies & Cream Cheesecake",1,,45
+"2020-11-12 12:58:08",5528,processed,new,"1× BC02 Blueberry Maple Cake",1,,59
+"2020-11-12 12:50:11",5527,completed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-12 12:46:21",5526,completed,returning,"1× BC02 Gula Melaka Pandan Cake, 1× *C04 Christmas Biscotti, 1× SP04 Assorted Mini Savory Tartlets 12s",3,,115
+"2020-11-12 12:44:03",5525,completed,new,"1× BC02 Peanut Butter Jelly Cake",1,,64
+"2020-11-12 12:36:49",5518,completed,new,"1× Real Dark Chocolate Cake - 6""R",1,,45
+"2020-11-12 12:36:46",5517,completed,returning,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-12 12:34:53",5514,completed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-12 12:18:23",5509,completed,new,"1× BC03 Vegan Earl Grey Belgian Chocolate Berries Cake",1,,63
+"2020-11-12 11:48:55",5505,pending,returning,"1× *C01 Assorted Christmas Cookies, 1× *C05 Christmas Gingerbread Cookies, 1× *B02 Christmas Panettone (Family Size), 1× *H06 Morrocan Chicken Rice Pilaf, 1× *H08 Christmas Salad, 1× *A11 Christmas Brownies Tin",6,,207
+"2020-11-12 11:34:13",5503,processed,new,"1× BC02 Ondeh Ondeh Cake",1,welcome10,40.5
+"2020-11-12 11:32:17",5502,processed,new,"1× BC05 Yuzu Raspberry Cheesecake",1,,45
+"2020-11-12 11:32:12",5501,completed,new,"1× BC02 Carrot Walnut Cake",1,welcome10,153
+"2020-11-12 11:28:11",5498,completed,new,"4× SP01 Awesome Box, 4× SP01 Awesome Box, 4× SP01 Awesome Box",12,welcome10,162
+"2020-11-12 11:22:59",5497,completed,returning,"2× BCC1 Almond Biscotti",2,,18.5
+"2020-11-12 11:22:08",5496,completed,new,"1× Real Dark Chocolate Cake - 6""R",1,,45
+"2020-11-12 11:17:20",5495,completed,new,"1× Ondeh Ondeh Cake - 6""R",1,,45
+"2020-11-12 10:48:18",5489,completed,returning,"1× BC02 Chocolate Matcha Cake",1,,63
+"2020-11-12 10:32:42",5482,completed,new,"1× Real Dark Chocolate Cake - 6""R",1,,45
+"2020-11-12 10:29:17",5481,completed,returning,"1× BC02 Choc Banana Espresso Cake",1,,59
+"2020-11-12 10:26:04",5480,completed,new,"1× BC02 Real Dark Chocolate Cake",1,,45
+"2020-11-12 10:25:38",5479,completed,new,"1× SP05 Assorted Slice Bar, 1× SP01 Croissant & Cupcake Box, 1× SP01 Awesome Box, 1× SP01 Awesome Box, 1× SP01 Croissant & Cupcake Box",5,,93
+"2020-11-12 10:23:13",5478,completed,new,"1× BC02 Caramel Sea Salt Tiramisu",1,,63
+"2020-11-12 10:12:07",5477,completed,new,"1× BC03 Vegan Matcha Chocolate Cheesecake",1,,59
+"2020-11-12 09:57:26",5476,processed,new,"1× Membership Registration",1,,25
+"2020-11-12 09:36:35",5474,completed,new,"6× BC06 Almond Semolina Sugee Butter Cake 500g, 1× BC09 C'mel Sea Salt Cheesecake Slice, 1× Coriander Pesto Pasta with Grilled Prawns, 1× Spicy Chicken Yum Pasta",9,,142.5
+"2020-11-12 09:24:43",5473,completed,new,"5× BB01 Wholewheat Sourdough",5,,32.5
+"2020-11-12 09:02:53",5472,completed,new,"1× BC02 Ondeh Ondeh Cake, 1× *C01 Assorted Christmas Cookies",2,welcome10,65.7
+"2020-11-12 08:56:57",5471,completed,new,"1× BC02 Caramel Sea Salt Tiramisu, 5× Noah's Apple Watermelon Mint Juice",6,,86
+"2020-11-12 08:31:23",5469,completed,new,"1× BB01 Blue Pea Sourdough, 1× BC10 Lemon Lust, 1× BC09 Ondeh Ondeh Slice, 1× BC09 Real Dark Chocolate Slice, 1× BB04 Tahini Choc Pull-Apart Loaf, 1× BP02 Choc Croissant Bundle",6,,55.2
+"2020-11-12 08:18:57",5468,processed,returning,"1× *B02 Christmas Panettone (Family Size), 1× *A04 Hojicha Matcha Yuzu Block Cake, 1× *C05 Christmas Gingerbread Cookies, 1× *H06 Morrocan Chicken Rice Pilaf, 1× *H14 Festive Slider Platter, 1× *H08 Christmas Salad",6,,316
+"2020-11-12 08:16:08",5467,completed,new,"1× BC05 Choc Cookies & Cream Cheesecake",1,,45
+"2020-11-12 08:04:05",5466,completed,new,"1× BC05 Blueberry Hazelnut Cheesecake, 1× SP04 Mini Croissant Sandwiches, 1× SP04 Mini Croissant Sandwiches",3,,109
+"2020-11-12 07:59:55",5465,completed,new,"1× Ondeh Ondeh Cake - 6""R",1,,45
+"2020-11-12 07:02:50",5464,completed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-11 22:54:03",5462,completed,new,"1× *C01 Assorted Christmas Cookies, 1× Garlic & Spring Onion Pull-Apart Loaf, 1× BC06 Cherry Chocolate Pound Cake 500g, 1× BCC1 Chocolate Midnight Cookie, 1× Full Green Cauli Rice with Broccoli, 1× Herby Tomato Sea Salt Slab, 1× BB04 Cinnamon Swirl",7,,81.9
+"2020-11-11 22:52:29",5461,completed,new,"1× BC02 Eggless Chocolate Truffle",1,welcome10,40.5
+"2020-11-11 22:51:56",5460,processed,new,"1× BC01 Carrot Walnut Cake - 8""R, 1× Coriander Pesto Pasta with Grilled Prawns, 1× Salmon Grain Bowl Snack Box, 1× Lemongrass Lime Pasta with Glazed Seabass",4,,103
+"2020-11-11 22:51:18",5459,completed,new,"1× BC02 Chocolate Matcha Cake, 1× BC07 Orange Cranberry Pound Cake",2,,81
+"2020-11-11 22:39:18",5458,processed,new,"1× Membership Registration",1,,25
+"2020-11-11 22:39:01",5457,completed,new,"1× BC02 Ondeh Ondeh Cake",1,,63
+"2020-11-11 22:24:26",5456,completed,new,"1× *X04 Green Vegan Christmas Hamper, 1× *C01 Assorted Christmas Cookies, 1× Weibel Dom Pierre Sparkling Wine, California",3,,134
+"2020-11-11 21:59:46",5455,processed,new,"1× BB01 Wholewheat Sourdough, 1× BB03 White Bloomer, 1× *H05 Classic Sausage Platter, 1× SP04 Sliders Box- 6pcs",4,,110.3
+"2020-11-11 21:38:06",5454,completed,new,"1× BC07 Orange Cranberry Pound Cake, 1× BC07 Cherry Chocolate Pound Cake",2,,36
+"2020-11-11 21:20:46",5453,completed,new,"1× BP04 Cranberry Scone Bundle, 1× Beef Cheeseburger, 1× KB01 Hearty Meal Box, 1× Handmade Meatballs Tomato Pasta, 1× BCC1 Classic Chocolate Chip Cookie, 1× BCC1 Chocolate Midnight Cookie, 1× *C02 Assorted Premium Butter Shortbread",7,welcome10,90.81
+"2020-11-11 21:07:43",5452,processed,new,"1× BC01 Carrot Walnut Cake - 8""R, 1× BC07 Orange Cranberry Pound Cake, 1× BP04 Cheese Scallion Scone Bundle",3,,88
+"2020-11-11 20:52:23",5451,completed,new,"1× BC02 Red Velvet Cake, 1× *C02 Assorted Premium Butter Shortbread",2,,87
+"2020-11-11 20:36:16",5449,completed,new,"1× *H14 Festive Slider Platter, 1× SP06 Assorted Mini Cheesecake Box [Eggless] [V], 1× SP01 Assorted Scone Box, 1× BC03 Vegan Earl Grey Belgian Chocolate Berries Cake",4,,169
+"2020-11-11 20:31:08",5447,processed,new,"1× BCC1 Classic Chocolate Chip Cookie, 1× *A04 Hojicha Matcha Yuzu Block Cake, 1× SP04 Assorted Mini Savory Tartlets 12s",3,,126.8
+"2020-11-11 19:51:46",5436,completed,new,"1× BC01 Carrot Walnut Cake - 8""R, 3× BCC1 Oatmeal Cranberry Cookie",4,,87.3
+"2020-11-11 19:45:41",5435,processed,new,"1× BC03 Sugarless Carrot Walnut Cake, 1× SP04 Mini Croissant Sandwiches, 1× BP04 Cheese Scallion Scone Bundle",3,,93
+"2020-11-11 19:32:42",5431,completed,new,"1× BC09 Real Dark Chocolate Slice",1,welcome10,6.75
+"2020-11-11 19:19:15",5429,completed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,welcome10,53.1
+"2020-11-11 19:19:15",5430,completed,new,"1× BC02 Lychee Rose Cake",1,,59
+"2020-11-11 19:19:13",5428,processed,new,"1× BC02 Carrot Walnut Cake, 1× BC06 Cherry Chocolate Pound Cake 500g, 1× BC10 Blueberry Almond Slice",3,,80.2
+"2020-11-11 19:01:29",5427,completed,new,"1× BC02 Choc Cherry Financier Cake",1,,63
+"2020-11-11 19:00:00",5426,completed,new,"1× BC07 Orange Cranberry Pound Cake, 1× BC05 Caramel SeaSalt Cheesecake, 2× BB03 Plain Ciabatta, 1× BB04 Brioche, 1× BB04 Orange Cranberry Loaf",6,,82.7
+"2020-11-11 18:59:26",5425,processed,new,"1× BC02 Gula Melaka Pandan Cake, 1× *X03 Christmas Tea & Cookies Hamper, 1× Membership Registration",3,welcome10,116.1
+"2020-11-11 18:42:23",5424,processed,new,"1× *H01 Rosemary & Butter-Roasted Turkey, 1× *B04 Classic Minced Pie, 1× *A03 Flourless Chocolate Logcake, 1× *H09 Lobster & Crab Quiche (9""Round)",4,,313
+"2020-11-11 18:42:22",5423,processed,new,"1× BC02 Gula Melaka Pandan Cake, 1× BP05 Butter Briossant, 1× BB02 Wholemeal Walnut, 1× BC02 Peanut Butter Jelly Cake",4,welcome10,107.73
+"2020-11-11 18:34:21",5422,completed,returning,"1× BC03 Eggless Carrot Walnut Cake",1,,66
+"2020-11-11 18:33:39",5421,completed,returning,"1× BC02 Peanut Butter Jelly Cake",1,,45
+"2020-11-11 18:33:27",5420,completed,new,"1× BCC1 Classic Chocolate Chip Cookie, 1× BP04 Cranberry Scone Bundle, 1× BB05 Jelly Donuts, 1× BB04 Milk & Butter Bread, 1× BC10 Brownie With Walnut",5,welcome10,39.96
+"2020-11-11 18:22:35",5419,completed,new,"1× BC03 Sugarless Carrot Walnut Cake, 1× BB03 Plain Ciabatta, 1× BB01 Rye Sourdough, 1× BC09 Real Dark Chocolate Slice",4,,84.7
+"2020-11-11 18:05:59",5418,completed,new,"1× BC02 Ondeh Ondeh Cake",1,,63
+"2020-11-11 18:01:00",5417,completed,returning,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-11 17:40:38",5415,completed,returning,"1× BC06 Almond Semolina Sugee Butter Cake 500g",1,,18
+"2020-11-11 17:13:57",5414,completed,returning,"1× BC07 Banana Walnut Loaf Cake",1,,18
+"2020-11-11 17:06:54",5413,completed,new,"1× BB01 Blue Pea Sourdough, 2× BB02 Wholemeal 4 Seeds",3,welcome10,17.37
+"2020-11-11 16:57:37",5412,completed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-11 16:55:38",5411,processed,new,"1× *H01 Rosemary & Butter-Roasted Turkey",1,,158
+"2020-11-11 16:43:36",5410,completed,new,"1× BC02 Real Dark Chocolate Cake",1,rewa118,35
+"2020-11-11 16:25:42",5409,completed,new,"1× BC02 Eggless Chocolate Truffle, 2× BB01 Blue Pea Sourdough, 1× Herby Tomato Sea Salt Slab, 2× BP05 Butter Briossant",6,,86.1
+"2020-11-11 15:43:22",5408,completed,new,"1× BC02 Real Dark Chocolate Cake",1,,45
+"2020-11-11 15:38:26",5404,completed,new,"1× BC02 Eggless Chocolate Truffle, 1× *C01 Assorted Christmas Cookies",2,welcome10,85.5
+"2020-11-11 15:36:30",5403,completed,new,"1× BC05 Choc Cookies & Cream Cheesecake, 1× BB04 Cinnamon Swirl, 1× BB05 Jelly Donuts, 1× BB01 Rye Sourdough",4,,103.5
+"2020-11-11 15:25:54",5402,completed,new,"1× BC02 Chocolate Matcha Cake",1,,63
+"2020-11-11 15:20:09",5400,completed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-11 15:09:53",5396,completed,new,"1× BC02 Ondeh Ondeh Cake",1,,45
+"2020-11-11 14:40:53",5395,processed,returning,"1× BC02 Ondeh Ondeh Cake",1,,45
+"2020-11-11 14:35:09",5394,pending,new,"1× BC02 Ondeh Ondeh Cake",1,,45
+"2020-11-11 14:34:42",5393,completed,new,"1× BC02 Strawberry Fields Cake",1,welcome10,53.1
+"2020-11-11 14:29:42",5392,pending,new,"1× BC03 Vegan Earl Grey Belgian Chocolate Berries Cake",1,welcome10,56.7
+"2020-11-11 14:27:28",5391,completed,new,"1× BC02 Choc Cherry Financier Cake",1,,63
+"2020-11-11 14:14:15",5390,processed,new,"1× BC02 Ondeh Ondeh Cake",1,,45
+"2020-11-11 14:10:03",5389,completed,new,"3× BC02 Gula Melaka Pandan Cake",3,,177
+"2020-11-11 14:09:15",5388,processed,new,"1× *A01 Butterscotch Maple Carrot Logcake, 1× *B04 Classic Minced Pie",2,,90
+"2020-11-11 14:00:41",5387,completed,returning,"1× BC02 Peanut Butter Jelly Cake",1,,45
+"2020-11-11 13:58:20",5386,processed,new,"1× BC02 Chocolate Fudge Cake, 1× BC02 Lychee Rose Cake",2,,148
+"2020-11-11 13:57:22",5385,completed,new,"1× Real Dark Chocolate Cake - 6""R",1,,45
+"2020-11-11 13:47:34",5384,completed,new,"1× BC03 Eggless Carrot Walnut Cake",1,,97
+"2020-11-11 13:30:12",5383,processed,new,"1× BC02 Red Velvet Cake, 1× SP06 Assorted Mini Cheesecake Box [Eggless] [V]",2,,85
+"2020-11-11 13:17:23",5382,completed,returning,"1× BC02 Carrot Walnut Cake",1,,85
+"2020-11-11 13:15:30",5381,completed,new,"1× Ondeh Ondeh Cake - 6""R",1,,45
+"2020-11-11 13:13:43",5380,completed,returning,"6× BC11 Double Chocolate Cupcake, 6× BC11 Lemon Cupcake, 6× BC11 Red Velvet Earl Grey Cupcake",18,,75.6
+"2020-11-11 13:12:50",5379,completed,new,"1× BC02 Real Dark Chocolate Cake",1,,45
+"2020-11-11 13:11:18",5378,processed,returning,"1× *A04 Hojicha Matcha Yuzu Block Cake",1,,89
+"2020-11-11 13:09:03",5377,completed,new,"1× BC02 Ondeh Ondeh Cake",1,,45
+"2020-11-11 13:07:13",5376,completed,new,"1× BC04 Burnt Cheesecake - 7""R",1,,45
+"2020-11-11 13:04:56",5375,processed,new,"1× BC02 Red Velvet Cake",1,,59
+"2020-11-11 12:59:37",5374,completed,new,"1× BC02 Chocolate Fudge Cake",1,,92
+"2020-11-11 12:50:56",5373,completed,returning,"1× BC05 Yuzu Raspberry Cheesecake",1,,45
+"2020-11-11 12:33:23",5372,completed,new,"1× BC01 Carrot Walnut Cake - 8""R, 1× BB01 Wholewheat Sourdough, 1× BB04 Hot Cross Buns Bundle, 1× BCC1 Almond Biscotti",4,,86.8
+"2020-11-11 12:32:04",5371,processed,returning,"1× *H01 Rosemary & Butter-Roasted Turkey",1,,158
+"2020-11-11 12:16:14",5369,completed,new,"1× BC02 Red Velvet Cake",1,,59
+"2020-11-11 12:15:26",5368,completed,new,"1× BC02 Gula Melaka Pandan Cake",1,,59
+"2020-11-11 11:52:42",5356,completed,returning,"1× BC02 Gula Melaka Pandan Cake",1,,59
+"2020-11-11 11:50:36",5355,completed,new,"1× BC02 Chocolate Fudge Cake",1,,63
+"2020-11-11 11:29:09",5353,completed,new,"1× BC02 Carrot Walnut Cake",1,welcome10,53.1
+"2020-11-11 11:17:13",5352,completed,new,"1× BC03 Sugarless Carrot Walnut Cake, 1× BP02 Butter Croissant Bundle, 1× BC10 Lemon Lust",3,,81.8
+"2020-11-11 11:05:23",5351,processed,new,"1× *A04 Hojicha Matcha Yuzu Block Cake",1,,89
+"2020-11-11 10:34:20",5350,completed,new,"1× BC02 Gula Melaka Pandan Cake",1,,59
+"2020-11-11 10:30:21",5349,completed,new,"1× BC02 Lychee Rose Cake",1,,59
+"2020-11-11 10:23:32",5348,processed,new,"1× BC03 Eggless Carrot Walnut Cake, 2× BB01 Rye Sourdough, 2× BB01 Wholewheat Sourdough",5,welcome10,82.44
+"2020-11-11 10:14:40",5347,processed,new,"2× BC02 Real Dark Chocolate Cake",2,,90
+"2020-11-11 10:09:39",5346,processed,new,"1× *H12 Winter Truffle Mash Potato, 2× *H10 Truffle Portebello Mushroom & Feta Quiche, 1× *H05 Classic Sausage Platter",4,,185
+"2020-11-11 10:06:17",5345,completed,new,"1× BC02 Lychee Rose Cake, 2× BCC1 Classic Chocolate Chip Cookie, 1× BCC1 Almond Crunch Cookie",4,,87.3
+"2020-11-11 09:52:36",5344,processed,new,"1× Membership Registration",1,,25
+"2020-11-11 09:42:54",5343,completed,new,"1× BC02 Chocolate Fudge Cake",1,,63
+"2020-11-11 09:22:45",5341,processed,new,"1× *H01 Rosemary & Butter-Roasted Turkey, 1× *A06 Burnt Gingerbread Cheesecake 7""",2,,206
+"2020-11-11 09:14:48",5339,completed,new,"1× BC02 Chocolate Matcha Cake",1,,63
+"2020-11-11 09:09:05",5338,completed,new,"1× BC02 Lychee Rose Cake, 1× Full Green Cauli Rice with Broccoli, 1× Full Green Cauliflower Rice, 1× Full Green Tomato Cauli Rice",4,,78.2
+"2020-11-11 09:00:46",5337,processed,returning,"1× *H06 Morrocan Chicken Rice Pilaf, 1× *H08 Christmas Salad",2,,99
+"2020-11-11 08:56:49",5336,processed,new,"1× *A04 Hojicha Matcha Yuzu Block Cake",1,,89
+"2020-11-11 08:56:11",5335,processed,new,"1× *A04 Hojicha Matcha Yuzu Block Cake",1,,89
+"2020-11-11 08:55:50",5334,completed,new,"1× BB02 Wholemeal Walnut, 1× BB01 Blue Pea Sourdough, 1× BB03 Onion Olive Coriander, 1× BB04 Milk & Butter Bread",4,,24.7
+"2020-11-11 08:37:25",5332,completed,new,"1× BC01 Carrot Walnut Cake - 8""R, 1× BP04 Raspberry Almond Scone Bundle, 1× BP04 Cranberry Scone Bundle",3,,81
+"2020-11-11 08:28:42",5331,processed,new,"1× BC02 Black Forest Cake, 1× BCC1 Matcha Chocolate Shortbread, 1× BB03 Plain Ciabatta, 2× BB04 Cinnamon Swirl",5,,84.1
+"2020-11-11 08:16:03",5330,processed,new,"1× *C01 Assorted Christmas Cookies, 1× *H12 Winter Truffle Mash Potato",2,,80
+"2020-11-11 07:42:14",5329,processed,new,"1× *A01 Butterscotch Maple Carrot Logcake, 1× *H01 Rosemary & Butter-Roasted Turkey",2,,226
+"2020-11-11 07:42:06",5328,processed,new,"1× *B04 Classic Minced Pie, 1× *H05 Classic Sausage Platter, 1× *B03 Christmas Brioche Wreath with Spinach Onion Cheese Dip",3,,111
+"2020-11-11 07:30:03",5327,completed,new,"1× BC01 Red Velvet Cake-8""R",1,,59
+"2020-11-11 07:20:47",5326,processed,new,"1× BB01 Rye Sourdough, 1× Lemongrass Lime Pasta with Glazed Seabass, 1× Beef Cheeseburger, 1× BC03 Vegan Earl Grey Belgian Chocolate Berries Cake",4,welcome10,84.87
+"2020-11-11 06:56:18",5325,completed,new,"1× BB04 Cinnamon Swirl, 1× BC05 Burnt Cheesecake, 1× BP02 Choc Croissant Bundle, 1× BB05 Jelly Donuts, 1× BB02 Wholemeal Walnut, 1× BB04 Orange Cranberry Loaf",6,welcome10,80.1
+"2020-11-11 06:49:50",5324,completed,new,"3× BC07 Cherry Chocolate Pound Cake, 2× BCC1 Oatmeal Cranberry Cookie, 1× BB03 Plain Ciabatta, 1× BB02 Wholemeal Walnut",7,,83.3
+"2020-11-11 06:35:06",5323,completed,new,"1× BC02 Lychee Rose Cake",1,welcome10,53.1
+"2020-11-11 05:58:41",5322,processed,new,"1× BC03 Vegan Earl Grey Belgian Chocolate Berries Cake, 1× *H15 Plant Base Slider Platter",2,,118
+"2020-11-11 05:37:05",5321,completed,new,"1× BC01 Red Velvet Cake-8""R, 1× BC04 Burnt Cheesecake - 7""R, 1× BC06 Almond Semolina Sugee Butter Cake 500g, 1× BB02 Wholemeal Walnut",4,,127.9
+"2020-11-11 05:21:49",5320,completed,new,"1× BC06 Almond Semolina Sugee Butter Cake 500g",1,,18
+"2020-11-11 04:48:31",5319,pending,new,"1× *C01 Assorted Christmas Cookies, 1× BB01 Blue Pea Sourdough, 2× BB04 Brioche, 1× BP04 Cranberry Scone Bundle, 1× BCC1 Almond Crunch Cookie, 1× BP05 Butter Briossant",7,welcome10,87.39
+"2020-11-11 01:06:15",5318,completed,new,"1× *A04 Hojicha Matcha Yuzu Block Cake",1,welcome10,80.1
+"2020-11-11 00:47:19",5317,processed,new,"1× BC03 Vegan Earl Grey Belgian Chocolate Berries Cake, 1× SP04 Assorted Mini Savory Tartlets 12s",2,,91
+"2020-11-11 00:23:06",5316,processed,new,"1× *C06 Tea Cookies Collection, 1× *A04 Hojicha Matcha Yuzu Block Cake",2,welcome10,141.3
+"2020-11-10 23:32:07",5314,completed,new,"1× Real Dark Chocolate Cake - 6""R",1,,45
+"2020-11-10 22:58:37",5313,completed,new,"1× BC02 Carrot Walnut Cake",1,welcome10,53.1
+"2020-11-10 21:38:07",5303,completed,new,"1× BB02 Wholemeal Walnut, 1× Cedele Almond Nut Butter, 1× BC02 Real Dark Chocolate Cake",3,,82.9
+"2020-11-10 21:22:56",5302,processed,new,"1× BC09 Ondeh Ondeh Slice, 1× BC02 Carrot Walnut Cake, 1× BC09 Red Velvet Slice, 1× BC09 C'mel Sea Salt Cheesecake Slice",4,,82
+"2020-11-10 21:09:55",5301,completed,new,"1× BC02 Ondeh Ondeh Cake",1,,63
+"2020-11-10 21:09:45",5300,completed,new,"1× BC02 Eggless Chocolate Truffle",1,welcome10,40.5
+"2020-11-10 21:02:20",5299,completed,new,"2× BB01 Blue Pea Sourdough, 2× BB01 Rye Sourdough, 2× BB01 Toasted Granola Yoghurt Sourdough, 3× BB02 Wholemeal Walnut, 2× BB03 Onion Olive Coriander, 1× BB04 Hot Cross Buns Bundle",12,,82.8
+"2020-11-10 20:31:57",5297,completed,new,"2× BB02 Wholemeal Walnut, 1× BB04 Cinnamon Swirl, 1× BP02 Butter Croissant Bundle, 1× *B01 Baby Citrusy Panettone 6's, 1× BC09 Carrot Walnut Slice, 1× Basil Pesto Chicken Thins, 1× Mushroom Soup (250ml) - Daily, 1× Hammy Cheese Thins, 1× BC09 Red Velvet Slice",10,welcome10,80.1
+"2020-11-10 20:26:51",5296,completed,new,"2× BC07 Almond Semolina Sugee Butter Cake, 1× BC07 Orange Cranberry Pound Cake",3,,54
+"2020-11-10 20:25:53",5295,completed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-10 19:48:38",5294,completed,new,"1× BC02 Chocolate Fudge Cake, 1× BP05 Butter Briossant, 2× BC10 Brownie With Walnut",4,,80.4
+"2020-11-10 19:40:11",5292,processed,new,"1× *B03 Christmas Brioche Wreath with Spinach Onion Cheese Dip, 1× *H10 Truffle Portebello Mushroom & Feta Quiche, 1× *H05 Classic Sausage Platter, 2× *H01 Rosemary & Butter-Roasted Turkey, 1× *H12 Winter Truffle Mash Potato",6,,483
+"2020-11-10 19:32:17",5291,completed,returning,"1× BC02 Blueberry Maple Cake",1,,59
+"2020-11-10 19:27:55",5290,completed,new,"1× BC02 Choc Banana Espresso Cake",1,,59
+"2020-11-10 19:23:29",5289,completed,new,"1× BC01 Red Velvet Cake-8""R",1,welcome10,53.1
+"2020-11-10 19:23:14",5288,completed,new,"1× SP01 Assorted Scone Box, 1× SP01 Savoury Croissant Box, 1× Ondeh Ondeh Cake - 6""R",3,,107
+"2020-11-10 19:03:03",5287,completed,new,"1× BC02 Blueberry Maple Cake",1,,59
+"2020-11-10 18:01:47",5286,completed,new,"4× BC10 Lemon Lust, 2× BB02 Wholemeal Walnut, 1× BB01 Rye Sourdough, 2× KB01 Hearty Meal Box, 1× KB01 Hearty Meal Box",10,,81
+"2020-11-10 17:32:59",5285,completed,new,"1× BC02 Red Velvet Cake",1,,59
+"2020-11-10 16:52:57",5284,completed,returning,"1× BC03 Eggless Carrot Walnut Cake",1,,66
+"2020-11-10 16:38:21",5283,completed,new,"1× Real Dark Chocolate Cake - 6""R, 1× *C01 Assorted Christmas Cookies, 1× SP05 Assorted Danish Box",3,,92
+"2020-11-10 15:53:34",5280,completed,new,"1× BC02 Choc Banana Espresso Cake, 1× SP02 Assorted Mini Pastries",2,,82
+"2020-11-10 15:20:06",5279,completed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,welcome10,53.1
+"2020-11-10 14:52:32",5278,completed,new,"2× BC02 Choc Banana Espresso Cake, 1× *C03 Chocolate Cookies Collection",3,,186
+"2020-11-10 14:51:39",5277,completed,new,"1× BC02 Chocolate Matcha Cake",1,,63
+"2020-11-10 14:44:46",5276,completed,new,"1× BC03 Vegan Earl Grey Belgian Chocolate Berries Cake",1,,63
+"2020-11-10 14:39:29",5275,completed,new,"1× BC02 Lychee Rose Cake",1,,59
+"2020-11-10 14:34:05",5274,processed,new,"1× BC05 Yuzu Raspberry Cheesecake",1,,77
+"2020-11-10 14:09:25",5273,processed,new,"1× *H15 Plant Base Slider Platter, 1× *H08 Christmas Salad, 1× *H01 Rosemary & Butter-Roasted Turkey, 1× *H10 Truffle Portebello Mushroom & Feta Quiche, 1× *A02 Lychee Champagne Logcake, 1× *B03 Christmas Brioche Wreath with Spinach Onion Cheese Dip",6,,399
+"2020-11-10 14:07:28",5272,processed,new,"1× Membership Registration",1,,25
+"2020-11-10 14:02:12",5271,completed,new,"1× BC02 Ondeh Ondeh Cake",1,ty10,56.7
+"2020-11-10 13:57:19",5270,completed,new,"1× BC01 Carrot Walnut Cake - 8""R, 1× BC03 Vegan Earl Grey Belgian Chocolate Berries Cake",2,,122
+"2020-11-10 13:54:04",5269,completed,new,"1× BC02 Chocolate Matcha Cake",1,,63
+"2020-11-10 12:43:07",5268,processed,new,"1× BC01 Red Velvet Cake-8""R",1,,59
+"2020-11-10 12:35:14",5267,completed,new,"1× BC05 Burnt Cheesecake",1,,77
+"2020-11-10 12:16:44",5266,completed,new,"1× BC02 Red Velvet Cake",1,,59
+"2020-11-10 08:25:09",5255,completed,new,"1× BC01 Carrot Walnut Cake - 8""R, 2× BB04 Cinnamon Swirl, 1× BB02 Wholemeal Walnut, 1× BCC1 Almond Crunch Cookie",5,,85.1
+"2020-11-10 00:13:04",5197,completed,new,"1× BC02 Gula Melaka Pandan Cake, 1× BB04 Cinnamon Swirl",2,welcome10,57.78
+"2020-11-09 22:48:57",5196,completed,new,"1× BC02 Carrot Walnut Cake, 1× BB02 Wholemeal 4 Seeds, 2× BC06 Blueberry Crumble Sourcream Cake",4,welcome10,85.41
+"2020-11-09 18:59:19",5168,completed,new,"1× BC01 Carrot Walnut Cake - 8""R, 1× Noah's Apple Watermelon Mint Juice, 1× SP06 Assorted Mini Cheesecake Box [Eggless] [V]",3,welcome10,80.64
+"2020-11-09 18:54:52",5167,completed,new,"1× BC01 Red Velvet Cake-8""R, 1× BB01 Toasted Granola Yoghurt Sourdough, 1× *C06 Tea Cookies Collection",3,welcome10,92.25
+"2020-11-09 18:39:59",5166,completed,new,"1× Ondeh Ondeh Cake - 6""R",1,welcome10,40.5
+"2020-11-09 16:55:53",5159,completed,returning,"2× Cedele Pumpkin Seeds",2,,14
+"2020-11-09 16:50:56",5157,completed,new,"1× BC03 Vegan Earl Grey Belgian Chocolate Berries Cake",1,welcome10,56.7
+"2020-11-09 15:14:13",5149,completed,new,"1× SP01 Assorted Muffin & Scone Box, 1× SP01 Awesome Box, 1× Pulled Pork Avocado Sandwich, 1× Spicy Chicken Yum Pasta, 1× SP01 Croissant & Sweet Box, 2× BC10 Brownie With Walnut",7,welcome10,82.89
+"2020-11-09 14:59:56",5144,completed,new,"2× BC06 Almond Semolina Sugee Butter Cake 500g, 1× BC04 Burnt Cheesecake - 7""R",3,,81
+"2020-11-09 14:49:55",5138,pending,returning,"1× BB03 Onion Olive Coriander",1,welcome10,14.95
+"2020-11-09 14:46:09",5136,completed,new,"1× BC02 Blueberry Maple Cake",1,welcome10,53.1
+"2020-11-09 14:26:44",5131,completed,new,"1× BC02 Ondeh Ondeh Cake",1,,63
+"2020-11-09 12:41:35",5119,completed,new,"1× BB04 Cinnamon Swirl, 1× Garlic & Spring Onion Pull-Apart Loaf, 1× BB04 Hot Cross Buns Bundle, 2× BB02 Wholemeal Walnut, 1× BB04 Milk & Butter Bread, 1× BB04 Tahini Choc Pull-Apart Loaf, 1× *C04 Christmas Biscotti, 1× BB04 Brioche",9,,81.2
+"2020-11-09 11:48:09",5118,completed,new,"2× SP05 Assorted Danish Box, 4× BC09 Carrot Walnut Slice, 1× BP03 Blueberry Crumble Muffin Bundle",7,,82
+"2020-11-09 11:44:48",5117,completed,new,"1× BC02 Chocolate Matcha Cake",1,welcome10,56.7
+"2020-11-09 11:20:11",5116,completed,new,"1× BC02 Gula Melaka Pandan Cake",1,welcome10,53.1
+"2020-11-09 10:56:06",5113,completed,new,"1× BC02 Ondeh Ondeh Cake",1,,45
+"2020-11-09 09:41:30",5082,completed,new,"1× BC04 Burnt Cheesecake - 7""R, 1× BB01 Blue Pea Sourdough, 1× BB01 Wholewheat Sourdough, 1× BB04 Hot Cross Buns Bundle, 1× BP04 Cheese Scallion Scone Bundle",5,,81.5
+"2020-11-09 09:36:08",5079,completed,new,"1× BC03 Vegan Matcha Chocolate Cheesecake",1,,45
+"2020-11-09 09:06:59",5067,completed,new,"1× BC02 Blueberry Maple Cake",1,,59
+"2020-11-09 06:39:54",5056,completed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-08 23:03:34",5039,completed,new,"1× BC02 Choc Banana Espresso Cake",1,,59
+"2020-11-08 22:01:07",5030,completed,new,"1× BC03 Vegan Earl Grey Belgian Chocolate Berries Cake",1,welcome10,56.7
+"2020-11-08 21:24:47",5029,completed,new,"1× BCC1 Almond Crunch Cookie, 1× BC01 Red Velvet Cake-8""R, 1× SP05 Assorted Slice Bar, 1× BCC1 Almond Biscotti, 1× BCC1 Classic Chocolate Chip Cookie",5,welcome10,88.47
+"2020-11-08 21:23:41",5028,completed,new,"1× BC03 Vegan Matcha Chocolate Cheesecake, 1× Coriander Pesto Pasta with Grilled Prawns, 1× Grilled Chicken Garlic Aglio Olio Snack Box, 1× Salmon Grain Bowl Snack Box",4,welcome10,81
+"2020-11-08 21:02:36",5027,completed,new,"1× BC02 Ondeh Ondeh Cake",1,,63
+"2020-11-08 19:52:57",5026,completed,new,"1× BC03 Eggless Carrot Walnut Cake, 1× Strawberry Jam, 1× BB04 Brioche",3,,82
+"2020-11-08 17:16:09",5024,completed,new,"1× BC01 Red Velvet Cake-8""R",1,,59
+"2020-11-08 15:31:27",5023,completed,new,"1× BC01 8"" R - Strawberry Fields Cake",1,,59
+"2020-11-08 12:27:28",5022,completed,new,"1× SP05 Assorted Slice Bar, 1× SP04 Sliders Box- 6pcs, 1× BCC1 Matcha Chocolate Shortbread, 1× BCC1 Chocolate Midnight Cookie, 1× BB04 Hot Cross Buns Bundle",5,,80
+"2020-11-08 11:40:44",5021,completed,new,"1× BC02 Choc Cherry Financier Cake",1,,63
+"2020-11-08 09:57:35",5020,completed,new,"1× SP06 Assorted Mini Cheesecake Box [Eggless] [V], 1× SP04 Assorted Mini Savory Tartlets 12s",2,,54
+"2020-11-07 22:47:56",5017,completed,new,"1× BB04 Cinnamon Swirl, 1× BB04 Tahini Choc Pull-Apart Loaf",2,welcome10,8.99
+"2020-11-07 22:36:39",5015,completed,new,"1× BC03 Vegan Earl Grey Belgian Chocolate Berries Cake",1,welcome10,51.03
+"2020-11-07 22:31:43",5013,completed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,welcome10,47.79
+"2020-11-07 20:39:48",5011,completed,new,"1× SP05 Assorted Muffin Box, 1× Pesto Veggie Garden Box, 1× Spicy Chicken Yum Pasta, 1× Handmade Meatballs Tomato Pasta, 1× BC09 Real Dark Chocolate Slice, 1× BC09 Ondeh Ondeh Slice",6,,80
+"2020-11-07 20:22:59",5010,completed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,welcome10,47.79
+"2020-11-07 19:48:38",5009,completed,returning,"1× SP05 Assorted Danish Box, 2× Garlic & Spring Onion Pull-Apart Loaf, 1× BB04 Tahini Choc Pull-Apart Loaf",4,,40.9
+"2020-11-07 18:30:23",5008,completed,new,"1× Coriander Pesto Pasta with Grilled Prawns, 1× Grilled Chicken Garlic Aglio Olio Snack Box, 1× BC01 Carrot Walnut Cake - 8""R, 1× BP02 Butter Croissant Bundle",4,welcome10,81
+"2020-11-07 17:50:47",5000,completed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-07 17:39:11",4999,completed,new,"1× BC02 Caramel Sea Salt Tiramisu, 1× *C02 Assorted Premium Butter Shortbread",2,welcome10,73.71
+"2020-11-07 16:23:10",4975,completed,new,"1× BC01 Red Velvet Cake-8""R, 2× SP01 Awesome Box",3,,89
+"2020-11-07 15:33:19",4971,completed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,,59
+"2020-11-07 13:20:59",4970,completed,new,"1× BC02 Blueberry Maple Cake",1,,59
+"2020-11-07 12:41:39",4969,completed,new,"1× BC03 Vegan Earl Grey Belgian Chocolate Berries Cake, 2× Remedy Apple Crisp Kombucha",3,welcome10,62.21
+"2020-11-07 12:23:58",4968,completed,new,"1× BC04 Burnt Cheesecake - 7""R",1,,45
+"2020-11-07 11:48:32",4967,completed,new,"1× BC01 6""R - Eggless Chocolate Truffle, 2× BC09 Ondeh Ondeh Slice",3,welcome10,48.6
+"2020-11-07 11:40:19",4966,completed,new,"1× BC06 Cherry Chocolate Pound Cake 500g, 1× BC01 Carrot Walnut Cake - 8""R, 1× BB04 Orange Cranberry Loaf",3,,81.9
+"2020-11-07 09:58:50",4965,completed,new,"1× BC05 Caramel SeaSalt Cheesecake, 1× BC10 Brownie With Walnut",2,,80.8
+"2020-11-07 07:10:48",4962,completed,new,"1× Real Dark Chocolate Cake - 6""R, 1× SP03 Bangers & Mash Box",2,,83
+"2020-11-06 23:35:19",4946,processed,new,"1× Membership Registration",1,,25
+"2020-11-06 23:27:58",4942,processed,new,"2× *C01 Assorted Christmas Cookies, 1× *C06 Tea Cookies Collection",3,,86.5
+"2020-11-06 22:56:38",4933,completed,new,"1× BC07 Orange Cranberry Pound Cake, 1× BC02 Blueberry Maple Cake, 1× BC06 Blueberry Crumble Sourcream Cake",3,welcome10,82.8
+"2020-11-06 22:25:26",4929,completed,new,"1× BP03 2-Berry Muffin Bundle, 1× BCC1 Almond Biscotti, 1× SP04 Sliders Box- 6pcs",3,welcome10,54.72
+"2020-11-06 21:34:17",4928,completed,new,"1× Ondeh Ondeh Cake - 6""R",1,,45
+"2020-11-06 20:52:19",4927,completed,new,"1× BC01 8"" R - Strawberry Fields Cake",1,welcome10,53.1
+"2020-11-06 20:23:52",4926,completed,new,"1× Real Dark Chocolate Cake - 6""R, 1× BB01 Blue Pea Sourdough",2,welcome10,47.25
+"2020-11-06 18:06:50",4921,completed,new,"1× SP04 Sliders Box- 6pcs, 1× SP04 Sliders Box- 6pcs, 1× SP05 Assorted Muffin Box, 1× BC07 Orange Cranberry Pound Cake",4,welcome10,108.9
+"2020-11-06 17:11:28",4916,completed,new,"1× BC02 Caramel Sea Salt Tiramisu",1,ty10,56.7
+"2020-11-06 16:32:57",4915,completed,new,"1× BC02 Real Dark Chocolate Cake, 1× BC02 Red Velvet Cake",2,welcome10,93.6
+"2020-11-06 16:19:45",4914,completed,new,"1× BC08 Pandan Angel Sponge Cake, 1× BB03 White Bloomer, 1× BCC1 Almond Crunch Cookie, 1× BCC1 Raspberry Thumbprint Cookie, 1× BC11 Red Velvet Earl Grey Cupcake, 1× *C05 Christmas Gingerbread Cookies, 1× BC11 Double Chocolate Cupcake",7,welcome10,83.43
+"2020-11-06 16:15:48",4913,processed,new,"1× BC01 8"" R - Chocolate Matcha Cake, 2× Spicy Chicken Yum Pasta, 1× SP04 Assorted Mini Savory Tartlets 12s, 1× SP04 Mini Croissant Sandwiches, 1× Coriander Pesto Pasta with Grilled Prawns",6,welcome10,132.3
+"2020-11-06 15:04:17",4911,pending,new,"1× Grilled Beetroot and Avocado Burger",1,,11
+"2020-11-06 14:28:56",4907,processed,new,"1× BC02 Chocolate Matcha Cake",1,welcome10,56.7
+"2020-11-06 13:13:49",4901,completed,new,"1× Membership Registration",1,welcome10,22.5
+"2020-11-06 11:36:24",4888,completed,new,"2× Veggie Shrooms Thins, 1× BC09 Carrot Walnut Slice, 1× *C01 Assorted Christmas Cookies, 1× BCC1 Chocolate Midnight Cookie, 1× Pulled Pork Avocado Sandwich, 1× BB03 Plain Ciabatta",7,,57.9
+"2020-11-06 08:27:57",4885,processed,new,"1× Membership Registration",1,,25
+"2020-11-06 07:34:13",4884,completed,new,"1× BB02 Wholemeal 4 Seeds, 1× Strawberry Jam, 4× Protein Ball - Cacao Orange",6,welcome10,27.81
+"2020-11-06 05:44:45",4883,completed,new,"1× Ondeh Ondeh Cake - 6""R",1,welcome10,40.5
+"2020-11-06 05:39:11",4882,completed,new,"1× BC02 Red Velvet Cake, 1× BB04 Milk & Butter Bread, 2× Charitea Mate Sparkling Tea, 1× BCC1 Raspberry Thumbprint Cookie",5,,83
+"2020-11-05 22:33:44",4871,completed,new,"1× BC08 Pandan Ogura Cake",1,,32
+"2020-11-05 21:48:29",4870,completed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,welcome10,53.1
+"2020-11-05 21:37:27",4869,completed,new,"1× BC01 8"" R - Chocolate Matcha Cake",1,welcome10,56.7
+"2020-11-05 19:46:04",4868,completed,new,"1× BC02 Peanut Butter Jelly Cake",1,welcome10,57.6
+"2020-11-05 18:55:51",4867,completed,new,"1× BC02 Lychee Rose Cake",1,welcome10,76.5
+"2020-11-05 16:13:20",4865,processed,new,"1× BC02 Black Forest Cake, 1× Coriander Pesto Pasta with Grilled Prawns, 1× Handmade Meatballs Tomato Pasta, 1× Lemongrass Lime Pasta with Glazed Seabass, 1× Salmon Grain Bowl Snack Box, 1× Pesto Veggie Garden Box, 1× BB04 Tahini Choc Pull-Apart Loaf",7,welcome10,122.31
+"2020-11-05 15:17:35",4864,completed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,,59
+"2020-11-05 14:14:22",4861,completed,new,"1× BC05 Choc Cookies & Cream Cheesecake, 1× Pesto Veggie Garden Box, 1× Grilled Chicken Grain Bowl Snack Box, 1× Salmon Grain Bowl Snack Box, 1× Lemongrass Lime Pasta with Glazed Seabass",5,ty10,93.6
+"2020-11-05 13:57:55",4860,completed,new,"1× BC02 Strawberry Fields Cake",1,,59
+"2020-11-05 13:46:59",4859,pending,returning,"1× BC06 Almond Semolina Sugee Butter Cake 500g, 1× BC09 C'mel Sea Salt Cheesecake Slice",2,ty10,22.95
+"2020-11-05 13:30:18",4857,completed,new,"1× BCC1 Almond Biscotti, 1× BB01 Blue Pea Sourdough, 1× BP03 Carrot Walnut Muffin Bundle, 1× BC02 Ondeh Ondeh Cake",4,welcome10,66.87
+"2020-11-05 10:37:35",4856,completed,new,"1× BC02 Choc Banana Espresso Cake",1,welcome10,53.1
+"2020-11-05 10:30:02",4855,pending,new,"1× BC01 Carrot Walnut Cake - 8""R",1,welcome10,53.1
+"2020-11-05 10:05:44",4854,completed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-05 10:00:13",4853,completed,new,"1× BC02 Carrot Walnut Cake",1,welcome10,53.1
+"2020-11-05 09:46:49",4852,completed,new,"1× SP04 Assorted Mini Savory Tartlets 12s, 1× SP04 Assorted Mini Savory Tartlets 12s, 1× SP04 Mini Croissant Sandwiches, 1× SP02 Assorted Mini Pastries, 1× SP04 Mini Croissant Sandwiches",5,,111
+"2020-11-05 08:47:51",4851,completed,new,"1× BC01 6""R - Eggless Chocolate Truffle",1,,45
+"2020-11-05 00:16:56",4845,completed,new,"1× KB01 Hearty Meal Box, 1× KB01 Hearty Meal Box, 1× BC09 Ondeh Ondeh Slice",3,,39.3
+"2020-11-04 21:44:28",4844,completed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-04 20:46:09",4843,completed,new,"1× BC02 Blueberry Maple Cake",1,,59
+"2020-11-04 19:49:04",4842,completed,returning,"3× BC01 Carrot Walnut Cake - 8""R",3,,177
+"2020-11-04 19:21:35",4841,completed,new,"4× BP01 Baby Brioche - Almond Cardamon, 1× Real Dark Chocolate Cake - 6""R",5,welcome10,50.58
+"2020-11-04 18:23:17",4840,completed,new,"1× BC02 Lychee Rose Cake",1,welcome10,53.1
+"2020-11-04 17:43:46",4839,completed,new,"1× BC01 Carrot Walnut Cake - 8""R, 1× BC01 Red Velvet Cake-8""R",2,welcome10,106.2
+"2020-11-04 17:08:18",4835,completed,new,"1× BC02 Caramel Sea Salt Tiramisu",1,welcome10,82.8
+"2020-11-04 16:49:47",4826,completed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,welcome10,53.1
+"2020-11-04 15:47:15",4825,pending,new,"1× Cedele Alkaline Water",1,,1.8
+"2020-11-04 15:40:13",4824,completed,new,"1× BC02 Choc Cherry Financier Cake",1,,63
+"2020-11-04 15:16:25",4823,completed,new,"1× BC02 Real Dark Chocolate Cake",1,welcome10,56.7
+"2020-11-04 15:10:34",4822,completed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,,59
+"2020-11-04 14:29:44",4821,completed,new,"1× BB01 Blue Pea Sourdough, 1× BP04 Cheese Scallion Scone Bundle",2,welcome10,16.65
+"2020-11-04 14:16:24",4820,completed,new,"1× BC06 Cherry Chocolate Pound Cake 500g, 1× BC06 Vanilla Sand Loaf Cake 500g",2,,36
+"2020-11-04 13:52:26",4818,completed,new,"1× Real Dark Chocolate Cake - 6""R, 1× Green Rooibos Tea, 1× Red Rooibos Tea",3,welcome10,54
+"2020-11-04 13:40:41",4817,processed,new,"1× Membership Registration",1,welcome10,22.5
+"2020-11-04 13:12:13",4816,completed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,welcome10,53.1
+"2020-11-04 12:34:38",4815,completed,new,"1× BCC1 Almond Biscotti, 1× BB01 Blue Pea Sourdough, 1× BB04 Hot Cross Buns Bundle, 1× Prawn Otah Cookie, 1× BCC1 Chocolate Midnight Cookie, 1× BB05 Jelly Donuts",6,welcome10,56.07
+"2020-11-04 12:30:40",4814,completed,new,"1× BB04 Milk & Butter Bread, 1× Garlic & Spring Onion Pull-Apart Loaf, 1× BC02 Ondeh Ondeh Cake, 1× BB03 Plain Ciabatta, 1× BCC1 Classic Chocolate Chip Cookie, 1× BP03 Carrot Walnut Muffin Bundle",6,,85.5
+"2020-11-04 12:10:11",4813,completed,new,"1× KB01 Hearty Meal Box, 1× BC02 Carrot Walnut Cake, 1× SP01 Assorted Muffin & Scone Box",3,welcome10,89.91
+"2020-11-04 11:10:44",4812,completed,new,"1× BC02 Real Dark Chocolate Cake",1,welcome10,56.7
+"2020-11-04 10:49:26",4811,completed,new,"1× BC02 Chocolate Matcha Cake",1,welcome10,56.7
+"2020-11-04 10:48:51",4810,processed,new,"1× SP02 Relaxing Tea Platter, 1× SP02 Relaxing Tea Platter, 1× SP06 Assorted Mini Cheesecake Box [Eggless] [V]",3,,156
+"2020-11-04 09:45:12",4809,completed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-04 09:41:02",4808,completed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-04 09:38:21",4807,completed,new,"1× Spicy Chicken Yum Pasta, 1× Coriander Pesto Pasta with Grilled Prawns, 1× Real Dark Chocolate Cake - 6""R, 1× BB04 Tahini Choc Pull-Apart Loaf, 1× Lemongrass Lime Pasta with Glazed Seabass",5,welcome10,82.71
+"2020-11-04 08:20:52",4806,completed,new,"1× BC02 Ondeh Ondeh Cake",1,welcome10,40.5
+"2020-11-04 08:20:14",4805,completed,new,"1× BC02 Chocolate Fudge Cake",1,,63
+"2020-11-03 21:34:37",4798,completed,new,"1× BC01 8''R - Gula Melaka Pandan Cake",1,,59
+"2020-11-03 17:52:55",4796,pending,new,"1× BB01 Rye Sourdough",1,,16.3
+"2020-11-03 17:40:43",4795,processed,new,"1× BC02 Gula Melaka Pandan Cake",1,welcome10,53.1
+"2020-11-03 17:09:52",4793,completed,new,"1× BC02 Real Dark Chocolate Cake",1,welcome10,56.7
+"2020-11-03 16:57:22",4792,completed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,welcome10,53.1
+"2020-11-03 16:44:48",4791,completed,new,"1× BC02 Ondeh Ondeh Cake",1,welcome10,56.7
+"2020-11-03 16:38:47",4790,completed,new,"1× BB04 Cinnamon Swirl, 1× BB01 Toasted Granola Yoghurt Sourdough",2,welcome10,11.43
+"2020-11-03 16:06:55",4789,completed,new,"1× BC02 Eggless Chocolate Truffle",1,welcome10,40.5
+"2020-11-03 15:08:33",4788,completed,new,"1× BC05 Yuzu Raspberry Cheesecake, 1× BB04 Cinnamon Swirl, 1× BB02 Wholemeal Walnut, 1× BB01 Wholewheat Sourdough, 1× BC06 Cherry Chocolate Pound Cake 500g, 1× SP01 Awesome Box",6,welcome10,86.04
+"2020-11-03 15:04:04",4787,completed,new,"1× Spicy Chicken Yum Pasta, 2× Noah's Apple Watermelon Mint Juice, 1× Lemongrass Lime Pasta with Glazed Seabass, 1× BC02 Real Dark Chocolate Cake",5,,81.2
+"2020-11-03 14:46:56",4785,completed,new,"1× BC02 Blueberry Maple Cake",1,,59
+"2020-11-03 14:39:11",4784,completed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,birlky045,50.15
+"2020-11-03 14:17:35",4782,completed,returning,"1× Grilled Chicken Grain Bowl Snack Box",1,,15
+"2020-11-03 14:07:32",4781,completed,new,"1× BC02 Choc Cherry Financier Cake",1,welcome10,82.8
+"2020-11-03 13:51:29",4780,completed,new,"2× Grilled Chicken Grain Bowl Snack Box, 1× Salmon Grain Bowl Snack Box, 1× Smoked Salmon Sandwich",4,,55.5
+"2020-11-03 13:27:59",4779,completed,new,"1× BC05 Caramel SeaSalt Cheesecake",1,welcome10,40.5
+"2020-11-03 12:44:38",4778,completed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,,59
+"2020-11-03 10:59:39",4775,pending,new,"1× BP03 2-Berry Muffin Bundle",1,,12
+"2020-11-03 09:53:34",4774,completed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,,59
+"2020-11-03 09:29:59",4773,completed,new,"1× BB01 Rye Sourdough, 2× BB02 Wholemeal 4 Seeds, 1× BB01 Blue Pea Sourdough, 1× BP03 Carrot Walnut Muffin Bundle",5,welcome10,33.84
+"2020-11-03 09:15:18",4771,completed,new,"1× Real Dark Chocolate Cake - 6""R, 1× BC01 Red Velvet Cake-8""R",2,,114
+"2020-11-03 09:01:57",4770,completed,new,"1× BC08 Pandan Ogura Cake",1,welcome10,28.8
+"2020-11-03 07:15:25",4769,completed,new,"1× BC01 8"" R - Strawberry Fields Cake",1,welcome10,53.1
+"2020-11-03 07:14:54",4768,completed,new,"1× BC04 Burnt Cheesecake - 7""R",1,,45
+"2020-11-02 22:32:37",4766,completed,new,"1× BC02 Lychee Rose Cake",1,,59
+"2020-11-02 22:31:12",4765,completed,new,"1× BC02 Lychee Rose Cake",1,,85
+"2020-11-02 19:58:15",4764,completed,returning,"1× BC02 Blue Pea Coconut Cake, 1× BC01 8"" R - Strawberry Fields Cake",2,,122
+"2020-11-02 19:28:23",4763,completed,returning,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-02 19:13:04",4762,completed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-02 18:29:15",4761,completed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,,59
+"2020-11-02 17:23:58",4760,completed,new,"1× BC01 6""R - Eggless Chocolate Truffle",1,,45
+"2020-11-02 16:42:27",4758,completed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-02 16:21:18",4757,completed,new,"1× BC01 8"" R - Chocolate Matcha Cake",1,welcome10,56.7
+"2020-11-02 15:19:39",4756,pending,returning,"1× BB04 Milk & Butter Bread",1,,5.8
+"2020-11-02 15:01:59",4754,completed,new,"1× Ondeh Ondeh Cake - 6""R",1,,45
+"2020-11-02 14:45:57",4753,completed,new,"1× BC02 Caramel Sea Salt Tiramisu",1,birwpp728,53.55
+"2020-11-02 13:55:31",4752,pending,returning,"1× Membership Registration",1,,35
+"2020-11-02 13:54:42",4751,pending,returning,"1× BP04 Raspberry Almond Scone Bundle",1,,22
+"2020-11-02 13:05:49",4749,completed,returning,"1× BC01 8"" R - Chocolate Matcha Cake, 1× SP05 Assorted Danish Box, 1× BC09 Ondeh Ondeh Slice, 1× BC09 Red Velvet Slice",4,welcome10,87.75
+"2020-11-02 12:54:00",4748,completed,new,"1× Membership Registration",1,,25
+"2020-11-02 06:58:04",4742,completed,returning,"1× BC05 Blueberry Hazelnut Cheesecake",1,,59
+"2020-11-02 06:53:24",4741,pending,new,"1× BC05 Blueberry Hazelnut Cheesecake",1,,59
+"2020-11-02 00:36:28",4740,completed,new,"1× Ondeh Ondeh Cake - 6""R, 1× Real Dark Chocolate Cake - 6""R, 1× BC04 Burnt Cheesecake - 7""R",3,,135
+"2020-11-01 22:32:10",4739,completed,new,"1× BC03 Eggless Carrot Walnut Cake",1,,66
+"2020-11-01 20:59:58",4738,pending,returning,"6× BP03 2-Berry Muffin Bundle",6,,72
+"2020-11-01 20:38:15",4737,completed,new,"1× BC01 Carrot Walnut Cake - 8""R, 1× Charitea Green Iced Tea",2,,63.2
+"2020-11-01 20:26:12",4736,completed,new,"1× BC02 Real Dark Chocolate Cake",1,welcome10,56.7
+"2020-11-01 19:44:57",4735,completed,new,"3× BB02 Wholemeal Walnut, 2× BB01 Wholewheat Sourdough, 1× Lemongrass Lime Pasta with Glazed Seabass, 1× Rosemary Chicken Sandwich",7,,54.2
+"2020-11-01 19:30:48",4734,completed,new,"1× Real Dark Chocolate Cake - 6""R",1,welcome10,40.5
+"2020-11-01 18:58:46",4733,pending,new,"1× SP04 Assorted Mini Savory Tartlets 12s",1,,28
+"2020-11-01 18:49:55",4732,completed,new,"1× BB04 Cinnamon Swirl, 2× BB01 Blue Pea Sourdough",3,,20.2
+"2020-11-01 17:40:32",4731,completed,new,"1× BC02 Black Forest Cake",1,,59
+"2020-11-01 17:03:18",4730,completed,new,"1× BC01 Carrot Walnut Cake - 8""R",1,,59
+"2020-11-01 15:28:36",4729,completed,new,"1× BB04 Cinnamon Swirl, 1× BC02 Carrot Walnut Cake",2,,64.2
+"2020-11-01 15:27:14",4728,completed,new,"1× BC02 Strawberry Fields Cake",1,,59
+"2020-11-01 14:33:42",4727,completed,new,"1× BC02 Red Velvet Cake",1,,59
+"2020-11-01 14:28:13",4726,pending,returning,"1× BC09 Real Dark Chocolate Slice",1,welcome10,6.75
+"2020-11-01 14:21:42",4725,pending,returning,"3× Coriander Pesto Pasta with Grilled Prawns, 3× Grilled Chicken Grain Bowl Snack Box, 3× Lemongrass Lime Pasta with Glazed Seabass",9,,139
+"2020-11-01 14:11:14",4724,completed,new,"1× BC01 Red Velvet Cake-8""R",1,,59
+"2020-11-01 12:59:43",4722,completed,new,"1× BC01 6""R - Eggless Chocolate Truffle",1,,45
+"2020-11-01 12:54:22",4721,completed,new,"1× Ondeh Ondeh Cake - 6""R",1,,45
+"2020-11-01 12:54:08",4720,completed,new,"1× Spicy Chicken Yum Pasta, 1× BC01 8"" R - Chocolate Matcha Cake, 1× Grilled Chicken Garlic Aglio Olio Snack Box",3,welcome10,81.9
+"2020-11-01 12:21:21",4719,completed,returning,"1× Ondeh Ondeh Cake - 6""R",1,,45
+"2020-11-01 12:08:44",4718,completed,returning,"1× Ondeh Ondeh Cake - 6""R",1,,45
+"2020-11-01 12:07:40",4717,completed,new,"1× BC02 Choc Banana Espresso Cake, 2× BCC1 Chocolate Midnight Cookie, 1× BC10 Cherry Pistachio",4,,80.7
+"2020-11-01 11:53:20",4716,completed,new,"1× SP04 Assorted Mini Savory Tartlets 12s, 1× SP01 Assorted Scone Box, 1× SP06 Assorted Mini Cheesecake Box [Eggless] [V], 1× BCC1 Classic Chocolate Chip Cookie",4,,98.8
+"2020-11-01 11:52:09",4715,completed,returning,"1× Real Dark Chocolate Cake - 6""R",1,,45
+"2020-11-01 11:44:51",4714,completed,new,"1× Ondeh Ondeh Cake - 6""R",1,welcome10,40.5
+"2020-11-01 11:28:50",4713,completed,new,"1× BC02 Carrot Walnut Cake",1,,59
+"2020-11-01 10:59:53",4712,completed,new,"1× Real Dark Chocolate Cake - 6""R",1,,45
+"2020-11-01 10:49:24",4711,completed,new,"1× BC02 Ondeh Ondeh Cake",1,,45
+"2020-11-01 10:33:59",4710,completed,new,"1× BC05 Yuzu Raspberry Cheesecake",1,,45
+"2020-11-01 10:25:47",4709,completed,new,"1× BC05 Caramel SeaSalt Cheesecake",1,,45
+"2020-11-01 10:23:34",4708,completed,new,"1× BC02 Ondeh Ondeh Cake",1,,45
+"2020-11-01 09:39:55",4707,completed,new,"3× Coriander Pesto Pasta with Grilled Prawns, 3× Grilled Chicken Grain Bowl Snack Box, 3× Lemongrass Lime Pasta with Glazed Seabass",9,welcome10,126.1
+"2020-11-01 08:19:53",4703,completed,new,"1× KB01 Hearty Sandwich Set, 1× KB01 Hearty Sandwich Set, 1× Rosemary Chicken Sandwich",3,,34.5

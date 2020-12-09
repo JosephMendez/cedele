@@ -1,0 +1,185 @@
+.frmyCoupon {
+  width: 100%;
+}
+/* coupon */
+.frmyCoupon__section--header-title {
+  font-family: 'Gotham Regular', -apple-system, san-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 34px;
+  line-height: 32px;
+  color: #000000;
+  margin: 0px;
+  margin-bottom: 32px;
+}
+.frmyCoupon__section--list-coupons {
+  width: 100%;
+  display: grid;
+  grid-gap: 30px;
+  grid-template-columns: auto auto auto;
+  margin-bottom: 32px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+.frmyCoupon__section--pagination {
+  margin-bottom: 50px;
+}
+.frmyCoupon__section--border {
+  width: 100%;
+  border-top: 2px solid #914204;
+}
+
+.frmyCoupon__section--coupon-item {
+  background: #D79494;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+  padding: 16px;
+  position: relative;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.frmyCoupon__section--coupon-item .frmyCoupon__section--layer-decorate {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0px;
+  left: 0px;
+  border-radius: 4px;
+  border: 2px solid transparent;
+}
+.frmyCoupon__section--coupon-item .frmyCoupon__section--layer-decorate img {
+  position: absolute;
+  height: 100%;
+  right: -10px;
+  top: 0px;
+}
+.frmyCoupon__section--coupon-item:hover .frmyCoupon__section--layer-decorate,
+.frmyCoupon__section--coupon-item:active .frmyCoupon__section--layer-decorate {
+  border: 2px solid #914204;
+  overflow: hidden;
+}
+.frmyCoupon__section--coupon-item.expired_date {
+  background: gray !important;
+}
+.frmyCoupon__section--coupon-item.expired_date .frmyCoupon__section--coupon-text {
+  background: silver !important;
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+.frmyCoupon__section--coupon-item.coupon2 {
+    background: #E7D8C3;
+}
+.frmyCoupon__section--coupon-item.coupon3 {
+    background: #5FB8B6;
+}
+
+.frmyCoupon__section--coupon-name {
+	position: relative;
+  font-family: 'Gotham Regular', -apple-system, san-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 22px;
+  /* identical to box height, or 110% */
+
+  display: flex;
+  align-items: flex-end;
+  color: #000000;
+  margin-bottom: 8px;
+	z-index: 1;
+}
+/* */
+.frmyCoupon__section--coupon-ticket {
+	position: relative;
+  text-align: center;
+  width: 100%;
+	z-index: 1;
+}
+.frmyCoupon__section--coupon-ticketsub {
+  width: 100%;
+  height: 36px;
+  border: 1px solid #AAAAAA;
+  box-sizing: border-box;
+  border-radius: 4px;
+  overflow: hidden;
+  display: flex;
+  margin-bottom: 8px;
+}
+.frmyCoupon__section--coupon-icon {
+  width: 36px;
+  height: 36px;
+  background-color: #AD8850;
+}
+
+.frmyCoupon__section--coupon-text {
+  font-family: 'Gotham Regular', -apple-system, san-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 34px;
+  text-align: left;
+  text-transform: uppercase;
+  color: #914204;
+  width: 100%;
+  background: white;
+	padding-left: 10px;
+}
+@media only screen and (max-width: 600px) {
+	.frmyCoupon__section--coupon-text {
+		font-size: 12px;
+	}
+}
+
+/* */
+.frmyCoupon__section--coupon-item-expired-date {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: left;
+  color: #3F3F3F;
+	margin: 0;
+}
+
+/* pagination */
+.frmyCoupon__section--pagination {
+
+}
+
+@media (max-width: 374px) {
+  .frmyCoupon__section--list-coupons {
+    grid-template-columns: auto auto;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 375px) and (max-width: 575px) {
+  .frmyCoupon__section--list-coupons {
+    grid-template-columns: auto auto;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 575px) {
+	.frmyCoupon__section--coupon-item {
+		padding: 10px;
+	}
+}
+
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+}
+
+@media (min-width: 992px) and (max-width: 1399px) {
+}
+
+@media (min-width: 1400px) {
+}
